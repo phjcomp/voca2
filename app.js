@@ -227,9 +227,11 @@ function nextCard() {
     isFlipped = false;
     currentWord = getNextWord();
     
-    // Reset classes
+    // Reset classes and scroll position
     document.body.className = 'state-front';
     dom.backDetails.style.display = 'none';
+    dom.backDetails.scrollTop = 0;
+    dom.controlsFront.style.display = 'none';
     dom.controlsBack.style.display = 'none';
     dom.controlsFront.style.display = 'flex';
     
