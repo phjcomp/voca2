@@ -153,7 +153,9 @@ function loadLocalData() {
 
 function updateProgressUI() {
     const total = allWords.length;
-    const learned = Object.keys(userData.reviews).filter(id => userData.reviews[id].interval > 0).length;
+    // Only count words that have been pushed to at least 1 day in the future
+    const M_DAY = 24 * 60 * 60 * 1000;
+    const learned = Object.keys(userData.reviews).filter(id => userData.reviews[id].interval >= M_DAY).length;
     dom.progress.innerText = `${learned} / ${total} Mastered`;
 }
 
@@ -213,7 +215,7 @@ function processAnswer(rating) {
         rev.interval = 12 * 60 * M_MINUTE; // 12 hours
     } else if (rating === 'unknown') { // Right Swipe
         rev.step = 0;
-        rev.interval = 5 * M_MINUTE; // See it again very soon in this session
+        rev.interval = 10 * M_MINUTE; // See it again in 10 minutes
     }
     
     rev.nextReview = now + rev.interval;
