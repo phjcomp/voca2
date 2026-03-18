@@ -174,7 +174,7 @@ button {
 
 .target-word {
     font-family: var(--font-serif);
-    font-size: 4rem;
+    font-size: 3.6rem;
     font-weight: 700;
     line-height: 1.1;
     letter-spacing: -0.02em;
@@ -338,6 +338,21 @@ button {
 }
 .quiz-btn.correct { background-color: rgba(127, 223, 112, 0.2); border-color: #7fdf70; }
 .quiz-btn.wrong { background-color: rgba(255, 100, 100, 0.2); border-color: #ff6464; }
+
+.quiz-word-reveal {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-main);
+    margin-bottom: 6px;
+    font-family: var(--font-serif);
+    letter-spacing: 0.02em;
+}
+.quiz-def {
+    font-size: 1rem;
+    line-height: 1.4;
+    color: var(--text-faded);
+}
+.quiz-btn.correct .quiz-def, .quiz-btn.wrong .quiz-def { color: var(--text-main); }
 
 .quiz-word-reveal {
     font-size: 1.15rem;

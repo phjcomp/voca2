@@ -195,7 +195,7 @@ function getNextWord() {
     return allWords[Math.floor(Math.random() * allWords.length)];
 }
 
-function processAnswer(rating) {
+function gradeAnswer(rating) {
     if (!currentWord) return;
     const id = currentWord.id;
     let rev = userData.reviews[id] || { step: 0, interval: 0, nextReview: 0 };
@@ -223,6 +223,10 @@ function processAnswer(rating) {
     userData.reviews[id] = rev;
     
     syncDataToCloud();
+}
+
+function processAnswer(rating) {
+    gradeAnswer(rating);
     nextCard();
 }
 
