@@ -314,15 +314,19 @@ button {
 .quiz-options {
     display: flex;
     flex-direction: column;
-    gap: 12px;
-    margin-top: 2rem;
+    gap: 10px;
+    margin-top: 1rem;
     width: 100%;
+    max-height: 60vh;
+    overflow-y: auto;
+    padding-bottom: 1rem;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
-.quiz-options.hidden {
-    display: none;
-}
+.quiz-options::-webkit-scrollbar { display: none; }
+
 .quiz-btn {
-    padding: 16px;
+    padding: 12px 16px;
     border: 1.5px solid var(--border-color);
     border-radius: 12px;
     background: transparent;
@@ -332,6 +336,10 @@ button {
     text-align: left;
     transition: all 0.2s;
     width: 100%;
+    flex-shrink: 0;
+}
+.quiz-options.hidden {
+    display: none;
 }
 .quiz-btn:active {
     transform: scale(0.98);

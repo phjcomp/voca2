@@ -363,6 +363,11 @@ function generateQuiz() {
                 nextCard();
             };
             dom.quizOptions.appendChild(nextBtn);
+            
+            // Auto-scroll to the bottom so the Next button is always visible
+            setTimeout(() => {
+                dom.quizOptions.scrollTop = dom.quizOptions.scrollHeight;
+            }, 50);
         };
         dom.quizOptions.appendChild(btn);
     });
