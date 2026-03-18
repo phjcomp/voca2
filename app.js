@@ -62,6 +62,7 @@ const dom = {
     controlsBack: document.getElementById('controls-back'),
     
     btnLogin: document.getElementById('btn-login'),
+    btnLogout: document.getElementById('btn-logout'),
     btnAudio: document.getElementById('btn-audio'),
     btnMode: document.getElementById('btn-mode'),
     quizOptions: document.getElementById('quiz-options'),
