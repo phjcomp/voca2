@@ -64,7 +64,8 @@ const dom = {
     btnLogin: document.getElementById('btn-login'),
     btnLogout: document.getElementById('btn-logout'),
     btnAudio: document.getElementById('btn-audio'),
-    btnMode: document.getElementById('btn-mode'),
+    modeStudy: document.getElementById('mode-study'),
+    modeQuiz: document.getElementById('mode-quiz'),
     quizOptions: document.getElementById('quiz-options'),
     
     btnKnown: document.getElementById('btn-known'),
@@ -243,12 +244,16 @@ function nextCard() {
     dom.quizOptions.innerHTML = '';
     
     if (isQuizMode) {
-        dom.btnMode.innerText = 'Study';
+        dom.modeStudy.classList.remove('active');
+        dom.modeQuiz.classList.add('active');
+        
         dom.quizOptions.classList.remove('hidden');
         dom.controlsFront.style.display = 'none';
         generateQuiz();
     } else {
-        dom.btnMode.innerText = 'Quiz';
+        dom.modeQuiz.classList.remove('active');
+        dom.modeStudy.classList.add('active');
+        
         dom.quizOptions.classList.add('hidden');
         dom.controlsFront.style.display = 'flex';
     }
@@ -359,8 +364,16 @@ function attachEventListeners() {
         }
     });
 
-    dom.btnMode.addEventListener('click', () => {
-        isQuizMode = !isQuizMode;
+    // Mode Toggle
+    dom.modeStudy.addEventListener('click', () => {
+        if (!isQuizMode) return;
+        isQuizMode = false;
+        nextCard();
+    });
+    
+    dom.modeQuiz.addEventListener('click', () => {
+        if (isQuizMode) return;
+        isQuizMode = true;
         nextCard();
     });
 

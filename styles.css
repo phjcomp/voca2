@@ -290,19 +290,25 @@ button {
     align-items: center;
 }
 
-.mode-btn {
-    padding: 6px 16px;
+.mode-toggle {
+    display: flex;
+    background-color: rgba(240, 240, 240, 0.08);
     border-radius: 999px;
-    border: 1.5px solid var(--border-color);
-    font-size: 0.9rem;
-    font-weight: 600;
-    background: transparent;
-    color: var(--text-main);
-    transition: all 0.2s;
-    cursor: pointer;
+    padding: 4px;
+    border: 1px solid var(--border-color);
 }
-.mode-btn:active {
-    transform: scale(0.95);
+.toggle-option {
+    padding: 4px 16px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-faded);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.toggle-option.active {
+    background-color: var(--text-main);
+    color: var(--bg-front);
 }
 
 .quiz-options {
