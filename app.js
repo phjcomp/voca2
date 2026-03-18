@@ -177,7 +177,7 @@ function getNextWord() {
     
     for (const w of allWords) {
         const reviewData = userData.reviews[w.id];
-        if (reviewData) {
+        if (reviewData && reviewData.interval > 0) {
             // Collect all due reviews for priority 1
             if (reviewData.nextReview <= now) {
                 dueReviews.push(w);
