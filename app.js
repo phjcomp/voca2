@@ -264,6 +264,9 @@ function nextCard() {
         
         dom.quizOptions.classList.remove('hidden');
         dom.controlsFront.style.display = 'none';
+        
+        dom.cardTrigger.style.flex = "0 0 auto";
+        
         generateQuiz();
     } else {
         dom.modeQuiz.classList.remove('active');
@@ -271,6 +274,8 @@ function nextCard() {
         
         dom.quizOptions.classList.add('hidden');
         dom.controlsFront.style.display = 'flex';
+        
+        dom.cardTrigger.style.flex = "1";
     }
     
     // Populate Front
