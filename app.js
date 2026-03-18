@@ -168,7 +168,7 @@ function updateProgressUI() {
         }
     }
     
-    dom.progress.innerText = `🔥 ${dueCount} 복습 대기  |  👀 ${seen} / ${total} 학습중`;
+    dom.progress.innerText = `🔥 ${dueCount} Due  |  👀 ${seen} / ${total} Seen`;
 }
 
 /* 
