@@ -154,10 +154,21 @@ function loadLocalData() {
 
 function updateProgressUI() {
     const total = allWords.length;
-    // Only count words that have been pushed to at least 1 day in the future
-    const M_DAY = 24 * 60 * 60 * 1000;
-    const learned = Object.keys(userData.reviews).filter(id => userData.reviews[id].interval >= M_DAY).length;
-    dom.progress.innerText = `${learned} / ${total} Mastered`;
+    const now = Date.now();
+    
+    // Seen: words that have been reviewed at least once
+    const seen = Object.keys(userData.reviews).length;
+    
+    // Due: words that need to be reviewed right now
+    let dueCount = 0;
+    for (const w of allWords) {
+        const reviewData = userData.reviews[w.id];
+        if (reviewData && reviewData.nextReview <= now) {
+            dueCount++;
+        }
+    }
+    
+    dom.progress.innerText = `🔥 ${dueCount} 복습 대기  |  👀 ${seen} / ${total} 학습중`;
 }
 
 /* 
