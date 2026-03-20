@@ -175,13 +175,29 @@ function updateProgressUI() {
     // Known: step >= 1 (Got correct at least once)
     const known = Object.keys(userData.reviews).filter(id => userData.reviews[id].step >= 1).length;
     
-    // Seen: seenCount > 0 or has interval (fallback for old data)
-    const seen = Object.keys(userData.reviews).filter(id => {
-        const rev = userData.reviews[id];
-        return (rev.seenCount && rev.seenCount > 0) || rev.interval > 0;
-    }).length;
+    // Calculate cycles/turns based on the minimum seenCount across ALL words.
+    let minSeen = Infinity;
+    for (const w of allWords) {
+        const rev = userData.reviews[w.id];
+        // Handle fallback for old data
+        const sc = (rev && (rev.seenCount || rev.interval > 0)) ? (rev.seenCount || 1) : 0;
+        if (sc < minSeen) minSeen = sc;
+    }
+    if (minSeen === Infinity) minSeen = 0; // Fallback
     
-    dom.progress.innerText = `${known} Known  |  ${seen} / ${total} Seen`;
+    // Progress for the *current* turn.
+    let currentTurnSeen = 0;
+    for (const w of allWords) {
+        const rev = userData.reviews[w.id];
+        const sc = (rev && (rev.seenCount || rev.interval > 0)) ? (rev.seenCount || 1) : 0;
+        if (sc > minSeen) {
+            currentTurnSeen++;
+        }
+    }
+    
+    const turnStr = `(Turn ${minSeen + 1})`;
+    
+    dom.progress.innerText = `${known} Known  |  ${turnStr} ${currentTurnSeen} / ${total} Seen`;
 }
 
 /* 
