@@ -41,21 +41,6 @@ let isFlipped = false;
 let isSyncing = false;
 let isQuizMode = true;
 
-const FUNNY_NEXT_PHRASES = [
-    "Next Victim ➔",
-    "Hit Me ➔",
-    "Brain Juice++ 🤯",
-    "More Words! 🧠",
-    "I'm on Fire 🔥",
-    "Bring it on 👊",
-    "Level Up 🍄",
-    "Gimme More ➔",
-    "Feed my Brain 🧟",
-    "Easy Peasy 🍋",
-    "Another One! ☝️",
-    "Next Boss Fight ⚔️"
-];
-
 // DOM Elements
 const views = {
     loading: document.getElementById('loading-view'),
@@ -372,14 +357,6 @@ function generateQuiz() {
                 wordSpan.innerText = `👉 ${bOpt.word}`;
                 b.insertBefore(wordSpan, b.firstChild);
             });
-            
-            // Randomize funny Next button text
-            dom.btnNextQuiz.innerText = FUNNY_NEXT_PHRASES[Math.floor(Math.random() * FUNNY_NEXT_PHRASES.length)];
-            
-            // Remove and re-add the element to re-trigger CSS animation
-            dom.btnNextQuiz.style.animation = 'none';
-            dom.btnNextQuiz.offsetHeight; /* trigger reflow */
-            dom.btnNextQuiz.style.animation = '';
             
             dom.controlsQuiz.style.display = 'flex';
         };

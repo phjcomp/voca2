@@ -119,30 +119,6 @@ button {
     transform: scale(0.95);
 }
 
-/* Funny Next Button Animations */
-@keyframes popAndWiggle {
-    0% { transform: scale(0.5) translateY(20px); opacity: 0; }
-    50% { transform: scale(1.1) translateY(-5px); opacity: 1; }
-    75% { transform: scale(0.95) translateY(2px); }
-    100% { transform: scale(1) translateY(0); opacity: 1; }
-}
-
-#btn-next-quiz {
-    animation: popAndWiggle 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
-    transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), background-color 0.2s;
-    transform-origin: center center;
-}
-
-#btn-next-quiz:hover {
-    transform: scale(1.05) rotate(-3deg);
-    background-color: #ffda5a;
-    color: var(--bg-front);
-}
-
-#btn-next-quiz:active {
-    transform: scale(0.9) rotate(5deg) !important;
-}
-
 .icon-btn {
     display: flex;
     align-items: center;
