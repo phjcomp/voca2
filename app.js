@@ -195,7 +195,7 @@ function updateProgressUI() {
         }
     }
     
-    dom.progress.innerText = `✅ ${known}  |  🔄 T${minSeen + 1}: ${currentTurnSeen}/${total}`;
+    dom.progress.innerText = `${known} Known | Turn ${minSeen + 1}: ${currentTurnSeen}/${total} Seen`;
 }
 
 /* 
@@ -394,8 +394,8 @@ function generateQuiz() {
                 wordSpan.className = 'quiz-word-reveal';
                 
                 // Add pronunciation display logic
-                let pronunStr = bOpt.pronunciation ? ` (${bOpt.pronunciation})` : '';
-                wordSpan.innerText = `👉 ${bOpt.word}${pronunStr}`;
+                let pronunStr = bOpt.pronunciation ? ` <span class="quiz-pronun">(${bOpt.pronunciation})</span>` : '';
+                wordSpan.innerHTML = `👉 ${bOpt.word}${pronunStr}`;
                 
                 b.insertBefore(wordSpan, b.firstChild);
             });

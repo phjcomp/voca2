@@ -378,3 +378,10 @@ button {
         border-inline: 1px solid var(--border-color);
     }
 }
+
+
+.quiz-pronun {
+    font-size: 0.8em;
+    font-weight: normal;
+    opacity: 0.85;
+}
