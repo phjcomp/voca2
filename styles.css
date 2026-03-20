@@ -321,7 +321,10 @@ button {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     padding-bottom: 2rem;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
+.quiz-options::-webkit-scrollbar { display: none; }
 
 .quiz-btn {
     padding: 12px 16px;
