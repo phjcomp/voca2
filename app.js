@@ -349,14 +349,21 @@ function flipCard() {
 function generateQuiz() {
     let quizAnswered = false;
     let options = [];
-    options.push({ text: currentWord.definition, correct: true, word: currentWord.word });
+    options.push({ text: currentWord.definition, correct: true, word: currentWord.word, pronunciation: currentWord.pronunciation });
     
-    let candidates = allWords.filter(w => w.id !== currentWord.id);
+    // Strict POS Matching Filtering
+    let candidates = allWords.filter(w => w.id !== currentWord.id && w.pos === currentWord.pos);
+    
+    // Fallback if not enough matches found
+    if (candidates.length < 3) {
+        candidates = allWords.filter(w => w.id !== currentWord.id);
+    }
+    
     candidates.sort(() => 0.5 - Math.random());
     
     for (let i = 0; i < 3; i++) {
         let cw = candidates[i];
-        options.push({ text: cw.definition, correct: false, word: cw.word });
+        options.push({ text: cw.definition, correct: false, word: cw.word, pronunciation: cw.pronunciation });
         
         // Count as "Seen" because it was presented as an option
         let r = userData.reviews[cw.id] || { step: 0, interval: 0, nextReview: 0 };
@@ -387,7 +394,11 @@ function generateQuiz() {
                 
                 const wordSpan = document.createElement('div');
                 wordSpan.className = 'quiz-word-reveal';
-                wordSpan.innerText = `👉 ${bOpt.word}`;
+                
+                // Add pronunciation display logic
+                let pronunStr = bOpt.pronunciation ? ` (${bOpt.pronunciation})` : '';
+                wordSpan.innerText = `👉 ${bOpt.word}${pronunStr}`;
+                
                 b.insertBefore(wordSpan, b.firstChild);
             });
             

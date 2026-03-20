@@ -516,7 +516,7 @@
     "id": "word_45",
     "word": "ALLUSION",
     "pronunciation": "uh LOO zhun",
-    "pos": "an",
+    "pos": "adj",
     "definition": "indirect reference (often to a literary work); a hint. To allude to something is to refer to it indirectly.",
     "examples": [
       "When Ralph said, \"I sometimes wonder whether to be or not to be,\" he was alluding to a famous line in Hamlet. If Ralph had said, \"As Hamlet said, 'To be or not to be, that is the question,\" his statement would have been a direct reference, not an allusion. An allusion is an allusion only if the source isn't identified directly. Anything else is a reference or a quotation.",
@@ -4038,7 +4038,7 @@
     "id": "word_343",
     "word": "FACETIOUS",
     "pronunciation": "fuh SEE shus",
-    "pos": "clumsily",
+    "pos": "adj",
     "definition": "humorous adj humorous; not serious;",
     "examples": [
       "David was sent to the principal's office for making a facetious remark about the intelligence of the French teacher.",
@@ -6481,7 +6481,7 @@
     "id": "word_546",
     "word": "OBSEQUIOUS",
     "pronunciation": "ub SEE kwee us",
-    "pos": "sucking",
+    "pos": "adj",
     "definition": "up to",
     "examples": [
       "Ann's assistant was so obsequious that she could never tell what he really thought about anything.",
@@ -7824,7 +7824,7 @@
     "id": "word_659",
     "word": "RAMIFICATION",
     "pronunciation": "ram uh fuh KAY shun",
-    "pos": "a",
+    "pos": "n",
     "definition": "consequence; a branching out A tree could be said to ramify (RAM i fye), or branch out, as it grows. A ramification is a consequence that grows out of something in the same way that a tree branch grows out of a tree trunk.",
     "examples": [
       "The professor found a solution to the problem, but there are many ramifications. Some experts are afraid that she has created more problems than she has solved."
@@ -8278,7 +8278,7 @@
     "id": "word_696",
     "word": "RUDIMENTARY",
     "pronunciation": "roo duh MEN tuh ree",
-    "pos": "unformed",
+    "pos": "n",
     "definition": "or undeveloped adj basic; crude;",
     "examples": [
       "The boy who had lived with wolves for fifteen years lacked even the most rudimentary social skills.",
@@ -9803,7 +9803,7 @@
     "id": "word_825",
     "word": "ABSTRACT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Theoretical, lacking substance (the opposite of concrete)",
     "examples": [],
     "explanation": ""
@@ -9812,7 +9812,7 @@
     "id": "word_826",
     "word": "AESTHETIC",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Having to do with artistic beauty; artistic (not to be confused with ascetic",
     "examples": [],
     "explanation": ""
@@ -9821,7 +9821,7 @@
     "id": "word_827",
     "word": "ALLEVIATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To relieve, especially pain",
     "examples": [],
     "explanation": ""
@@ -9830,7 +9830,7 @@
     "id": "word_828",
     "word": "AMASS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To accumulate",
     "examples": [],
     "explanation": ""
@@ -9839,7 +9839,7 @@
     "id": "word_829",
     "word": "AMBIVALENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Simultaneously feeling opposing feelings; uncertain",
     "examples": [],
     "explanation": ""
@@ -9848,7 +9848,7 @@
     "id": "word_830",
     "word": "ANALOGY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "A comparison",
     "examples": [],
     "explanation": ""
@@ -9857,7 +9857,7 @@
     "id": "word_831",
     "word": "ANARCHY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Absence of government or control; lawlessness; disorder",
     "examples": [],
     "explanation": ""
@@ -9866,7 +9866,7 @@
     "id": "word_832",
     "word": "ANECDOTE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "A short account of an interesting incident",
     "examples": [],
     "explanation": ""
@@ -9875,7 +9875,7 @@
     "id": "word_833",
     "word": "ANIMATED",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Alive; moving",
     "examples": [],
     "explanation": ""
@@ -9884,7 +9884,7 @@
     "id": "word_834",
     "word": "ANOMALY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Something that is abnormal or irregular",
     "examples": [],
     "explanation": ""
@@ -9893,7 +9893,7 @@
     "id": "word_835",
     "word": "APATHY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Lack of emotion or interest",
     "examples": [],
     "explanation": ""
@@ -9902,7 +9902,7 @@
     "id": "word_836",
     "word": "APPEASE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To soothe; to pacify by giving in to",
     "examples": [],
     "explanation": ""
@@ -9911,7 +9911,7 @@
     "id": "word_837",
     "word": "APPREHENSIVE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Fearful about the future",
     "examples": [],
     "explanation": ""
@@ -9920,7 +9920,7 @@
     "id": "word_838",
     "word": "ARROGANT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Feeling superior to others; snooty",
     "examples": [],
     "explanation": ""
@@ -9929,7 +9929,7 @@
     "id": "word_839",
     "word": "ARTICULATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Speaking clearly and well",
     "examples": [],
     "explanation": ""
@@ -9938,7 +9938,7 @@
     "id": "word_840",
     "word": "ASCERTAIN",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To determine with certainty",
     "examples": [],
     "explanation": ""
@@ -9947,7 +9947,7 @@
     "id": "word_841",
     "word": "AUTHENTIC",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Real",
     "examples": [],
     "explanation": ""
@@ -9956,7 +9956,7 @@
     "id": "word_842",
     "word": "BELITTLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To make to seem little",
     "examples": [],
     "explanation": ""
@@ -9965,7 +9965,7 @@
     "id": "word_843",
     "word": "BELLIGERENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Combative; quarrelsome; waging war",
     "examples": [],
     "explanation": ""
@@ -9974,7 +9974,7 @@
     "id": "word_844",
     "word": "BENEVOLENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Kind; good-hearted; generous",
     "examples": [],
     "explanation": ""
@@ -9983,7 +9983,7 @@
     "id": "word_845",
     "word": "BENIGN",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Gentle; not harmful; kind; mild",
     "examples": [],
     "explanation": ""
@@ -9992,7 +9992,7 @@
     "id": "word_846",
     "word": "BIAS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Prejudice; tendency; tilt",
     "examples": [],
     "explanation": ""
@@ -10001,7 +10001,7 @@
     "id": "word_847",
     "word": "BREVITY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "The quality or state of being brief in duration",
     "examples": [],
     "explanation": ""
@@ -10010,7 +10010,7 @@
     "id": "word_848",
     "word": "CANDOR",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Completely honest, straightforward",
     "examples": [],
     "explanation": ""
@@ -10019,7 +10019,7 @@
     "id": "word_849",
     "word": "COMPLACENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Satisfied with the current situation and unconcerned with changing it",
     "examples": [],
     "explanation": ""
@@ -10028,7 +10028,7 @@
     "id": "word_850",
     "word": "COMPLIANT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Yielding; submissive",
     "examples": [],
     "explanation": ""
@@ -10037,7 +10037,7 @@
     "id": "word_851",
     "word": "CONCISE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Brief and to the point; succinct",
     "examples": [],
     "explanation": ""
@@ -10046,7 +10046,7 @@
     "id": "word_852",
     "word": "CONDONE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To overlook; to permit to happen",
     "examples": [],
     "explanation": ""
@@ -10055,7 +10055,7 @@
     "id": "word_853",
     "word": "CONGENIAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Agreeably suitable; pleasant",
     "examples": [],
     "explanation": ""
@@ -10064,7 +10064,7 @@
     "id": "word_854",
     "word": "CONSPICUOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Easy to notice; obvious (antonym: inconspicuous)",
     "examples": [],
     "explanation": ""
@@ -10073,7 +10073,7 @@
     "id": "word_855",
     "word": "CONTEMPT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Reproachful disdain",
     "examples": [],
     "explanation": ""
@@ -10082,7 +10082,7 @@
     "id": "word_856",
     "word": "DEBILITATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To weaken",
     "examples": [],
     "explanation": ""
@@ -10091,7 +10091,7 @@
     "id": "word_857",
     "word": "DEFERENCE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Submission or courteous respect",
     "examples": [],
     "explanation": ""
@@ -10100,7 +10100,7 @@
     "id": "word_858",
     "word": "DENOUNCE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To condemn openly",
     "examples": [],
     "explanation": ""
@@ -10109,7 +10109,7 @@
     "id": "word_859",
     "word": "DEPLETE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To use up; to reduce; to lessen",
     "examples": [],
     "explanation": ""
@@ -10118,7 +10118,7 @@
     "id": "word_860",
     "word": "DESPONDENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Depressed",
     "examples": [],
     "explanation": ""
@@ -10127,7 +10127,7 @@
     "id": "word_861",
     "word": "DETER",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To prevent; to stop; to keep from doing ssomething",
     "examples": [],
     "explanation": ""
@@ -10136,7 +10136,7 @@
     "id": "word_862",
     "word": "DIGRESS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To go off the subject",
     "examples": [],
     "explanation": ""
@@ -10145,7 +10145,7 @@
     "id": "word_863",
     "word": "DILIGENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Hardworking",
     "examples": [],
     "explanation": ""
@@ -10154,7 +10154,7 @@
     "id": "word_864",
     "word": "DISCERNMENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Insight; ability to see things clearly",
     "examples": [],
     "explanation": ""
@@ -10163,7 +10163,7 @@
     "id": "word_865",
     "word": "DISCRIMINATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To differentiate; to make a clear distinction; to see the difference",
     "examples": [],
     "explanation": ""
@@ -10172,7 +10172,7 @@
     "id": "word_866",
     "word": "DISDAIN",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To regard with contempt",
     "examples": [],
     "explanation": ""
@@ -10181,7 +10181,7 @@
     "id": "word_867",
     "word": "DISPARAGE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To speak of negatively; to belittle",
     "examples": [],
     "explanation": ""
@@ -10190,7 +10190,7 @@
     "id": "word_868",
     "word": "DISPASSIONATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Without passion; objective; neutral",
     "examples": [],
     "explanation": ""
@@ -10199,7 +10199,7 @@
     "id": "word_869",
     "word": "DISSENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Disagreement",
     "examples": [],
     "explanation": ""
@@ -10208,7 +10208,7 @@
     "id": "word_870",
     "word": "DISTINGUISH",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To tell apart; to cause to stand out",
     "examples": [],
     "explanation": ""
@@ -10217,7 +10217,7 @@
     "id": "word_871",
     "word": "DIVERSE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Varied",
     "examples": [],
     "explanation": ""
@@ -10226,7 +10226,7 @@
     "id": "word_872",
     "word": "DIVERT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To change the direction of; to alter the course of; to amuse",
     "examples": [],
     "explanation": ""
@@ -10235,7 +10235,7 @@
     "id": "word_873",
     "word": "DUBIOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Doubtful; of unlikely authenticity",
     "examples": [],
     "explanation": ""
@@ -10244,7 +10244,7 @@
     "id": "word_874",
     "word": "ECCENTRIC",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Not conventional; a little kooky; irregular",
     "examples": [],
     "explanation": ""
@@ -10253,7 +10253,7 @@
     "id": "word_875",
     "word": "ELABORATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Detailed; careful; thorough",
     "examples": [],
     "explanation": ""
@@ -10262,7 +10262,7 @@
     "id": "word_876",
     "word": "ELOQUENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Well-spoken",
     "examples": [],
     "explanation": ""
@@ -10271,7 +10271,7 @@
     "id": "word_877",
     "word": "EMPIRICAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Derived from observation or experiment",
     "examples": [],
     "explanation": ""
@@ -10280,7 +10280,7 @@
     "id": "word_878",
     "word": "ENCROACH",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To make gradual inroads; to trespass",
     "examples": [],
     "explanation": ""
@@ -10289,7 +10289,7 @@
     "id": "word_879",
     "word": "ENHANCE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To make better; to augment",
     "examples": [],
     "explanation": ""
@@ -10298,7 +10298,7 @@
     "id": "word_880",
     "word": "EVOKE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To summon or draw forth",
     "examples": [],
     "explanation": ""
@@ -10307,7 +10307,7 @@
     "id": "word_881",
     "word": "EXPLICIT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Fully and clearly expressed",
     "examples": [],
     "explanation": ""
@@ -10316,7 +10316,7 @@
     "id": "word_882",
     "word": "EXTRANEOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Irrelevant; extra; unnecessary; unimportant",
     "examples": [],
     "explanation": ""
@@ -10325,7 +10325,7 @@
     "id": "word_883",
     "word": "FANATIC",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "One who is extremely devoted to a cause or idea",
     "examples": [],
     "explanation": ""
@@ -10334,7 +10334,7 @@
     "id": "word_884",
     "word": "FICKLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Capricious; whimsical; unpredictable",
     "examples": [],
     "explanation": ""
@@ -10343,7 +10343,7 @@
     "id": "word_885",
     "word": "FRIVOLOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Not serious; not solemn; with levity",
     "examples": [],
     "explanation": ""
@@ -10352,7 +10352,7 @@
     "id": "word_886",
     "word": "FUTILE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Hopeless; without effect",
     "examples": [],
     "explanation": ""
@@ -10361,7 +10361,7 @@
     "id": "word_887",
     "word": "GULLIBLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Overly trusting; willing to believe anything",
     "examples": [],
     "explanation": ""
@@ -10370,7 +10370,7 @@
     "id": "word_888",
     "word": "HEED",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To listen to",
     "examples": [],
     "explanation": ""
@@ -10379,7 +10379,7 @@
     "id": "word_889",
     "word": "HYPOTHETICAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Uncertain; unproven",
     "examples": [],
     "explanation": ""
@@ -10388,7 +10388,7 @@
     "id": "word_890",
     "word": "IMPARTIAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Unbiased; neutral",
     "examples": [],
     "explanation": ""
@@ -10397,7 +10397,7 @@
     "id": "word_891",
     "word": "IMPERATIVE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Completely necessary",
     "examples": [],
     "explanation": ""
@@ -10406,7 +10406,7 @@
     "id": "word_892",
     "word": "IMPLICIT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Implied",
     "examples": [],
     "explanation": ""
@@ -10415,7 +10415,7 @@
     "id": "word_893",
     "word": "INADVERTENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Lax; careless; without intention",
     "examples": [],
     "explanation": ""
@@ -10424,7 +10424,7 @@
     "id": "word_894",
     "word": "INCESSANT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Unceasing; never-ending",
     "examples": [],
     "explanation": ""
@@ -10433,7 +10433,7 @@
     "id": "word_895",
     "word": "INCOHERENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Jumbled; chaotic; impossible to understand",
     "examples": [],
     "explanation": ""
@@ -10442,7 +10442,7 @@
     "id": "word_896",
     "word": "INDIFFERENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Having no interest or concern",
     "examples": [],
     "explanation": ""
@@ -10451,7 +10451,7 @@
     "id": "word_897",
     "word": "INDIGNATION",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Anger aroused by something perceived as unjust",
     "examples": [],
     "explanation": ""
@@ -10460,7 +10460,7 @@
     "id": "word_898",
     "word": "INDULGENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Lenient; yielding to desire",
     "examples": [],
     "explanation": ""
@@ -10469,7 +10469,7 @@
     "id": "word_899",
     "word": "INEVITABLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Unavoidable; bound to happen",
     "examples": [],
     "explanation": ""
@@ -10478,7 +10478,7 @@
     "id": "word_900",
     "word": "INNATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Existing since birth; inborn; inherent",
     "examples": [],
     "explanation": ""
@@ -10487,7 +10487,7 @@
     "id": "word_901",
     "word": "INNOVATION",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "The act of introducing something new",
     "examples": [],
     "explanation": ""
@@ -10496,7 +10496,7 @@
     "id": "word_902",
     "word": "INSTIGATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To provoke; to stir up",
     "examples": [],
     "explanation": ""
@@ -10505,7 +10505,7 @@
     "id": "word_903",
     "word": "IRONIC",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Satiric; unexpected",
     "examples": [],
     "explanation": ""
@@ -10514,7 +10514,7 @@
     "id": "word_904",
     "word": "JEOPARDY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Danger",
     "examples": [],
     "explanation": ""
@@ -10523,7 +10523,7 @@
     "id": "word_905",
     "word": "LAMENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To mourn",
     "examples": [],
     "explanation": ""
@@ -10532,7 +10532,7 @@
     "id": "word_906",
     "word": "LETHARGY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Sluggishness; laziness; drowsiness; indifference",
     "examples": [],
     "explanation": ""
@@ -10541,7 +10541,7 @@
     "id": "word_907",
     "word": "MALICIOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Deliberately harmful",
     "examples": [],
     "explanation": ""
@@ -10550,7 +10550,7 @@
     "id": "word_908",
     "word": "MALLEABLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Capable of being shaped",
     "examples": [],
     "explanation": ""
@@ -10559,7 +10559,7 @@
     "id": "word_909",
     "word": "MEDIATION",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "A settlement between conflicting parties",
     "examples": [],
     "explanation": ""
@@ -10568,7 +10568,7 @@
     "id": "word_910",
     "word": "MERGER",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "A joining or marriage",
     "examples": [],
     "explanation": ""
@@ -10577,7 +10577,7 @@
     "id": "word_911",
     "word": "NEGLIGENCE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Carelessness",
     "examples": [],
     "explanation": ""
@@ -10586,7 +10586,7 @@
     "id": "word_912",
     "word": "NEUTRAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Unbiased; not taking sides; objective",
     "examples": [],
     "explanation": ""
@@ -10595,7 +10595,7 @@
     "id": "word_913",
     "word": "OMINOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Menacing; threatening",
     "examples": [],
     "explanation": ""
@@ -10604,7 +10604,7 @@
     "id": "word_914",
     "word": "PERIPHERAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Unimportant",
     "examples": [],
     "explanation": ""
@@ -10613,7 +10613,7 @@
     "id": "word_915",
     "word": "PERVADE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To be present throughout",
     "examples": [],
     "explanation": ""
@@ -10622,7 +10622,7 @@
     "id": "word_916",
     "word": "PRAGMATIC",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Practical; down-to-earth; based on experience rather than theory",
     "examples": [],
     "explanation": ""
@@ -10631,7 +10631,7 @@
     "id": "word_917",
     "word": "PREDECESSOR",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Someone or something that came before another",
     "examples": [],
     "explanation": ""
@@ -10640,7 +10640,7 @@
     "id": "word_918",
     "word": "PROFOUND",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Deep; insightful (antonym: superficial)",
     "examples": [],
     "explanation": ""
@@ -10649,7 +10649,7 @@
     "id": "word_919",
     "word": "PROFUSE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Flowing; extravagant",
     "examples": [],
     "explanation": ""
@@ -10658,7 +10658,7 @@
     "id": "word_920",
     "word": "PROVOCATIVE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Giving rise to action or feeling",
     "examples": [],
     "explanation": ""
@@ -10667,7 +10667,7 @@
     "id": "word_921",
     "word": "PRUDENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Careful; wise",
     "examples": [],
     "explanation": ""
@@ -10676,7 +10676,7 @@
     "id": "word_922",
     "word": "RECIPROCATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To mutually take or give; to respond in kind",
     "examples": [],
     "explanation": ""
@@ -10685,7 +10685,7 @@
     "id": "word_923",
     "word": "REDUNDANT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Repetitive; unnecessary; excessively wordy",
     "examples": [],
     "explanation": ""
@@ -10694,7 +10694,7 @@
     "id": "word_924",
     "word": "REFUTE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To disprove; to prove to be false",
     "examples": [],
     "explanation": ""
@@ -10703,7 +10703,7 @@
     "id": "word_925",
     "word": "REJUVENATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To make young and strong again",
     "examples": [],
     "explanation": ""
@@ -10712,7 +10712,7 @@
     "id": "word_926",
     "word": "RELEVANT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Important; pertinent",
     "examples": [],
     "explanation": ""
@@ -10721,7 +10721,7 @@
     "id": "word_927",
     "word": "REMORSE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Sadness; regret",
     "examples": [],
     "explanation": ""
@@ -10730,7 +10730,7 @@
     "id": "word_928",
     "word": "REPRESS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To hold down",
     "examples": [],
     "explanation": ""
@@ -10739,7 +10739,7 @@
     "id": "word_929",
     "word": "REPUDIATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To reject; to deny",
     "examples": [],
     "explanation": ""
@@ -10748,7 +10748,7 @@
     "id": "word_930",
     "word": "RESIGNATION",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Unresisting acceptance; submission",
     "examples": [],
     "explanation": ""
@@ -10757,7 +10757,7 @@
     "id": "word_931",
     "word": "RETRACT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To take back; to withdraw; to pull back",
     "examples": [],
     "explanation": ""
@@ -10766,7 +10766,7 @@
     "id": "word_932",
     "word": "RIGOROUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Strict; harsh; severe",
     "examples": [],
     "explanation": ""
@@ -10775,7 +10775,7 @@
     "id": "word_933",
     "word": "SCANTY",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Inadequate; minimal",
     "examples": [],
     "explanation": ""
@@ -10784,7 +10784,7 @@
     "id": "word_934",
     "word": "SCRUTINIZE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To examine closely",
     "examples": [],
     "explanation": ""
@@ -10793,7 +10793,7 @@
     "id": "word_935",
     "word": "SKEPTICAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Doubting (antonym: gullible)",
     "examples": [],
     "explanation": ""
@@ -10802,7 +10802,7 @@
     "id": "word_936",
     "word": "SOLEMN",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Serious; grave",
     "examples": [],
     "explanation": ""
@@ -10811,7 +10811,7 @@
     "id": "word_937",
     "word": "SQUANDER",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To waste",
     "examples": [],
     "explanation": ""
@@ -10820,7 +10820,7 @@
     "id": "word_938",
     "word": "STAGNATION",
     "pronunciation": "",
-    "pos": "",
+    "pos": "n",
     "definition": "Motionlessness; inactivity",
     "examples": [],
     "explanation": ""
@@ -10829,7 +10829,7 @@
     "id": "word_939",
     "word": "STRINGENT",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Strict; restrictive",
     "examples": [],
     "explanation": ""
@@ -10838,7 +10838,7 @@
     "id": "word_940",
     "word": "SUBSTANTIATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To support with proof or evidence; verify",
     "examples": [],
     "explanation": ""
@@ -10847,7 +10847,7 @@
     "id": "word_941",
     "word": "SUBTLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Not obvious; able to make fine distinctions; ingenious; crafty",
     "examples": [],
     "explanation": ""
@@ -10856,7 +10856,7 @@
     "id": "word_942",
     "word": "SUPERFICIAL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Near the surface; shallow; unimportant",
     "examples": [],
     "explanation": ""
@@ -10865,7 +10865,7 @@
     "id": "word_943",
     "word": "TANGIBLE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Touchable; palpable",
     "examples": [],
     "explanation": ""
@@ -10874,7 +10874,7 @@
     "id": "word_944",
     "word": "TEMPERATE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Moderate; restrained",
     "examples": [],
     "explanation": ""
@@ -10883,7 +10883,7 @@
     "id": "word_945",
     "word": "TENACIOUS",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Tough; hard to defeat",
     "examples": [],
     "explanation": ""
@@ -10892,7 +10892,7 @@
     "id": "word_946",
     "word": "TENTATIVE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Experimental; temporary; uncertain",
     "examples": [],
     "explanation": ""
@@ -10901,7 +10901,7 @@
     "id": "word_947",
     "word": "UNDERMINE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To weaken",
     "examples": [],
     "explanation": ""
@@ -10910,7 +10910,7 @@
     "id": "word_948",
     "word": "UNDERSCORE",
     "pronunciation": "",
-    "pos": "",
+    "pos": "v",
     "definition": "To put emphasis on",
     "examples": [],
     "explanation": ""
@@ -10919,7 +10919,7 @@
     "id": "word_949",
     "word": "UNIFORM",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Consistent; unchanging; the same for everyone",
     "examples": [],
     "explanation": ""
@@ -10928,7 +10928,7 @@
     "id": "word_950",
     "word": "UNPRECEDENTED",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Happening for the first time; novel; never seen before",
     "examples": [],
     "explanation": ""
@@ -10937,7 +10937,7 @@
     "id": "word_951",
     "word": "WILLFUL",
     "pronunciation": "",
-    "pos": "",
+    "pos": "adj",
     "definition": "Deliberate; obstinate; insistent on having one's way",
     "examples": [],
     "explanation": ""
