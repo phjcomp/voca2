@@ -93,18 +93,23 @@ async function init() {
     if (hasFirebaseConfig) {
         onAuthStateChanged(auth, async (user) => {
             if (user) {
+                // Fresh start for the new user
+                userData = { reviews: {} };
                 currentUser = user;
                 await syncDataFromCloud();
                 showView('card');
                 nextCard();
             } else {
+                // Clear user data upon logout to prevent info leak
+                currentUser = null;
+                userData = { reviews: {} };
                 showView('auth');
             }
         });
     } else {
         // Fallback to local storage
         console.log("Running in LocalStorage fallback mode.");
-        loadLocalData();
+        loadLocalData('guest');
         showView('card');
         nextCard();
     }
@@ -115,6 +120,10 @@ async function init() {
 /** 
  * 2. SYNC & STORAGE (Priority: Firebase -> LocalStorage)
  */
+function getStorageKey() {
+    return currentUser ? `sat_vocab_data_${currentUser.uid}` : "sat_vocab_data_guest";
+}
+
 async function syncDataFromCloud() {
     if (!hasFirebaseConfig || !currentUser) return;
     try {
@@ -123,9 +132,12 @@ async function syncDataFromCloud() {
         if (docSnap.exists()) {
             userData = docSnap.data();
             if (!userData.reviews) userData.reviews = {};
+        } else {
+            // New user, ensure completely clean slate
+            userData = { reviews: {} };
         }
         // Save locally as backup
-        localStorage.setItem("sat_vocab_data", JSON.stringify(userData));
+        localStorage.setItem(getStorageKey(), JSON.stringify(userData));
     } catch (e) {
         console.error("Error syncing from cloud:", e);
         loadLocalData();
@@ -133,8 +145,8 @@ async function syncDataFromCloud() {
 }
 
 async function syncDataToCloud() {
-    // Always save locally immediately
-    localStorage.setItem("sat_vocab_data", JSON.stringify(userData));
+    // Always save locally immediately using scoped key
+    localStorage.setItem(getStorageKey(), JSON.stringify(userData));
     updateProgressUI();
     
     // Async save to cloud
@@ -148,10 +160,12 @@ async function syncDataToCloud() {
 }
 
 function loadLocalData() {
-    const saved = localStorage.getItem("sat_vocab_data");
+    const saved = localStorage.getItem(getStorageKey());
     if (saved) {
         userData = JSON.parse(saved);
         if (!userData.reviews) userData.reviews = {};
+    } else {
+        userData = { reviews: {} };
     }
 }
 
