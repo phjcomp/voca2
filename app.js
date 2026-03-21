@@ -115,18 +115,19 @@ async function init() {
     if (hasFirebaseConfig) {
         onAuthStateChanged(auth, async (user) => {
             if (user) {
-                // Backward Compatibility Migration & Recovery!
-                // This block handles migrating old 'reviews' structure to 'decks.sat_word_smart.reviews'
-                // It also recovers if a blank 'sat_word_smart' deck was created but old reviews exist.
-                if (userData.reviews && Object.keys(userData.reviews).length > 0) {
+                // Backward Compatibility Migration & Aggressive Recovery!
+                // Unconditionally merge legacy reviews if they exist
+                if (userData.reviews) {
                     if (!userData.decks) userData.decks = {};
-                    let smartDeck = userData.decks['sat_word_smart'];
-                    let isEmpty = !smartDeck || !smartDeck.reviews || Object.keys(smartDeck.reviews).length === 0;
-                    if (isEmpty) {
-                        userData.decks['sat_word_smart'] = { reviews: userData.reviews };
-                        delete userData.reviews;
-                        syncDataToCloud(); // Save migrated data backwards seamlessly
-                    }
+                    if (!userData.decks['sat_word_smart']) userData.decks['sat_word_smart'] = { reviews: {} };
+                    
+                    // Forcefully merge all legacy data into the current deck, overriding the 3-card test data
+                    userData.decks['sat_word_smart'].reviews = {
+                        ...userData.decks['sat_word_smart'].reviews,
+                        ...userData.reviews
+                    };
+                    delete userData.reviews;
+                    syncDataToCloud(); // Save migrated data backwards seamlessly
                 }
                 // Fresh start for the new user
                 userData = { reviews: {} };
@@ -166,6 +167,22 @@ async function syncDataFromCloud() {
         const docSnap = await getDoc(docRef);
         if (docSnap.exists()) {
             userData = docSnap.data();
+            
+            // AGGRESSIVE RECOVERY MIGRATION: Restore orphaned legacy data safely!
+            if (userData.reviews) {
+                if (!userData.decks) userData.decks = {};
+                if (!userData.decks['sat_word_smart']) userData.decks['sat_word_smart'] = { reviews: {} };
+                
+                userData.decks['sat_word_smart'].reviews = {
+                    ...userData.decks['sat_word_smart'].reviews,
+                    ...userData.reviews
+                };
+                delete userData.reviews;
+                
+                // Immediately save the securely migrated data back to the cloud
+                await setDoc(docRef, userData, { merge: true });
+            }
+            
             if (!getDeckData().reviews) userData.decks[activeDeckId].reviews = {};
         } else {
             // New user, ensure completely clean slate
@@ -198,6 +215,20 @@ function loadLocalData() {
     const saved = localStorage.getItem(getStorageKey());
     if (saved) {
         userData = JSON.parse(saved);
+        
+        // AGGRESSIVE RECOVERY MIGRATION (Local)
+        if (userData.reviews) {
+            if (!userData.decks) userData.decks = {};
+            if (!userData.decks['sat_word_smart']) userData.decks['sat_word_smart'] = { reviews: {} };
+            
+            userData.decks['sat_word_smart'].reviews = {
+                ...userData.decks['sat_word_smart'].reviews,
+                ...userData.reviews
+            };
+            delete userData.reviews;
+            syncDataToCloud();
+        }
+        
         if (!getDeckData().reviews) userData.decks[activeDeckId].reviews = {};
     } else {
         userData = { reviews: {} };
