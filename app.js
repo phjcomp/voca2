@@ -281,6 +281,7 @@ function nextCard() {
     document.body.classList.add('state-front');
     dom.backDetails.style.display = 'none';
     dom.backDetails.scrollTop = 0;
+    if (dom.cardTrigger) dom.cardTrigger.scrollTop = 0; /* Fixes scroll retention across cards */
     dom.controlsBack.style.display = 'none';
     
     // Quiz Mode Logic
