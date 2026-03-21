@@ -527,6 +527,15 @@ function attachEventListeners() {
     }
     applyTheme();
     
+    dom.btnLibrary.addEventListener('click', () => {
+        renderDeckList();
+        showView('deck');
+    });
+
+    dom.btnCloseLibrary.addEventListener('click', () => {
+        showView('card');
+    });
+
     dom.btnTheme.addEventListener('click', () => {
         isLightMode = !isLightMode;
         localStorage.setItem('sat_vocab_theme', isLightMode ? 'light' : 'dark');
