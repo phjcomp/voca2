@@ -11,7 +11,7 @@
     <meta http-equiv="Expires" content="0">
     
     <title>SAT Vocab</title>
-    <link rel="stylesheet" href="styles.css?v=31">
+    <link rel="stylesheet" href="styles.css?v=32">
     
     <!-- Fonts: Playfair Display for Serifs, Inter for Sans-Serif -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -59,7 +59,10 @@
                 <div id="progress-text" class="progress-text" style="text-align: center; margin-bottom: 16px; font-weight: 600; color: var(--text-main); font-size: 0.95rem;">Loading...</div>
                 <!-- Word Section -->
                 <div class="word-section">
-                    <span class="part-of-speech" id="val-pos">VERB</span>
+                    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                        <span class="part-of-speech" id="val-pos">VERB</span>
+                        <span id="val-combo" style="font-weight: 800; color: #ff9800; font-size: 0.95rem; letter-spacing: 0.5px;">0 Combo!</span>
+                    </div>
                     <h1 class="target-word" id="val-word">contemplate</h1>
                     
                     <div class="pronunciation-row">
@@ -118,6 +121,6 @@
         </div>
     </div>
     
-    <script type="module" src="app.js?v=31"></script>
+    <script type="module" src="app.js?v=32"></script>
 </body>
 </html>

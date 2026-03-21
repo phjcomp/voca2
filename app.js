@@ -51,6 +51,7 @@ const views = {
 
 const dom = {
     pos: document.getElementById('val-pos'),
+    combo: document.getElementById('val-combo'),
     word: document.getElementById('val-word'),
     pronunciation: document.getElementById('val-pronunciation'),
     definition: document.getElementById('val-definition'),
@@ -313,8 +314,17 @@ function nextCard() {
     let seenCount = (rev && rev.seenCount) ? rev.seenCount : 0;
     if (seenCount === 0 && rev && rev.interval > 0) seenCount = 1; // Fallback for old data
     
-    let seenStr = seenCount > 0 ? ` • Seen ${seenCount} times` : ' • New';
-    dom.pos.innerText = `${currentWord.pos}${seenStr}`;
+    let rankIcon = '🌱';
+    let step = rev ? rev.step : 0;
+    if (step >= 4) rankIcon = '👑';
+    else if (step === 3) rankIcon = '🥇';
+    else if (step === 2) rankIcon = '🥈';
+    else if (step === 1) rankIcon = '🥉';
+
+    let seenStr = seenCount > 0 ? ` • SEEN ${seenCount} TIMES` : ' • NEW';
+    dom.pos.innerText = `${currentWord.pos}${seenStr} ${rankIcon}`;
+    
+    if (dom.combo) dom.combo.innerText = `${currentCombo} Combo!`;
     
     dom.pronunciation.innerText = currentWord.pronunciation;
     
@@ -412,7 +422,7 @@ function generateQuiz() {
                 speakerBtn.innerHTML = '<ion-icon name="volume-high-outline"></ion-icon>';
                 speakerBtn.onclick = (ev) => {
                     ev.stopPropagation();
-                    speak(bOpt.word);
+                    speakText(bOpt.word);
                 };
                 
                 const textSpan = document.createElement('span');
@@ -424,18 +434,7 @@ function generateQuiz() {
                 b.insertBefore(wordSpan, b.firstChild);
             });
             
-            if (currentCombo > 0) {
-                const floatTxt = document.createElement('div');
-                floatTxt.innerText = `${currentCombo} Combo!`;
-                floatTxt.style.position = 'absolute';
-                floatTxt.style.right = '20px';
-                floatTxt.style.color = '#ff9800';
-                floatTxt.style.fontWeight = 'bold';
-                floatTxt.style.fontSize = '1.1rem';
-                floatTxt.style.pointerEvents = 'none';
-                floatTxt.style.animation = 'floatUp 1s ease-out forwards';
-                btn.appendChild(floatTxt);
-            }
+            if (dom.combo) dom.combo.innerText = `${currentCombo} Combo!`;
             
             const topCombo = document.getElementById('combo-display');
             if (topCombo) {
@@ -596,3 +595,12 @@ function attachEventListeners() {
 
 // Start
 init();
+
+function speakText(text) {
+    if (!window.speechSynthesis) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-US';
+    utterance.rate = 0.9;
+    window.speechSynthesis.speak(utterance);
+}
