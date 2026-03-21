@@ -115,10 +115,14 @@ async function init() {
     if (hasFirebaseConfig) {
         onAuthStateChanged(auth, async (user) => {
             if (user) {
-                // Backward Compatibility Migration!
+                // Backward Compatibility Migration & Recovery!
+                // This block handles migrating old 'reviews' structure to 'decks.sat_word_smart.reviews'
+                // It also recovers if a blank 'sat_word_smart' deck was created but old reviews exist.
                 if (userData.reviews && Object.keys(userData.reviews).length > 0) {
                     if (!userData.decks) userData.decks = {};
-                    if (!userData.decks['sat_word_smart']) {
+                    let smartDeck = userData.decks['sat_word_smart'];
+                    let isEmpty = !smartDeck || !smartDeck.reviews || Object.keys(smartDeck.reviews).length === 0;
+                    if (isEmpty) {
                         userData.decks['sat_word_smart'] = { reviews: userData.reviews };
                         delete userData.reviews;
                         syncDataToCloud(); // Save migrated data backwards seamlessly
