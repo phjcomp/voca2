@@ -1,0 +1,38 @@
+[
+  {
+    "word": "aberration",
+    "pronunciation": "ab-uh-RAY-shun",
+    "pos": "n",
+    "definition": "Something that differs from the norm.",
+    "examples": ["They described the outbreak of violence as an aberration."],
+    "explanation": "Typically used for negative anomalies.",
+    "id": "t1"
+  },
+  {
+    "word": "capricious",
+    "pronunciation": "cuh-PRISH-us",
+    "pos": "adj",
+    "definition": "Given to sudden and unaccountable changes of mood or behavior.",
+    "examples": ["It's terrible to feel our livelihood hinges on a capricious boss."],
+    "explanation": "Whimsical, unpredictable.",
+    "id": "t2"
+  },
+  {
+    "word": "ephemeral",
+    "pronunciation": "ih-FEM-er-ul",
+    "pos": "adj",
+    "definition": "Lasting for a very short time.",
+    "examples": ["Fashions are ephemeral."],
+    "explanation": "Transitory, fleeting.",
+    "id": "t3"
+  },
+  {
+    "word": "mitigate",
+    "pronunciation": "MIT-uh-gayt",
+    "pos": "v",
+    "definition": "Make less severe, serious, or painful.",
+    "examples": ["He wanted to mitigate misery in the world."],
+    "explanation": "Alleviate, reduce.",
+    "id": "t4"
+  }
+]

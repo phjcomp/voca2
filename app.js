@@ -32,9 +32,16 @@ if (hasFirebaseConfig) {
     }
 }
 
+// Deck Config
+const APP_DECKS = [
+    { id: 'sat_word_smart', file: 'words.json', name: 'SAT Word Smart', desc: '952 Words from Chapter 2 & 4' },
+    { id: 'toefl_core', file: 'toefl.json', name: 'New SAT/TOEFL Examples', desc: 'Custom mock deck for testing switching' }
+];
+
 // State
 let allWords = [];
-let userData = { reviews: {} }; // wordId -> { interval, nextReview, step }
+let userData = { decks: {} }; // Support multi-deck
+let activeDeckId = localStorage.getItem('activeDeckId') || 'sat_word_smart';
 let currentUser = null;
 let currentWord = null;
 let isFlipped = false;
@@ -42,16 +49,28 @@ let isSyncing = false;
 let isQuizMode = true;
 let currentCombo = 0;
 
+function getDeckData() {
+    if (!userData.decks) userData.decks = {};
+    if (!userData.decks[activeDeckId]) {
+        userData.decks[activeDeckId] = { reviews: {} };
+    }
+    return userData.decks[activeDeckId];
+}
+
 // DOM Elements
 const views = {
     loading: document.getElementById('loading-view'),
     auth: document.getElementById('auth-view'),
+    deck: document.getElementById('deck-view'),
     card: document.getElementById('card-view')
 };
 
 const dom = {
     pos: document.getElementById('val-pos'),
     combo: document.getElementById('val-combo'),
+    btnLibrary: document.getElementById('btn-library'),
+    btnCloseLibrary: document.getElementById('btn-close-library'),
+    deckList: document.getElementById('deck-list'),
     word: document.getElementById('val-word'),
     pronunciation: document.getElementById('val-pronunciation'),
     definition: document.getElementById('val-definition'),
@@ -84,7 +103,8 @@ const dom = {
 async function init() {
     try {
         // Load Dictionary JSON
-        const response = await fetch('words.json');
+                const activeDeck = APP_DECKS.find(d => d.id === activeDeckId) || APP_DECKS[0];
+        const response = await fetch(activeDeck.file);
         allWords = await response.json();
     } catch (e) {
         alert("Failed to load dictionary. Please check if words.json is present.");
@@ -133,7 +153,7 @@ async function syncDataFromCloud() {
         const docSnap = await getDoc(docRef);
         if (docSnap.exists()) {
             userData = docSnap.data();
-            if (!userData.reviews) userData.reviews = {};
+            if (!getDeckData().reviews) userData.decks[activeDeckId].reviews = {};
         } else {
             // New user, ensure completely clean slate
             userData = { reviews: {} };
@@ -165,7 +185,7 @@ function loadLocalData() {
     const saved = localStorage.getItem(getStorageKey());
     if (saved) {
         userData = JSON.parse(saved);
-        if (!userData.reviews) userData.reviews = {};
+        if (!getDeckData().reviews) userData.decks[activeDeckId].reviews = {};
     } else {
         userData = { reviews: {} };
     }
@@ -175,12 +195,12 @@ function updateProgressUI() {
     const total = allWords.length;
     
     // Known: step >= 1 (Got correct at least once)
-    const known = Object.keys(userData.reviews).filter(id => userData.reviews[id].step >= 1).length;
+    const known = Object.keys(getDeckData().reviews).filter(id => getDeckData().reviews[id].step >= 1).length;
     
     // Calculate cycles/turns based on the minimum seenCount across ALL words.
     let minSeen = Infinity;
     for (const w of allWords) {
-        const rev = userData.reviews[w.id];
+        const rev = getDeckData().reviews[w.id];
         // Handle fallback for old data
         const sc = (rev && (rev.seenCount || rev.interval > 0)) ? (rev.seenCount || 1) : 0;
         if (sc < minSeen) minSeen = sc;
@@ -190,7 +210,7 @@ function updateProgressUI() {
     // Progress for the *current* turn.
     let currentTurnSeen = 0;
     for (const w of allWords) {
-        const rev = userData.reviews[w.id];
+        const rev = getDeckData().reviews[w.id];
         const sc = (rev && (rev.seenCount || rev.interval > 0)) ? (rev.seenCount || 1) : 0;
         if (sc > minSeen) {
             currentTurnSeen++;
@@ -209,7 +229,7 @@ function getNextWord() {
     let newWords = [];
     
     for (const w of allWords) {
-        const reviewData = userData.reviews[w.id];
+        const reviewData = getDeckData().reviews[w.id];
         if (reviewData && reviewData.interval > 0) {
             // Collect all due reviews for priority 1
             if (reviewData.nextReview <= now) {
@@ -238,7 +258,7 @@ function getNextWord() {
 function gradeAnswer(rating) {
     if (!currentWord) return;
     const id = currentWord.id;
-    let rev = userData.reviews[id] || { step: 0, interval: 0, nextReview: 0 };
+    let rev = getDeckData().reviews[id] || { step: 0, interval: 0, nextReview: 0 };
     rev.seenCount = (rev.seenCount || 0) + 1;
     
     const now = Date.now();
@@ -261,7 +281,7 @@ function gradeAnswer(rating) {
     }
     
     rev.nextReview = now + rev.interval;
-    userData.reviews[id] = rev;
+    getDeckData().reviews[id] = rev;
     
     syncDataToCloud();
 }
@@ -310,7 +330,7 @@ function nextCard() {
     // Populate Front
     dom.word.innerText = currentWord.word;
     
-    let rev = userData.reviews[currentWord.id];
+    let rev = getDeckData().reviews[currentWord.id];
     let seenCount = (rev && rev.seenCount) ? rev.seenCount : 0;
     if (seenCount === 0 && rev && rev.interval > 0) seenCount = 1; // Fallback for old data
     
@@ -376,9 +396,9 @@ function generateQuiz() {
         options.push({ text: cw.definition, correct: false, word: cw.word, pronunciation: cw.pronunciation });
         
         // Count as "Seen" because it was presented as an option
-        let r = userData.reviews[cw.id] || { step: 0, interval: 0, nextReview: 0 };
+        let r = getDeckData().reviews[cw.id] || { step: 0, interval: 0, nextReview: 0 };
         r.seenCount = (r.seenCount || 0) + 1;
-        userData.reviews[cw.id] = r;
+        getDeckData().reviews[cw.id] = r;
     }
     
     options.sort(() => 0.5 - Math.random());
@@ -603,4 +623,21 @@ function speakText(text) {
     utterance.lang = 'en-US';
     utterance.rate = 0.9;
     window.speechSynthesis.speak(utterance);
+}
+
+function renderDeckList() {
+    if (!dom.deckList) return;
+    dom.deckList.innerHTML = '';
+    APP_DECKS.forEach(d => {
+        const item = document.createElement('div');
+        item.className = `deck-item ${d.id === activeDeckId ? 'active' : ''}`;
+        item.innerHTML = `<h3>${d.name}</h3><p>${d.desc}</p>`;
+        item.onclick = async () => {
+            activeDeckId = d.id;
+            localStorage.setItem('activeDeckId', activeDeckId);
+            showView('loading');
+            await initApp();
+        };
+        dom.deckList.appendChild(item);
+    });
 }
