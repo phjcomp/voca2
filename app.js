@@ -645,7 +645,19 @@ function renderDeckList() {
             activeDeckId = d.id;
             localStorage.setItem('activeDeckId', activeDeckId);
             showView('loading');
-            await init();
+            
+            try {
+                const response = await fetch(d.file);
+                allWords = await response.json();
+            } catch (e) {
+                console.error("Failed to load deck:", e);
+            }
+            
+            currentCombo = 0;
+            if (dom.combo) dom.combo.innerText = `0 Combo!`;
+            
+            showView('card');
+            nextCard();
         };
         dom.deckList.appendChild(item);
     });
