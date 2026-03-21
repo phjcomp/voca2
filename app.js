@@ -115,6 +115,15 @@ async function init() {
     if (hasFirebaseConfig) {
         onAuthStateChanged(auth, async (user) => {
             if (user) {
+                // Backward Compatibility Migration!
+                if (userData.reviews && Object.keys(userData.reviews).length > 0) {
+                    if (!userData.decks) userData.decks = {};
+                    if (!userData.decks['sat_word_smart']) {
+                        userData.decks['sat_word_smart'] = { reviews: userData.reviews };
+                        delete userData.reviews;
+                        syncDataToCloud(); // Save migrated data backwards seamlessly
+                    }
+                }
                 // Fresh start for the new user
                 userData = { reviews: {} };
                 currentUser = user;
