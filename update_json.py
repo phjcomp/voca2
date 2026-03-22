@@ -6,7 +6,7 @@ csv_file = '/Volumes/Daniel SSD/Documents_SSD/Codes/STUDY/SAT VOCA/word_smart_cl
 json_file = '/Volumes/Daniel SSD/Documents_SSD/Codes/STUDY/SAT VOCA/sat-vocab-app/words.json'
 
 data = []
-with open(csv_file, 'r', encoding='utf-8') as f:
+with open(csv_file, 'r', encoding='utf-8-sig') as f:
     reader = csv.DictReader(f)
     for i, row in enumerate(reader):
         examples = [ex.strip() for ex in row.get("Examples", "").split("•") if ex.strip()]

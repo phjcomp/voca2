@@ -1,7 +1,7 @@
 [
   {
     "id": "word_0",
-    "word": "",
+    "word": "ABASH",
     "roots": "ab- (away) + esbahir (to astound/amaze)",
     "pronunciation": "uh BASH",
     "pos": "v",
@@ -14,7 +14,7 @@
   },
   {
     "id": "word_1",
-    "word": "",
+    "word": "ABATE",
     "roots": "ad- (to/at) + battere (to beat)",
     "pronunciation": "uh BAYT",
     "pos": "v",
@@ -27,7 +27,7 @@
   },
   {
     "id": "word_2",
-    "word": "",
+    "word": "ABDICATE",
     "roots": "ab- (away) + dicare (to proclaim/say)",
     "pronunciation": "AB duh kayt",
     "pos": "v",
@@ -40,7 +40,7 @@
   },
   {
     "id": "word_3",
-    "word": "",
+    "word": "ABERRATION",
     "roots": "ab- (away) + errare (to wander)",
     "pronunciation": "ab uh RAY shun",
     "pos": "n",
@@ -55,7 +55,7 @@
   },
   {
     "id": "word_4",
-    "word": "",
+    "word": "ABHOR",
     "roots": "ab- (away/from) + horrere (to tremble/shudder)",
     "pronunciation": "ab HOR",
     "pos": "v",
@@ -67,7 +67,7 @@
   },
   {
     "id": "word_5",
-    "word": "",
+    "word": "ABJECT",
     "roots": "ab- (away) + jacere (to throw)",
     "pronunciation": "AB jekt",
     "pos": "adj",
@@ -79,7 +79,7 @@
   },
   {
     "id": "word_6",
-    "word": "",
+    "word": "ABNEGATE",
     "roots": "ab- (away) + negare (to deny)",
     "pronunciation": "AB nuh gayt",
     "pos": "v",
@@ -91,7 +91,7 @@
   },
   {
     "id": "word_7",
-    "word": "",
+    "word": "ABORTIVE",
     "roots": "ab- (away/mis-) + oriri (to be born/rise)",
     "pronunciation": "uh BOR tiv",
     "pos": "adj",
@@ -104,7 +104,7 @@
   },
   {
     "id": "word_8",
-    "word": "",
+    "word": "ABRIDGE",
     "roots": "ad- (to) + breviare (to shorten)",
     "pronunciation": "uh BRIJ",
     "pos": "v",
@@ -116,7 +116,7 @@
   },
   {
     "id": "word_9",
-    "word": "",
+    "word": "ABSOLUTE",
     "roots": "ab- (away/from) + solvere (to loosen/free)",
     "pronunciation": "AB suh loot",
     "pos": "adj",
@@ -126,7 +126,7 @@
   },
   {
     "id": "word_10",
-    "word": "",
+    "word": "ABSOLVE",
     "roots": "ab- (away) + solvere (to loosen/free)",
     "pronunciation": "ab ZOLV",
     "pos": "v",
@@ -140,7 +140,7 @@
   },
   {
     "id": "word_11",
-    "word": "",
+    "word": "ABSTINENT",
     "roots": "abs- (from) + tenere (to hold)",
     "pronunciation": "AB stuh nunt",
     "pos": "adj",
@@ -153,7 +153,7 @@
   },
   {
     "id": "word_12",
-    "word": "",
+    "word": "ABSTRACT",
     "roots": "ab- (away) + trahere (to draw/pull)",
     "pronunciation": "AB strakt",
     "pos": "adj",
@@ -166,7 +166,7 @@
   },
   {
     "id": "word_13",
-    "word": "",
+    "word": "ABSTRUSE",
     "roots": "abs- (away) + trudere (to thrust/push)",
     "pronunciation": "ab STROOS",
     "pos": "adj",
@@ -178,7 +178,7 @@
   },
   {
     "id": "word_14",
-    "word": "",
+    "word": "ABYSMAL",
     "roots": "a- (without) + byssos (bottom)",
     "pronunciation": "uh BIZ mul",
     "pos": "adj",
@@ -190,7 +190,7 @@
   },
   {
     "id": "word_15",
-    "word": "",
+    "word": "ACCOLADE",
     "roots": "ad- (to/at) + collum (neck)",
     "pronunciation": "AK uh layd",
     "pos": "n",
@@ -202,7 +202,7 @@
   },
   {
     "id": "word_16",
-    "word": "",
+    "word": "ACCOST",
     "roots": "ad- (to) + costa (rib/side)",
     "pronunciation": "uh KAWST",
     "pos": "v",
@@ -214,7 +214,7 @@
   },
   {
     "id": "word_17",
-    "word": "",
+    "word": "ACERBIC",
     "roots": "acerbus (sour/bitter) from acer (sharp)",
     "pronunciation": "uh SUR bik",
     "pos": "adj",
@@ -226,7 +226,7 @@
   },
   {
     "id": "word_18",
-    "word": "",
+    "word": "ACQUIESCE",
     "roots": "ad- (to) + quiescere (to rest/be quiet)",
     "pronunciation": "ak wee ES",
     "pos": "v",
@@ -238,7 +238,7 @@
   },
   {
     "id": "word_19",
-    "word": "",
+    "word": "ACRID",
     "roots": "acer (sharp/pungent)",
     "pronunciation": "AK rid",
     "pos": "adj",
@@ -251,7 +251,7 @@
   },
   {
     "id": "word_20",
-    "word": "",
+    "word": "ACRIMONIOUS",
     "roots": "acer (sharp) + -monia (action/state)",
     "pronunciation": "ak ruh MOH nee us",
     "pos": "adj",
@@ -264,7 +264,7 @@
   },
   {
     "id": "word_21",
-    "word": "",
+    "word": "ACUMEN",
     "roots": "acuere (to sharpen)",
     "pronunciation": "AK yoo mun",
     "pos": "n",
@@ -277,7 +277,7 @@
   },
   {
     "id": "word_22",
-    "word": "",
+    "word": "ACUTE",
     "roots": "acuere (to sharpen)",
     "pronunciation": "uh KYOOT",
     "pos": "adj",
@@ -287,7 +287,7 @@
   },
   {
     "id": "word_23",
-    "word": "",
+    "word": "ADAMANT",
     "roots": "a- (not) + daman (to tame)",
     "pronunciation": "AD uh munt",
     "pos": "adj",
@@ -299,7 +299,7 @@
   },
   {
     "id": "word_24",
-    "word": "",
+    "word": "ADDRESS",
     "roots": "ad- (toward) + directus (straight/direct)",
     "pronunciation": "uh DRES",
     "pos": "v",
@@ -311,7 +311,7 @@
   },
   {
     "id": "word_25",
-    "word": "",
+    "word": "ADHERENT",
     "roots": "ad- (to) + haerere (to stick)",
     "pronunciation": "ad HEER unt",
     "pos": "n",
@@ -323,7 +323,7 @@
   },
   {
     "id": "word_26",
-    "word": "",
+    "word": "ADMONISH",
     "roots": "ad- (to) + monere (to warn/advise)",
     "pronunciation": "ad MAHN ish",
     "pos": "v",
@@ -335,7 +335,7 @@
   },
   {
     "id": "word_27",
-    "word": "",
+    "word": "ADROIT",
     "roots": "a- (to) + droit (right/straight)",
     "pronunciation": "uh DROYT",
     "pos": "adj",
@@ -348,7 +348,7 @@
   },
   {
     "id": "word_28",
-    "word": "",
+    "word": "ADULATION",
     "roots": "adulari (to flatter/fawn upon)",
     "pronunciation": "aj uh LAY shun",
     "pos": "n",
@@ -361,7 +361,7 @@
   },
   {
     "id": "word_29",
-    "word": "",
+    "word": "ADULTERATE",
     "roots": "ad- (to) + alter (other) -> adulterare (to corrupt)",
     "pronunciation": "uh DUL tuh rayt",
     "pos": "v",
@@ -373,7 +373,7 @@
   },
   {
     "id": "word_30",
-    "word": "",
+    "word": "ADVERSE",
     "roots": "ad- (to/against) + vertere (to turn)",
     "pronunciation": "ad VURS",
     "pos": "adj",
@@ -385,7 +385,7 @@
   },
   {
     "id": "word_31",
-    "word": "",
+    "word": "AESTHETIC",
     "roots": "aisthanesthai (to perceive/feel)",
     "pronunciation": "es THET ik",
     "pos": "adj",
@@ -397,7 +397,7 @@
   },
   {
     "id": "word_32",
-    "word": "",
+    "word": "AFFABLE",
     "roots": "ad- (to) + fari (to speak)",
     "pronunciation": "AF uh bul",
     "pos": "adj",
@@ -410,7 +410,7 @@
   },
   {
     "id": "word_33",
-    "word": "",
+    "word": "AFFECTATION",
     "roots": "ad- (to) + facere (to do/make)",
     "pronunciation": "af ek TAY shun",
     "pos": "n",
@@ -424,7 +424,7 @@
   },
   {
     "id": "word_34",
-    "word": "",
+    "word": "AFFINITY",
     "roots": "ad- (to/bordering) + finis (border/end)",
     "pronunciation": "uh FIN uh tee",
     "pos": "n",
@@ -438,7 +438,7 @@
   },
   {
     "id": "word_35",
-    "word": "",
+    "word": "AFFLUENT",
     "roots": "ad- (to) + fluere (to flow)",
     "pronunciation": "AF loo unt",
     "pos": "adj",
@@ -448,7 +448,7 @@
   },
   {
     "id": "word_36",
-    "word": "",
+    "word": "AGENDA",
     "roots": "agere (to do/drive)",
     "pronunciation": "uh JEN duh",
     "pos": "n",
@@ -460,7 +460,7 @@
   },
   {
     "id": "word_37",
-    "word": "",
+    "word": "AGGREGATE",
     "roots": "ad- (to) + grex/greg- (flock)",
     "pronunciation": "AG ruh gut",
     "pos": "n",
@@ -472,7 +472,7 @@
   },
   {
     "id": "word_38",
-    "word": "",
+    "word": "AGNOSTIC",
     "roots": "a- (not) + gnostos (known)",
     "pronunciation": "ag NAHS tik",
     "pos": "n",
@@ -484,7 +484,7 @@
   },
   {
     "id": "word_39",
-    "word": "",
+    "word": "AGRARIAN",
     "roots": "ager/agri- (field)",
     "pronunciation": "uh GRAR ee un",
     "pos": "adj",
@@ -496,7 +496,7 @@
   },
   {
     "id": "word_40",
-    "word": "",
+    "word": "ALACRITY",
     "roots": "alacer (brisk/eager)",
     "pronunciation": "uh LAK ri tee",
     "pos": "n",
@@ -508,7 +508,7 @@
   },
   {
     "id": "word_41",
-    "word": "",
+    "word": "ALLEGE",
     "roots": "ex- (out) + litigare (to dispute/lawsuit)",
     "pronunciation": "uh LEJ",
     "pos": "v",
@@ -521,7 +521,7 @@
   },
   {
     "id": "word_42",
-    "word": "",
+    "word": "ALLEVIATE",
     "roots": "ad- (to) + levis (light)",
     "pronunciation": "uh LEE vee ayt",
     "pos": "v",
@@ -534,7 +534,7 @@
   },
   {
     "id": "word_43",
-    "word": "",
+    "word": "ALLOCATE",
     "roots": "ad- (to) + locus (place)",
     "pronunciation": "AL uh kayt",
     "pos": "v",
@@ -547,7 +547,7 @@
   },
   {
     "id": "word_44",
-    "word": "",
+    "word": "ALLOY",
     "roots": "ad- (to) + ligare (to bind)",
     "pronunciation": "AL oy",
     "pos": "n",
@@ -559,7 +559,7 @@
   },
   {
     "id": "word_45",
-    "word": "",
+    "word": "ALLUSION",
     "roots": "ad- (to) + ludere (to play)",
     "pronunciation": "uh LOO zhun",
     "pos": "adj",
@@ -572,7 +572,7 @@
   },
   {
     "id": "word_46",
-    "word": "",
+    "word": "ALOOF",
     "roots": "a- (on/to) + loef (windward direction)",
     "pronunciation": "uh LOOF",
     "pos": "adj",
@@ -584,7 +584,7 @@
   },
   {
     "id": "word_47",
-    "word": "",
+    "word": "ALTRUISM",
     "roots": "alter (other)",
     "pronunciation": "AL troo iz um",
     "pos": "n",
@@ -596,7 +596,7 @@
   },
   {
     "id": "word_48",
-    "word": "",
+    "word": "AMBIENCE",
     "roots": "ambi- (around) + ire (to go)",
     "pronunciation": "AM bee uns",
     "pos": "n",
@@ -608,7 +608,7 @@
   },
   {
     "id": "word_49",
-    "word": "",
+    "word": "AMBIGUOUS",
     "roots": "ambi- (around/both) + agere (to drive)",
     "pronunciation": "am BIG yoo us",
     "pos": "adj",
@@ -621,7 +621,7 @@
   },
   {
     "id": "word_50",
-    "word": "",
+    "word": "AMBIVALENT",
     "roots": "ambi- (both) + valere (to be strong)",
     "pronunciation": "am BIV uh lunt",
     "pos": "adj",
@@ -633,7 +633,7 @@
   },
   {
     "id": "word_51",
-    "word": "",
+    "word": "AMELIORATE",
     "roots": "ad- (to) + melior (better)",
     "pronunciation": "uh MEEL yuh rayt",
     "pos": "v",
@@ -646,7 +646,7 @@
   },
   {
     "id": "word_52",
-    "word": "",
+    "word": "AMENABLE",
     "roots": "ad- (to) + minari (to threaten)",
     "pronunciation": "uh MEE nuh bul",
     "pos": "adj",
@@ -659,7 +659,7 @@
   },
   {
     "id": "word_53",
-    "word": "",
+    "word": "AMENITY",
     "roots": "amoenus (pleasant)",
     "pronunciation": "uh MEN i tee",
     "pos": "n",
@@ -671,7 +671,7 @@
   },
   {
     "id": "word_54",
-    "word": "",
+    "word": "AMIABLE",
     "roots": "amicus (friend) from amare (to love)",
     "pronunciation": "AY mee uh bul",
     "pos": "adj",
@@ -685,7 +685,7 @@
   },
   {
     "id": "word_55",
-    "word": "",
+    "word": "AMNESTY",
     "roots": "a- (not) + mnasthai (to remember)",
     "pronunciation": "AM nuh stee",
     "pos": "n",
@@ -695,7 +695,7 @@
   },
   {
     "id": "word_56",
-    "word": "",
+    "word": "AMORAL",
     "roots": "a- (without) + mos/mor- (custom)",
     "pronunciation": "ay MOR ul",
     "pos": "adj",
@@ -707,7 +707,7 @@
   },
   {
     "id": "word_57",
-    "word": "",
+    "word": "AMOROUS",
     "roots": "amor (love)",
     "pronunciation": "AM ur us",
     "pos": "adj",
@@ -719,7 +719,7 @@
   },
   {
     "id": "word_58",
-    "word": "",
+    "word": "AMORPHOUS",
     "roots": "a- (without) + morphe (form/shape)",
     "pronunciation": "uh MOR fus",
     "pos": "adj",
@@ -732,7 +732,7 @@
   },
   {
     "id": "word_59",
-    "word": "",
+    "word": "ANACHRONISM",
     "roots": "ana- (against/back) + chronos (time)",
     "pronunciation": "uh NAK ruh niz um",
     "pos": "n",
@@ -744,7 +744,7 @@
   },
   {
     "id": "word_60",
-    "word": "",
+    "word": "ANALOGY",
     "roots": "ana- (according to) + logos (ratio/word)",
     "pronunciation": "uh NAL uh jee",
     "pos": "n",
@@ -756,7 +756,7 @@
   },
   {
     "id": "word_61",
-    "word": "",
+    "word": "ANARCHY",
     "roots": "an- (without) + archos (leader/ruler)",
     "pronunciation": "AN ur kee",
     "pos": "n",
@@ -768,7 +768,7 @@
   },
   {
     "id": "word_62",
-    "word": "",
+    "word": "ANECDOTE",
     "roots": "an- (not) + ekdotos (published)",
     "pronunciation": "AN ik doht",
     "pos": "n",
@@ -782,7 +782,7 @@
   },
   {
     "id": "word_63",
-    "word": "",
+    "word": "ANGUISH",
     "roots": "angere (to choke/squeeze)",
     "pronunciation": "ANG gwish",
     "pos": "n",
@@ -794,7 +794,7 @@
   },
   {
     "id": "word_64",
-    "word": "",
+    "word": "ANIMOSITY",
     "roots": "animus (spirit/mind) + -osity (fullness)",
     "pronunciation": "an uh MAHS uh tee",
     "pos": "n",
@@ -806,7 +806,7 @@
   },
   {
     "id": "word_65",
-    "word": "",
+    "word": "ANOMALY",
     "roots": "an- (not) + homalos (even/same)",
     "pronunciation": "uh NAHM uh lee",
     "pos": "n",
@@ -819,7 +819,7 @@
   },
   {
     "id": "word_66",
-    "word": "",
+    "word": "ANTECEDENT",
     "roots": "ante- (before) + cedere (to go/yield)",
     "pronunciation": "an tuh SEED unt",
     "pos": "n",
@@ -832,7 +832,7 @@
   },
   {
     "id": "word_67",
-    "word": "",
+    "word": "ANTIPATHY",
     "roots": "anti- (against) + pathos (feeling)",
     "pronunciation": "an TIP uh thee",
     "pos": "n",
@@ -844,7 +844,7 @@
   },
   {
     "id": "word_68",
-    "word": "",
+    "word": "ANTITHESIS",
     "roots": "anti- (against) + tithenai (to place)",
     "pronunciation": "an TITH uh sis",
     "pos": "n",
@@ -856,7 +856,7 @@
   },
   {
     "id": "word_69",
-    "word": "",
+    "word": "APARTHEID",
     "roots": "apart + -heid (hood/state)",
     "pronunciation": "uh PAHRT hyte",
     "pos": "n",
@@ -866,7 +866,7 @@
   },
   {
     "id": "word_70",
-    "word": "",
+    "word": "APATHY",
     "roots": "a- (without) + pathos (feeling)",
     "pronunciation": "AP uh thee",
     "pos": "n",
@@ -879,7 +879,7 @@
   },
   {
     "id": "word_71",
-    "word": "",
+    "word": "APHORISM",
     "roots": "apo- (from) + horizein (to define/bound)",
     "pronunciation": "AF uh riz um",
     "pos": "n",
@@ -892,7 +892,7 @@
   },
   {
     "id": "word_72",
-    "word": "",
+    "word": "APOCALYPSE",
     "roots": "apo- (from) + kalyptein (to cover)",
     "pronunciation": "uh PAHK uh lips",
     "pos": "n",
@@ -904,7 +904,7 @@
   },
   {
     "id": "word_73",
-    "word": "",
+    "word": "APOCRYPHAL",
     "roots": "apo- (away) + kryptein (to hide)",
     "pronunciation": "uh POK ruh ful",
     "pos": "n",
@@ -916,7 +916,7 @@
   },
   {
     "id": "word_74",
-    "word": "",
+    "word": "APOTHEOSIS",
     "roots": "apo- (from) + theos (god)",
     "pronunciation": "uh pahth ee OH sis",
     "pos": "n",
@@ -929,7 +929,7 @@
   },
   {
     "id": "word_75",
-    "word": "",
+    "word": "APPEASE",
     "roots": "ad- (to) + pax/pac- (peace)",
     "pronunciation": "uh PEEZ",
     "pos": "v",
@@ -942,7 +942,7 @@
   },
   {
     "id": "word_76",
-    "word": "",
+    "word": "APPRECIATE",
     "roots": "ad- (to) + pretium (price)",
     "pronunciation": "uh PREE shee ayt",
     "pos": "v",
@@ -955,7 +955,7 @@
   },
   {
     "id": "word_77",
-    "word": "",
+    "word": "APPREHENSIVE",
     "roots": "ad- (to) + prehendere (to seize)",
     "pronunciation": "ap ruh HEN siv",
     "pos": "adj",
@@ -969,7 +969,7 @@
   },
   {
     "id": "word_78",
-    "word": "",
+    "word": "APPROBATION",
     "roots": "ad- (to) + probare (to test/prove good)",
     "pronunciation": "ap ruh BAY shun",
     "pos": "n",
@@ -982,7 +982,7 @@
   },
   {
     "id": "word_79",
-    "word": "",
+    "word": "APTITUDE",
     "roots": "aptus (fit/fastened)",
     "pronunciation": "AP tuh tood",
     "pos": "n",
@@ -995,7 +995,7 @@
   },
   {
     "id": "word_80",
-    "word": "",
+    "word": "ARBITER",
     "roots": "arbiter (judge/umpire)",
     "pronunciation": "AHR buh tur",
     "pos": "n",
@@ -1007,7 +1007,7 @@
   },
   {
     "id": "word_81",
-    "word": "",
+    "word": "ARBITRARY",
     "roots": "arbiter (judge/umpire)",
     "pronunciation": "AHR buh trer ee",
     "pos": "adj",
@@ -1020,7 +1020,7 @@
   },
   {
     "id": "word_82",
-    "word": "",
+    "word": "ARCANE",
     "roots": "arcanus (hidden/secret)",
     "pronunciation": "ahr KAYN",
     "pos": "adj",
@@ -1034,7 +1034,7 @@
   },
   {
     "id": "word_83",
-    "word": "",
+    "word": "ARCHAIC",
     "roots": "archaios (ancient) from arche (beginning)",
     "pronunciation": "ahr KAY ik",
     "pos": "adj",
@@ -1046,7 +1046,7 @@
   },
   {
     "id": "word_84",
-    "word": "",
+    "word": "ARCHETYPE",
     "roots": "arche- (original/chief) + typos (model/type)",
     "pronunciation": "AHR kuh type",
     "pos": "n",
@@ -1058,7 +1058,7 @@
   },
   {
     "id": "word_85",
-    "word": "",
+    "word": "ARDENT",
     "roots": "ardere (to burn)",
     "pronunciation": "AHR dunt",
     "pos": "adj",
@@ -1072,7 +1072,7 @@
   },
   {
     "id": "word_86",
-    "word": "",
+    "word": "ARDUOUS",
     "roots": "arduus (steep/difficult)",
     "pronunciation": "AHR joo us",
     "pos": "adj",
@@ -1085,7 +1085,7 @@
   },
   {
     "id": "word_87",
-    "word": "",
+    "word": "ARISTOCRATIC",
     "roots": "aristos (best) + kratos (rule/power)",
     "pronunciation": "uh ris tuh KRAT ik",
     "pos": "adj",
@@ -1098,7 +1098,7 @@
   },
   {
     "id": "word_88",
-    "word": "",
+    "word": "ARTFUL",
     "roots": "ars/art- (skill/craft)",
     "pronunciation": "AHRT ful",
     "pos": "adj",
@@ -1110,7 +1110,7 @@
   },
   {
     "id": "word_89",
-    "word": "",
+    "word": "ARTIFICE",
     "roots": "ars/art- (skill) + facere (to make)",
     "pronunciation": "AHRT uh fus",
     "pos": "n",
@@ -1123,7 +1123,7 @@
   },
   {
     "id": "word_90",
-    "word": "",
+    "word": "ASCENDANCY",
     "roots": "ad- (to) + scandere (to climb)",
     "pronunciation": "uh SEN dun see",
     "pos": "n",
@@ -1136,7 +1136,7 @@
   },
   {
     "id": "word_91",
-    "word": "",
+    "word": "ASCETIC",
     "roots": "askein (to exercise/train)",
     "pronunciation": "uh SET ik",
     "pos": "adj",
@@ -1149,7 +1149,7 @@
   },
   {
     "id": "word_92",
-    "word": "",
+    "word": "ASSIDUOUS",
     "roots": "ad- (to/at) + sedere (to sit)",
     "pronunciation": "uh SIJ oo us",
     "pos": "adj",
@@ -1162,7 +1162,7 @@
   },
   {
     "id": "word_93",
-    "word": "",
+    "word": "ASSIMILATE",
     "roots": "ad- (to) + similis (like/similar)",
     "pronunciation": "uh SIM uh layt",
     "pos": "v",
@@ -1174,7 +1174,7 @@
   },
   {
     "id": "word_94",
-    "word": "",
+    "word": "ASSUAGE",
     "roots": "ad- (to) + suavis (sweet)",
     "pronunciation": "uh SWAYJ",
     "pos": "v",
@@ -1187,7 +1187,7 @@
   },
   {
     "id": "word_95",
-    "word": "",
+    "word": "ASTUTE",
     "roots": "astus (craft/cunning)",
     "pronunciation": "uh STOOT",
     "pos": "adj",
@@ -1200,7 +1200,7 @@
   },
   {
     "id": "word_96",
-    "word": "",
+    "word": "ATHEIST",
     "roots": "a- (without) + theos (god)",
     "pronunciation": "AY thee ist",
     "pos": "n",
@@ -1212,7 +1212,7 @@
   },
   {
     "id": "word_97",
-    "word": "",
+    "word": "ATTRITION",
     "roots": "ad- (against) + terere (to rub)",
     "pronunciation": "uh TRISH un",
     "pos": "n",
@@ -1224,7 +1224,7 @@
   },
   {
     "id": "word_98",
-    "word": "",
+    "word": "AUDACITY",
     "roots": "audax (bold) from audere (to dare)",
     "pronunciation": "aw DAS uh tee",
     "pos": "n",
@@ -1238,7 +1238,7 @@
   },
   {
     "id": "word_99",
-    "word": "",
+    "word": "AUGMENT",
     "roots": "augere (to increase)",
     "pronunciation": "awg MENT",
     "pos": "v",
@@ -1250,7 +1250,7 @@
   },
   {
     "id": "word_100",
-    "word": "",
+    "word": "AUSPICIOUS",
     "roots": "auspex (bird watcher/diviner) + -ous (full of)",
     "pronunciation": "aw SPISH us",
     "pos": "adj",
@@ -1263,7 +1263,7 @@
   },
   {
     "id": "word_101",
-    "word": "",
+    "word": "AUSTERE",
     "roots": "austeros (bitter/harsh)",
     "pronunciation": "aw STEER",
     "pos": "adj",
@@ -1277,7 +1277,7 @@
   },
   {
     "id": "word_102",
-    "word": "",
+    "word": "AUTOCRATIC",
     "roots": "auto- (self) + kratos (power)",
     "pronunciation": "aw tuh KRAT ik",
     "pos": "adj",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": "word_103",
-    "word": "",
+    "word": "AUTONOMOUS",
     "roots": "auto- (self) + nomos (law)",
     "pronunciation": "aw TAHN uh mus",
     "pos": "adj",
@@ -1303,7 +1303,7 @@
   },
   {
     "id": "word_104",
-    "word": "",
+    "word": "AVARICE",
     "roots": "avere (to crave/long for)",
     "pronunciation": "AV ur is",
     "pos": "n",
@@ -1315,7 +1315,7 @@
   },
   {
     "id": "word_105",
-    "word": "",
+    "word": "AVOW",
     "roots": "ad- (to) + vocare (to call)",
     "pronunciation": "uh VOW",
     "pos": "v",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": "word_106",
-    "word": "",
+    "word": "AVUNCULAR",
     "roots": "avunculus (maternal uncle)",
     "pronunciation": "uh VUNG kyuh lur",
     "pos": "adj",
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "word_107",
-    "word": "",
+    "word": "AWRY",
     "roots": "a- (on/in) + wry (twisted)",
     "pronunciation": "uh RYE",
     "pos": "adj",
@@ -1355,7 +1355,7 @@
   },
   {
     "id": "word_108",
-    "word": "",
+    "word": "AXIOM",
     "roots": "axioma (what is thought fitting)",
     "pronunciation": "AK see um",
     "pos": "n",
@@ -1365,7 +1365,7 @@
   },
   {
     "id": "word_109",
-    "word": "",
+    "word": "BANAL",
     "roots": "ban (feudal jurisdiction) - common to all",
     "pronunciation": "buh NAL",
     "pos": "adj",
@@ -1378,7 +1378,7 @@
   },
   {
     "id": "word_110",
-    "word": "",
+    "word": "BANE",
     "roots": "bana (killer/murderer)",
     "pronunciation": "bayn",
     "pos": "n",
@@ -1388,7 +1388,7 @@
   },
   {
     "id": "word_111",
-    "word": "",
+    "word": "BASTION",
     "roots": "bastire (to build)",
     "pronunciation": "BAS chun",
     "pos": "n",
@@ -1401,7 +1401,7 @@
   },
   {
     "id": "word_112",
-    "word": "",
+    "word": "BEGET",
     "roots": "be- (intensive) + get",
     "pronunciation": "bih GET",
     "pos": "v",
@@ -1413,7 +1413,7 @@
   },
   {
     "id": "word_113",
-    "word": "",
+    "word": "BELABOR",
     "roots": "be- (intensive) + laborare (to work)",
     "pronunciation": "bi LAY bur",
     "pos": "v",
@@ -1426,7 +1426,7 @@
   },
   {
     "id": "word_114",
-    "word": "",
+    "word": "BELEAGUER",
     "roots": "be- (around) + leger (camp)",
     "pronunciation": "bih LEE gur",
     "pos": "v",
@@ -1440,7 +1440,7 @@
   },
   {
     "id": "word_115",
-    "word": "",
+    "word": "BELIE",
     "roots": "be- (about) + lie",
     "pronunciation": "bih LYE",
     "pos": "v",
@@ -1453,7 +1453,7 @@
   },
   {
     "id": "word_116",
-    "word": "",
+    "word": "BELITTLE",
     "roots": "be- (make) + little",
     "pronunciation": "bih LIT ul",
     "pos": "v",
@@ -1466,7 +1466,7 @@
   },
   {
     "id": "word_117",
-    "word": "",
+    "word": "BELLIGERENT",
     "roots": "bellum (war) + gerere (to carry/wage)",
     "pronunciation": "buh LIJ ur unt",
     "pos": "adj",
@@ -1478,7 +1478,7 @@
   },
   {
     "id": "word_118",
-    "word": "",
+    "word": "BEMUSED",
     "roots": "be- (completely) + muse (ponder)",
     "pronunciation": "bih MYOOZD",
     "pos": "adj",
@@ -1491,7 +1491,7 @@
   },
   {
     "id": "word_119",
-    "word": "",
+    "word": "BENEFACTOR",
     "roots": "bene (good) + facere (to do/make)",
     "pronunciation": "BEN uh fak tur",
     "pos": "n",
@@ -1503,7 +1503,7 @@
   },
   {
     "id": "word_120",
-    "word": "",
+    "word": "BENEVOLENT",
     "roots": "bene (good) + velle (to wish)",
     "pronunciation": "beh NEV uh lunt",
     "pos": "adj",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "word_121",
-    "word": "",
+    "word": "BENIGN",
     "roots": "bene (good) + genus (birth/kind)",
     "pronunciation": "bih NYNE",
     "pos": "adj",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": "word_122",
-    "word": "",
+    "word": "BEQUEST",
     "roots": "be- (about) + quethan (to say)",
     "pronunciation": "bih KWEST",
     "pos": "n",
@@ -1537,7 +1537,7 @@
   },
   {
     "id": "word_123",
-    "word": "",
+    "word": "BEREAVED",
     "roots": "be- (away/deprive) + reafian (to rob)",
     "pronunciation": "buh REEVD",
     "pos": "adj",
@@ -1550,7 +1550,7 @@
   },
   {
     "id": "word_124",
-    "word": "",
+    "word": "BESET",
     "roots": "be- (around) + set",
     "pronunciation": "bih SET",
     "pos": "v",
@@ -1564,7 +1564,7 @@
   },
   {
     "id": "word_125",
-    "word": "",
+    "word": "BLASPHEMY",
     "roots": "blaptein (to injure) + pheme (speech)",
     "pronunciation": "BLAS fuh mee",
     "pos": "n",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": "word_126",
-    "word": "",
+    "word": "BLATANT",
     "roots": "blatire (to babble/chatter)",
     "pronunciation": "BLAYT unt",
     "pos": "adj",
@@ -1586,7 +1586,7 @@
   },
   {
     "id": "word_127",
-    "word": "",
+    "word": "BLIGHT",
     "roots": "unknown, related to blike (to turn pale)",
     "pronunciation": "blyte",
     "pos": "n",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": "word_128",
-    "word": "",
+    "word": "BLITHE",
     "roots": "blithiz (gentle/kind)",
     "pronunciation": "blythe",
     "pos": "adj",
@@ -1611,7 +1611,7 @@
   },
   {
     "id": "word_129",
-    "word": "",
+    "word": "BOURGEOIS",
     "roots": "burgus (town/fort)",
     "pronunciation": "boor ZHWAH",
     "pos": "adj",
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "word_130",
-    "word": "",
+    "word": "BOVINE",
     "roots": "bos/bov- (cow)",
     "pronunciation": "BOH vyne",
     "pos": "adj",
@@ -1633,7 +1633,7 @@
   },
   {
     "id": "word_131",
-    "word": "",
+    "word": "BREVITY",
     "roots": "brevis (short)",
     "pronunciation": "BREV i tee",
     "pos": "n",
@@ -1646,7 +1646,7 @@
   },
   {
     "id": "word_132",
-    "word": "",
+    "word": "BROACH",
     "roots": "broccus (projecting/pointed)",
     "pronunciation": "brohch",
     "pos": "v",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": "word_133",
-    "word": "",
+    "word": "BUCOLIC",
     "roots": "boukolos (cowherd)",
     "pronunciation": "byoo KAHL ik",
     "pos": "adj",
@@ -1671,7 +1671,7 @@
   },
   {
     "id": "word_134",
-    "word": "",
+    "word": "BUREAUCRACY",
     "roots": "bureau (desk) + -kratia (power/rule)",
     "pronunciation": "byoo RAHK ruh see",
     "pos": "n",
@@ -1683,7 +1683,7 @@
   },
   {
     "id": "word_135",
-    "word": "",
+    "word": "BURGEON",
     "roots": "burio (bud)",
     "pronunciation": "BUR jun",
     "pos": "v",
@@ -1695,7 +1695,7 @@
   },
   {
     "id": "word_136",
-    "word": "",
+    "word": "BURLESQUE",
     "roots": "burla (joke/mockery)",
     "pronunciation": "bur LESK",
     "pos": "n",
@@ -1707,7 +1707,7 @@
   },
   {
     "id": "word_137",
-    "word": "",
+    "word": "CACOPHONY",
     "roots": "kakos (bad) + phone (sound)",
     "pronunciation": "kuh KAHF uh nee",
     "pos": "n",
@@ -1719,7 +1719,7 @@
   },
   {
     "id": "word_138",
-    "word": "",
+    "word": "CADENCE",
     "roots": "cadere (to fall)",
     "pronunciation": "KAYD uns",
     "pos": "n",
@@ -1731,7 +1731,7 @@
   },
   {
     "id": "word_139",
-    "word": "",
+    "word": "CAJOLE",
     "roots": "gariolare (to chatter)",
     "pronunciation": "kuh JOHL",
     "pos": "v",
@@ -1743,7 +1743,7 @@
   },
   {
     "id": "word_140",
-    "word": "",
+    "word": "CALLOW",
     "roots": "calu (bare/bald)",
     "pronunciation": "KAL oh",
     "pos": "adj",
@@ -1755,7 +1755,7 @@
   },
   {
     "id": "word_141",
-    "word": "",
+    "word": "CANDOR",
     "roots": "candere (to shine/be white)",
     "pronunciation": "KAN dur",
     "pos": "n",
@@ -1768,7 +1768,7 @@
   },
   {
     "id": "word_142",
-    "word": "",
+    "word": "CAPITALISM",
     "roots": "caput (head) + -ism",
     "pronunciation": "KAP uh tuh liz um",
     "pos": "n",
@@ -1778,7 +1778,7 @@
   },
   {
     "id": "word_143",
-    "word": "",
+    "word": "CAPITULATE",
     "roots": "capitulum (little head/heading)",
     "pronunciation": "kuh PICH uh layt",
     "pos": "v",
@@ -1791,7 +1791,7 @@
   },
   {
     "id": "word_144",
-    "word": "",
+    "word": "CAPRICIOUS",
     "roots": "capra (goat) - jumping like a goat",
     "pronunciation": "kuh PRISH us",
     "pos": "adj",
@@ -1805,7 +1805,7 @@
   },
   {
     "id": "word_145",
-    "word": "",
+    "word": "CARICATURE",
     "roots": "caricare (to load/exaggerate)",
     "pronunciation": "KAR uh kuh chur",
     "pos": "n",
@@ -1817,7 +1817,7 @@
   },
   {
     "id": "word_146",
-    "word": "",
+    "word": "CASTIGATE",
     "roots": "castus (pure) + agere (to drive)",
     "pronunciation": "KAS tuh gayt",
     "pos": "v",
@@ -1829,7 +1829,7 @@
   },
   {
     "id": "word_147",
-    "word": "",
+    "word": "CATALYST",
     "roots": "kata- (down) + lyein (to loosen)",
     "pronunciation": "KAT uh list",
     "pos": "n",
@@ -1843,7 +1843,7 @@
   },
   {
     "id": "word_148",
-    "word": "",
+    "word": "CATEGORICAL",
     "roots": "kata- (down) + agoreuein (to speak in assembly)",
     "pronunciation": "kat uh GOR uh kul",
     "pos": "adj",
@@ -1856,7 +1856,7 @@
   },
   {
     "id": "word_149",
-    "word": "",
+    "word": "CATHARSIS",
     "roots": "kathairein (to cleanse)",
     "pronunciation": "kuh THAR sis",
     "pos": "n",
@@ -1866,7 +1866,7 @@
   },
   {
     "id": "word_150",
-    "word": "",
+    "word": "CATHOLIC",
     "roots": "kata- (about) + holos (whole)",
     "pronunciation": "KATH lik",
     "pos": "adj",
@@ -1878,7 +1878,7 @@
   },
   {
     "id": "word_151",
-    "word": "",
+    "word": "CAUSTIC",
     "roots": "kaiein (to burn)",
     "pronunciation": "KAW stik",
     "pos": "adj",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "word_152",
-    "word": "",
+    "word": "CELIBACY",
     "roots": "caelebs (unmarried)",
     "pronunciation": "SEL uh buh see",
     "pos": "n",
@@ -1901,7 +1901,7 @@
   },
   {
     "id": "word_153",
-    "word": "",
+    "word": "CENSURE",
     "roots": "censere (to appraise/judge)",
     "pronunciation": "SEN shur",
     "pos": "v",
@@ -1914,7 +1914,7 @@
   },
   {
     "id": "word_154",
-    "word": "",
+    "word": "CEREBRAL",
     "roots": "cerebrum (brain)",
     "pronunciation": "suh REE brul",
     "pos": "adj",
@@ -1926,7 +1926,7 @@
   },
   {
     "id": "word_155",
-    "word": "",
+    "word": "CHAGRIN",
     "roots": "chagrin (rough skin/melancholy)",
     "pronunciation": "shuh GRIN",
     "pos": "n",
@@ -1939,7 +1939,7 @@
   },
   {
     "id": "word_156",
-    "word": "",
+    "word": "CHARISMA",
     "roots": "charis (grace/favor)",
     "pronunciation": "kuh RIZ muh",
     "pos": "n",
@@ -1952,7 +1952,7 @@
   },
   {
     "id": "word_157",
-    "word": "",
+    "word": "CHARLATAN",
     "roots": "ciarlare (to prattle/chatter)",
     "pronunciation": "SHAR luh tun",
     "pos": "n",
@@ -1965,7 +1965,7 @@
   },
   {
     "id": "word_158",
-    "word": "",
+    "word": "CHASM",
     "roots": "chasma (gaping hollow)",
     "pronunciation": "KAZ um",
     "pos": "n",
@@ -1978,7 +1978,7 @@
   },
   {
     "id": "word_159",
-    "word": "",
+    "word": "CHASTISE",
     "roots": "castigare (to make pure/punish)",
     "pronunciation": "chas TYZE",
     "pos": "v",
@@ -1991,7 +1991,7 @@
   },
   {
     "id": "word_160",
-    "word": "",
+    "word": "CHICANERY",
     "roots": "ricaner (to mock)",
     "pronunciation": "shi KAY nuh ree",
     "pos": "n",
@@ -2003,7 +2003,7 @@
   },
   {
     "id": "word_161",
-    "word": "",
+    "word": "CHIMERA",
     "roots": "khimaira (she-goat/monster)",
     "pronunciation": "kye MEER uh",
     "pos": "n",
@@ -2016,7 +2016,7 @@
   },
   {
     "id": "word_162",
-    "word": "",
+    "word": "CHOLERIC",
     "roots": "chole (bile/gall)",
     "pronunciation": "KAHL ur ik",
     "pos": "adj",
@@ -2030,7 +2030,7 @@
   },
   {
     "id": "word_163",
-    "word": "",
+    "word": "CHRONIC",
     "roots": "chronos (time)",
     "pronunciation": "KRAHN ik",
     "pos": "adj",
@@ -2042,7 +2042,7 @@
   },
   {
     "id": "word_164",
-    "word": "",
+    "word": "CHRONICLE",
     "roots": "chronos (time)",
     "pronunciation": "KRAHN uh kul",
     "pos": "n",
@@ -2056,7 +2056,7 @@
   },
   {
     "id": "word_165",
-    "word": "",
+    "word": "CIRCUITOUS",
     "roots": "circum (around) + ire (to go)",
     "pronunciation": "sur KYOO uh tus",
     "pos": "adj",
@@ -2069,7 +2069,7 @@
   },
   {
     "id": "word_166",
-    "word": "",
+    "word": "CIRCUMLOCUTION",
     "roots": "circum (around) + loqui (to speak)",
     "pronunciation": "sur kum loh KYOO shun",
     "pos": "n",
@@ -2082,7 +2082,7 @@
   },
   {
     "id": "word_167",
-    "word": "",
+    "word": "CIRCUMSCRIBE",
     "roots": "circum (around) + scribere (to write)",
     "pronunciation": "SUR kum skrybe",
     "pos": "v",
@@ -2095,7 +2095,7 @@
   },
   {
     "id": "word_168",
-    "word": "",
+    "word": "CIRCUMSPECT",
     "roots": "circum (around) + specere (to look)",
     "pronunciation": "SUR kum spekt",
     "pos": "adj",
@@ -2108,7 +2108,7 @@
   },
   {
     "id": "word_169",
-    "word": "",
+    "word": "CIRCUMVENT",
     "roots": "circum (around) + venire (to come)",
     "pronunciation": "sur kum VENT",
     "pos": "v",
@@ -2121,7 +2121,7 @@
   },
   {
     "id": "word_170",
-    "word": "",
+    "word": "CIVIL",
     "roots": "civis (citizen)",
     "pronunciation": "SIV ul",
     "pos": "adj",
@@ -2133,7 +2133,7 @@
   },
   {
     "id": "word_171",
-    "word": "",
+    "word": "CLEMENCY",
     "roots": "clemens (mild/placid)",
     "pronunciation": "KLEM un see",
     "pos": "n",
@@ -2147,7 +2147,7 @@
   },
   {
     "id": "word_172",
-    "word": "",
+    "word": "CLIQUE",
     "roots": "cliquer (to click/make a noise)",
     "pronunciation": "kleek; klik",
     "pos": "n",
@@ -2159,7 +2159,7 @@
   },
   {
     "id": "word_173",
-    "word": "",
+    "word": "COALESCE",
     "roots": "co- (together) + alescere (to grow up)",
     "pronunciation": "koh uh LES",
     "pos": "v",
@@ -2173,7 +2173,7 @@
   },
   {
     "id": "word_174",
-    "word": "",
+    "word": "COERCE",
     "roots": "com- (together) + arcere (to enclose/confine)",
     "pronunciation": "koh URS",
     "pos": "v",
@@ -2185,7 +2185,7 @@
   },
   {
     "id": "word_175",
-    "word": "",
+    "word": "COGENT",
     "roots": "com- (together) + agere (to drive)",
     "pronunciation": "KOH junt",
     "pos": "adj",
@@ -2198,7 +2198,7 @@
   },
   {
     "id": "word_176",
-    "word": "",
+    "word": "COGNITIVE",
     "roots": "com- (with) + gnoscere (to know)",
     "pronunciation": "KAHG nu tiv",
     "pos": "adj",
@@ -2208,7 +2208,7 @@
   },
   {
     "id": "word_177",
-    "word": "",
+    "word": "COGNIZANT",
     "roots": "com- (with) + gnoscere (to know)",
     "pronunciation": "KAHG nu zunt",
     "pos": "adj",
@@ -2220,7 +2220,7 @@
   },
   {
     "id": "word_178",
-    "word": "",
+    "word": "COHERENT",
     "roots": "com- (together) + haerere (to stick)",
     "pronunciation": "koh HEER unt",
     "pos": "adj",
@@ -2232,7 +2232,7 @@
   },
   {
     "id": "word_179",
-    "word": "",
+    "word": "COLLOQUIAL",
     "roots": "com- (together) + loqui (to speak)",
     "pronunciation": "kul OH kwee ul",
     "pos": "adj",
@@ -2242,7 +2242,7 @@
   },
   {
     "id": "word_180",
-    "word": "",
+    "word": "COLLUSION",
     "roots": "com- (together) + ludere (to play)",
     "pronunciation": "kuh LOO zhun",
     "pos": "n",
@@ -2256,7 +2256,7 @@
   },
   {
     "id": "word_181",
-    "word": "",
+    "word": "COMMENSURATE",
     "roots": "com- (with) + mensurare (to measure)",
     "pronunciation": "kuh MEN sur it",
     "pos": "adj",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "word_182",
-    "word": "",
+    "word": "COMPELLING",
     "roots": "com- (together/force) + pellere (to drive)",
     "pronunciation": "kum PEL ing",
     "pos": "adj",
@@ -2283,7 +2283,7 @@
   },
   {
     "id": "word_183",
-    "word": "",
+    "word": "COMPENDIUM",
     "roots": "com- (together) + pendere (to weigh/hang)",
     "pronunciation": "kum PEN dee um",
     "pos": "n",
@@ -2295,7 +2295,7 @@
   },
   {
     "id": "word_184",
-    "word": "",
+    "word": "COMPLACENT",
     "roots": "com- (intensive) + placere (to please)",
     "pronunciation": "kum PLAY sunt",
     "pos": "adj",
@@ -2309,7 +2309,7 @@
   },
   {
     "id": "word_185",
-    "word": "",
+    "word": "COMPLEMENT",
     "roots": "com- (intensive) + plere (to fill)",
     "pronunciation": "KAHM pluh munt",
     "pos": "v",
@@ -2322,7 +2322,7 @@
   },
   {
     "id": "word_186",
-    "word": "",
+    "word": "COMPLICITY",
     "roots": "com- (together) + plicare (to fold)",
     "pronunciation": "kum PLIS uh tee",
     "pos": "n",
@@ -2335,7 +2335,7 @@
   },
   {
     "id": "word_187",
-    "word": "",
+    "word": "COMPREHENSIVE",
     "roots": "com- (together) + prehendere (to grasp)",
     "pronunciation": "kahm pruh HEN siv",
     "pos": "adj",
@@ -2348,7 +2348,7 @@
   },
   {
     "id": "word_188",
-    "word": "",
+    "word": "COMPRISE",
     "roots": "com- (together) + prehendere (to grasp)",
     "pronunciation": "kum PRYZE",
     "pos": "v",
@@ -2361,7 +2361,7 @@
   },
   {
     "id": "word_189",
-    "word": "",
+    "word": "CONCILIATORY",
     "roots": "concilium (assembly/council)",
     "pronunciation": "kun SIL ee uh tor ee",
     "pos": "adj",
@@ -2376,7 +2376,7 @@
   },
   {
     "id": "word_190",
-    "word": "",
+    "word": "CONCISE",
     "roots": "com- (intensive) + caedere (to cut)",
     "pronunciation": "kun SYSE",
     "pos": "adj",
@@ -2388,7 +2388,7 @@
   },
   {
     "id": "word_191",
-    "word": "",
+    "word": "CONCORD",
     "roots": "com- (together) + cor/cord- (heart)",
     "pronunciation": "KAHN kord",
     "pos": "n",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": "word_192",
-    "word": "",
+    "word": "CONCURRENT",
     "roots": "com- (together) + currere (to run)",
     "pronunciation": "kun KUR unt",
     "pos": "adj",
@@ -2416,7 +2416,7 @@
   },
   {
     "id": "word_193",
-    "word": "",
+    "word": "CONDONE",
     "roots": "com- (intensive) + donare (to give)",
     "pronunciation": "kun DOHN",
     "pos": "v",
@@ -2428,7 +2428,7 @@
   },
   {
     "id": "word_194",
-    "word": "",
+    "word": "CONDUCIVE",
     "roots": "com- (together) + ducere (to lead)",
     "pronunciation": "kun DOO siv",
     "pos": "adj",
@@ -2441,7 +2441,7 @@
   },
   {
     "id": "word_195",
-    "word": "",
+    "word": "CONFLUENCE",
     "roots": "com- (together) + fluere (to flow)",
     "pronunciation": "KAHN floo uns",
     "pos": "n",
@@ -2455,7 +2455,7 @@
   },
   {
     "id": "word_196",
-    "word": "",
+    "word": "CONGENIAL",
     "roots": "com- (together) + genialis (of birth/spirit)",
     "pronunciation": "kun JEEN yul",
     "pos": "adj",
@@ -2468,7 +2468,7 @@
   },
   {
     "id": "word_197",
-    "word": "",
+    "word": "CONGENITAL",
     "roots": "com- (together) + gignere (to beget)",
     "pronunciation": "kun JEN uh tul",
     "pos": "adj",
@@ -2478,7 +2478,7 @@
   },
   {
     "id": "word_198",
-    "word": "",
+    "word": "CONGREGATE",
     "roots": "com- (together) + grex/greg- (flock)",
     "pronunciation": "KAHN grih gayt",
     "pos": "v",
@@ -2491,7 +2491,7 @@
   },
   {
     "id": "word_199",
-    "word": "",
+    "word": "CONJECTURE",
     "roots": "com- (together) + jacere (to throw)",
     "pronunciation": "kun JEK chur",
     "pos": "v",
@@ -2504,7 +2504,7 @@
   },
   {
     "id": "word_200",
-    "word": "",
+    "word": "CONJURE",
     "roots": "com- (together) + jurare (to swear)",
     "pronunciation": "KAHN jur",
     "pos": "v",
@@ -2517,7 +2517,7 @@
   },
   {
     "id": "word_201",
-    "word": "",
+    "word": "CONNOISSEUR",
     "roots": "com- (with) + gnoscere (to know)",
     "pronunciation": "kahn uh SUR",
     "pos": "n",
@@ -2532,7 +2532,7 @@
   },
   {
     "id": "word_202",
-    "word": "",
+    "word": "CONSECRATE",
     "roots": "com- (together) + sacrare (to make holy)",
     "pronunciation": "KAHN suh krayt",
     "pos": "v",
@@ -2550,7 +2550,7 @@
   },
   {
     "id": "word_203",
-    "word": "",
+    "word": "CONSENSUS",
     "roots": "com- (together) + sentire (to feel)",
     "pronunciation": "kun SEN sus",
     "pos": "n",
@@ -2560,7 +2560,7 @@
   },
   {
     "id": "word_204",
-    "word": "",
+    "word": "CONSONANT",
     "roots": "com- (together) + sonare (to sound)",
     "pronunciation": "KAHN suh nunt",
     "pos": "adj",
@@ -2573,7 +2573,7 @@
   },
   {
     "id": "word_205",
-    "word": "",
+    "word": "CONSTRUE",
     "roots": "com- (together) + struere (to build)",
     "pronunciation": "kun STROO",
     "pos": "v",
@@ -2588,7 +2588,7 @@
   },
   {
     "id": "word_206",
-    "word": "",
+    "word": "CONSUMMATE",
     "roots": "com- (together) + summa (sum/highest)",
     "pronunciation": "KAHN sum it",
     "pos": "adj",
@@ -2600,7 +2600,7 @@
   },
   {
     "id": "word_207",
-    "word": "",
+    "word": "CONTENTIOUS",
     "roots": "com- (with/against) + tendere (to stretch)",
     "pronunciation": "kun TEN shus",
     "pos": "adj",
@@ -2612,7 +2612,7 @@
   },
   {
     "id": "word_208",
-    "word": "",
+    "word": "CONTIGUOUS",
     "roots": "com- (together) + tangere (to touch)",
     "pronunciation": "kun TIG yoo us",
     "pos": "adj",
@@ -2622,7 +2622,7 @@
   },
   {
     "id": "word_209",
-    "word": "",
+    "word": "CONTINGENT",
     "roots": "com- (together) + tangere (to touch)",
     "pronunciation": "kun TIN junt",
     "pos": "adj",
@@ -2637,7 +2637,7 @@
   },
   {
     "id": "word_210",
-    "word": "",
+    "word": "CONTRITE",
     "roots": "com- (together) + terere (to rub/grind)",
     "pronunciation": "kun TRYTE",
     "pos": "adj",
@@ -2649,7 +2649,7 @@
   },
   {
     "id": "word_211",
-    "word": "",
+    "word": "CONTRIVED",
     "roots": "com- (together) + tropare (to turn/find)",
     "pronunciation": "kun TRYVED",
     "pos": "adj",
@@ -2663,7 +2663,7 @@
   },
   {
     "id": "word_212",
-    "word": "",
+    "word": "CONVENTIONAL",
     "roots": "com- (together) + venire (to come)",
     "pronunciation": "kun VEN shun nul",
     "pos": "adj",
@@ -2676,7 +2676,7 @@
   },
   {
     "id": "word_213",
-    "word": "",
+    "word": "CONVIVIAL",
     "roots": "com- (together) + vivere (to live)",
     "pronunciation": "kun VIV ee ul",
     "pos": "adj",
@@ -2686,7 +2686,7 @@
   },
   {
     "id": "word_214",
-    "word": "",
+    "word": "COPIOUS",
     "roots": "com- (with) + ops (wealth)",
     "pronunciation": "KOH pee us",
     "pos": "adj",
@@ -2700,7 +2700,7 @@
   },
   {
     "id": "word_215",
-    "word": "",
+    "word": "COROLLARY",
     "roots": "corolla (little garland)",
     "pronunciation": "KOR uh ler ee",
     "pos": "n",
@@ -2713,7 +2713,7 @@
   },
   {
     "id": "word_216",
-    "word": "",
+    "word": "CORROBORATE",
     "roots": "com- (together) + robur (strength/oak)",
     "pronunciation": "kuh ROB uh rayt",
     "pos": "v",
@@ -2727,7 +2727,7 @@
   },
   {
     "id": "word_217",
-    "word": "",
+    "word": "COSMOPOLITAN",
     "roots": "kosmos (world) + polites (citizen)",
     "pronunciation": "kahz muh PAHL uh tun",
     "pos": "adj",
@@ -2741,7 +2741,7 @@
   },
   {
     "id": "word_218",
-    "word": "",
+    "word": "COUNTENANCE",
     "roots": "com- (together) + tenere (to hold)",
     "pronunciation": "KOWN tuh nuns",
     "pos": "n",
@@ -2755,7 +2755,7 @@
   },
   {
     "id": "word_219",
-    "word": "",
+    "word": "COUP",
     "roots": "colpus (blow)",
     "pronunciation": "koo",
     "pos": "n",
@@ -2770,7 +2770,7 @@
   },
   {
     "id": "word_220",
-    "word": "",
+    "word": "COVENANT",
     "roots": "com- (together) + venire (to come)",
     "pronunciation": "KUV uh nunt",
     "pos": "n",
@@ -2783,7 +2783,7 @@
   },
   {
     "id": "word_221",
-    "word": "",
+    "word": "COVERT",
     "roots": "com- (together) + operire (to cover)",
     "pronunciation": "koh VURT",
     "pos": "adj",
@@ -2793,7 +2793,7 @@
   },
   {
     "id": "word_222",
-    "word": "",
+    "word": "COVET",
     "roots": "cupere (to desire)",
     "pronunciation": "KUV it",
     "pos": "v",
@@ -2806,7 +2806,7 @@
   },
   {
     "id": "word_223",
-    "word": "",
+    "word": "CREDULOUS",
     "roots": "credere (to believe)",
     "pronunciation": "KREJ uh lus",
     "pos": "adj",
@@ -2822,7 +2822,7 @@
   },
   {
     "id": "word_224",
-    "word": "",
+    "word": "CRITERION",
     "roots": "krinein (to judge/decide)",
     "pronunciation": "krye TEER ee un",
     "pos": "n",
@@ -2835,7 +2835,7 @@
   },
   {
     "id": "word_225",
-    "word": "",
+    "word": "CRYPTIC",
     "roots": "kryptein (to hide)",
     "pronunciation": "KRIP tik",
     "pos": "adj",
@@ -2848,7 +2848,7 @@
   },
   {
     "id": "word_226",
-    "word": "",
+    "word": "CULINARY",
     "roots": "culina (kitchen)",
     "pronunciation": "KYOO luh ner ee",
     "pos": "adj",
@@ -2860,7 +2860,7 @@
   },
   {
     "id": "word_227",
-    "word": "",
+    "word": "CULMINATE",
     "roots": "culmen (top/summit)",
     "pronunciation": "KUL muh nayt",
     "pos": "v",
@@ -2873,7 +2873,7 @@
   },
   {
     "id": "word_228",
-    "word": "",
+    "word": "CULPABLE",
     "roots": "culpa (fault/blame)",
     "pronunciation": "KUL puh bul",
     "pos": "adj",
@@ -2887,7 +2887,7 @@
   },
   {
     "id": "word_229",
-    "word": "",
+    "word": "CURSORY",
     "roots": "currere (to run)",
     "pronunciation": "KUR suh ree",
     "pos": "adj",
@@ -2900,7 +2900,7 @@
   },
   {
     "id": "word_230",
-    "word": "",
+    "word": "CURTAIL",
     "roots": "curtus (short)",
     "pronunciation": "kur TAYL",
     "pos": "v",
@@ -2912,7 +2912,7 @@
   },
   {
     "id": "word_231",
-    "word": "",
+    "word": "CYNIC",
     "roots": "kyon/kyn- (dog)",
     "pronunciation": "SIN ik",
     "pos": "n",
@@ -2924,7 +2924,7 @@
   },
   {
     "id": "word_232",
-    "word": "",
+    "word": "DAUNT",
     "roots": "domare (to tame)",
     "pronunciation": "dawnt",
     "pos": "v",
@@ -2938,7 +2938,7 @@
   },
   {
     "id": "word_233",
-    "word": "",
+    "word": "DEARTH",
     "roots": "deore (precious/costly) + -th",
     "pronunciation": "durth",
     "pos": "n",
@@ -2952,7 +2952,7 @@
   },
   {
     "id": "word_234",
-    "word": "",
+    "word": "DEBACLE",
     "roots": "de- (down/away) + bacler (to bar)",
     "pronunciation": "di BAHK ul",
     "pos": "n",
@@ -2964,7 +2964,7 @@
   },
   {
     "id": "word_235",
-    "word": "",
+    "word": "DEBAUCHERY",
     "roots": "de- (away) + bauch (beam) -> to chop off",
     "pronunciation": "di BAW chuh ree",
     "pos": "n",
@@ -2976,7 +2976,7 @@
   },
   {
     "id": "word_236",
-    "word": "",
+    "word": "DEBILITATE",
     "roots": "de- (away) + bilis (strength)",
     "pronunciation": "di BIL uh tayt",
     "pos": "v",
@@ -2989,7 +2989,7 @@
   },
   {
     "id": "word_237",
-    "word": "",
+    "word": "DECADENT",
     "roots": "de- (down) + cadere (to fall)",
     "pronunciation": "DEK uh dunt",
     "pos": "adj",
@@ -3001,7 +3001,7 @@
   },
   {
     "id": "word_238",
-    "word": "",
+    "word": "DECIMATE",
     "roots": "decimus (tenth) - killing one in ten",
     "pronunciation": "DES uh mayt",
     "pos": "v",
@@ -3014,7 +3014,7 @@
   },
   {
     "id": "word_239",
-    "word": "",
+    "word": "DECOROUS",
     "roots": "decor (beauty/grace)",
     "pronunciation": "DEK ur us",
     "pos": "adj",
@@ -3026,7 +3026,7 @@
   },
   {
     "id": "word_240",
-    "word": "",
+    "word": "DEDUCE",
     "roots": "de- (down) + ducere (to lead)",
     "pronunciation": "di DOOS",
     "pos": "v",
@@ -3039,7 +3039,7 @@
   },
   {
     "id": "word_241",
-    "word": "",
+    "word": "DEFAME",
     "roots": "de- (down/away) + fama (reputation)",
     "pronunciation": "di FAYM",
     "pos": "v",
@@ -3052,7 +3052,7 @@
   },
   {
     "id": "word_242",
-    "word": "",
+    "word": "DEFERENCE",
     "roots": "de- (down) + ferre (to bring/carry)",
     "pronunciation": "DEF ur uns",
     "pos": "n",
@@ -3067,7 +3067,7 @@
   },
   {
     "id": "word_243",
-    "word": "",
+    "word": "DEFINITIVE",
     "roots": "de- (completely) + finire (to finish/end)",
     "pronunciation": "di FIN uh tiv",
     "pos": "adj",
@@ -3081,7 +3081,7 @@
   },
   {
     "id": "word_244",
-    "word": "",
+    "word": "DEGENERATE",
     "roots": "de- (down) + genus (race/kind)",
     "pronunciation": "di JEN uh rayt",
     "pos": "v",
@@ -3098,7 +3098,7 @@
   },
   {
     "id": "word_245",
-    "word": "",
+    "word": "DELETERIOUS",
     "roots": "deleisthai (to hurt/destroy)",
     "pronunciation": "del uh TIR ee us",
     "pos": "adj",
@@ -3111,7 +3111,7 @@
   },
   {
     "id": "word_246",
-    "word": "",
+    "word": "DELINEATE",
     "roots": "de- (completely) + linea (line)",
     "pronunciation": "di LIN ee ayt",
     "pos": "v",
@@ -3125,7 +3125,7 @@
   },
   {
     "id": "word_247",
-    "word": "",
+    "word": "DELUDE",
     "roots": "de- (down/away) + ludere (to play)",
     "pronunciation": "dye LOOD",
     "pos": "v",
@@ -3141,7 +3141,7 @@
   },
   {
     "id": "word_248",
-    "word": "",
+    "word": "DELUGE",
     "roots": "dis- (away) + lavere (to wash)",
     "pronunciation": "DEL yooj",
     "pos": "n",
@@ -3153,7 +3153,7 @@
   },
   {
     "id": "word_249",
-    "word": "",
+    "word": "DEMAGOGUE",
     "roots": "demos (people) + agogos (leader)",
     "pronunciation": "DEM uh gawg",
     "pos": "n",
@@ -3163,7 +3163,7 @@
   },
   {
     "id": "word_250",
-    "word": "",
+    "word": "DENIZEN",
     "roots": "deintus (from within)",
     "pronunciation": "DEN i zun",
     "pos": "n",
@@ -3173,7 +3173,7 @@
   },
   {
     "id": "word_251",
-    "word": "",
+    "word": "DEPRAVITY",
     "roots": "de- (completely) + pravus (crooked)",
     "pronunciation": "di PRAV uh tee",
     "pos": "n",
@@ -3186,7 +3186,7 @@
   },
   {
     "id": "word_252",
-    "word": "",
+    "word": "DEPRECATE",
     "roots": "de- (away) + precari (to pray)",
     "pronunciation": "DEP ruh kayt",
     "pos": "v",
@@ -3199,7 +3199,7 @@
   },
   {
     "id": "word_253",
-    "word": "",
+    "word": "DERIDE",
     "roots": "de- (down) + ridere (to laugh)",
     "pronunciation": "di RYDE",
     "pos": "v",
@@ -3213,7 +3213,7 @@
   },
   {
     "id": "word_254",
-    "word": "",
+    "word": "DEROGATORY",
     "roots": "de- (away) + rogare (to ask)",
     "pronunciation": "dih RAHG uh tor ee",
     "pos": "adj",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": "word_255",
-    "word": "",
+    "word": "DESICCATE",
     "roots": "de- (completely) + siccare (to dry)",
     "pronunciation": "DES uh kayt",
     "pos": "v",
@@ -3238,7 +3238,7 @@
   },
   {
     "id": "word_256",
-    "word": "",
+    "word": "DESPONDENT",
     "roots": "de- (away) + spondere (to promise)",
     "pronunciation": "dih SPAHN dunt",
     "pos": "adj",
@@ -3252,7 +3252,7 @@
   },
   {
     "id": "word_257",
-    "word": "",
+    "word": "DESPOT",
     "roots": "despotes (master)",
     "pronunciation": "DES puht",
     "pos": "n",
@@ -3266,7 +3266,7 @@
   },
   {
     "id": "word_258",
-    "word": "",
+    "word": "DESTITUTE",
     "roots": "de- (away) + statuere (to set/place)",
     "pronunciation": "DES tuh toot",
     "pos": "adj",
@@ -3276,7 +3276,7 @@
   },
   {
     "id": "word_259",
-    "word": "",
+    "word": "DESULTORY",
     "roots": "de- (down) + salire (to leap)",
     "pronunciation": "DES ul tor ee",
     "pos": "adj",
@@ -3290,7 +3290,7 @@
   },
   {
     "id": "word_260",
-    "word": "",
+    "word": "DEXTROUS",
     "roots": "dexter (right)",
     "pronunciation": "DEX trus",
     "pos": "adj",
@@ -3304,7 +3304,7 @@
   },
   {
     "id": "word_261",
-    "word": "",
+    "word": "DIALECTICAL",
     "roots": "dia- (across) + legein (to speak)",
     "pronunciation": "dye uh LEK ti kul",
     "pos": "adj",
@@ -3314,7 +3314,7 @@
   },
   {
     "id": "word_262",
-    "word": "",
+    "word": "DICTUM",
     "roots": "dicere (to say)",
     "pronunciation": "DIK tum",
     "pos": "n",
@@ -3324,7 +3324,7 @@
   },
   {
     "id": "word_263",
-    "word": "",
+    "word": "DIDACTIC",
     "roots": "didaskein (to teach)",
     "pronunciation": "dye DAK tik",
     "pos": "adj",
@@ -3338,7 +3338,7 @@
   },
   {
     "id": "word_264",
-    "word": "",
+    "word": "DIFFIDENT",
     "roots": "dis- (not) + fidere (to trust)",
     "pronunciation": "DIF i dunt",
     "pos": "adj",
@@ -3352,7 +3352,7 @@
   },
   {
     "id": "word_265",
-    "word": "",
+    "word": "DIGRESS",
     "roots": "dis- (apart) + gradi (to step)",
     "pronunciation": "dye GRES",
     "pos": "v",
@@ -3364,7 +3364,7 @@
   },
   {
     "id": "word_266",
-    "word": "",
+    "word": "DILETTANTE",
     "roots": "delectare (to delight/charm)",
     "pronunciation": "DIL uh tahnt",
     "pos": "n",
@@ -3377,7 +3377,7 @@
   },
   {
     "id": "word_267",
-    "word": "",
+    "word": "DISCERN",
     "roots": "dis- (apart) + cernere (to separate)",
     "pronunciation": "dih SURN",
     "pos": "v",
@@ -3389,7 +3389,7 @@
   },
   {
     "id": "word_268",
-    "word": "",
+    "word": "DISCREET",
     "roots": "dis- (apart) + cernere (to separate)",
     "pronunciation": "dih SKREET",
     "pos": "adj",
@@ -3403,7 +3403,7 @@
   },
   {
     "id": "word_269",
-    "word": "",
+    "word": "DISCRETE",
     "roots": "dis- (apart) + cernere (to separate)",
     "pronunciation": "dih SKREET",
     "pos": "adj",
@@ -3416,7 +3416,7 @@
   },
   {
     "id": "word_270",
-    "word": "",
+    "word": "DISCRIMINATE",
     "roots": "dis- (apart) + crimen (judgment)",
     "pronunciation": "dih SKRIM uh nayt",
     "pos": "v",
@@ -3426,7 +3426,7 @@
   },
   {
     "id": "word_271",
-    "word": "",
+    "word": "DISDAIN",
     "roots": "dis- (not) + dignari (to deem worthy)",
     "pronunciation": "dis DAYN",
     "pos": "n",
@@ -3439,7 +3439,7 @@
   },
   {
     "id": "word_272",
-    "word": "",
+    "word": "DISINTERESTED",
     "roots": "dis- (not) + inter (between) + esse (to be)",
     "pronunciation": "dis IN truh stid",
     "pos": "adj",
@@ -3452,7 +3452,7 @@
   },
   {
     "id": "word_273",
-    "word": "",
+    "word": "DISPARAGE",
     "roots": "dis- (not) + par (equal)",
     "pronunciation": "dih SPAR ij",
     "pos": "v",
@@ -3465,7 +3465,7 @@
   },
   {
     "id": "word_274",
-    "word": "",
+    "word": "DISPARATE",
     "roots": "dis- (not) + parare (to prepare/equal)",
     "pronunciation": "DIS pur it",
     "pos": "adj",
@@ -3479,7 +3479,7 @@
   },
   {
     "id": "word_275",
-    "word": "",
+    "word": "DISSEMINATE",
     "roots": "dis- (apart) + semen (seed)",
     "pronunciation": "dih SEM uh nayt",
     "pos": "v",
@@ -3489,7 +3489,7 @@
   },
   {
     "id": "word_276",
-    "word": "",
+    "word": "DISSIPATE",
     "roots": "dis- (apart) + supare (to throw)",
     "pronunciation": "DIS uh payt",
     "pos": "v",
@@ -3504,7 +3504,7 @@
   },
   {
     "id": "word_277",
-    "word": "",
+    "word": "DISSOLUTION",
     "roots": "dis- (apart) + solvere (to loosen)",
     "pronunciation": "dis uh LOO shun",
     "pos": "n",
@@ -3516,7 +3516,7 @@
   },
   {
     "id": "word_278",
-    "word": "",
+    "word": "DISTEND",
     "roots": "dis- (apart) + tendere (to stretch)",
     "pronunciation": "di STEND",
     "pos": "v",
@@ -3529,7 +3529,7 @@
   },
   {
     "id": "word_279",
-    "word": "",
+    "word": "DISTINGUISH",
     "roots": "dis- (apart) + stinguere (to prick)",
     "pronunciation": "di STING gwish",
     "pos": "v",
@@ -3544,7 +3544,7 @@
   },
   {
     "id": "word_280",
-    "word": "",
+    "word": "DOCILE",
     "roots": "docere (to teach)",
     "pronunciation": "DAHS ul",
     "pos": "adj",
@@ -3558,7 +3558,7 @@
   },
   {
     "id": "word_281",
-    "word": "",
+    "word": "DOCTRINAIRE",
     "roots": "docere (to teach)",
     "pronunciation": "dahk truh NAYR",
     "pos": "adj",
@@ -3568,7 +3568,7 @@
   },
   {
     "id": "word_282",
-    "word": "",
+    "word": "DOGMATIC",
     "roots": "dokein (to seem good/think)",
     "pronunciation": "dawg MAT ik",
     "pos": "adj",
@@ -3581,7 +3581,7 @@
   },
   {
     "id": "word_283",
-    "word": "",
+    "word": "DOMESTIC",
     "roots": "domus (house)",
     "pronunciation": "duh MES tik",
     "pos": "adj",
@@ -3591,7 +3591,7 @@
   },
   {
     "id": "word_284",
-    "word": "",
+    "word": "DORMANT",
     "roots": "dormire (to sleep)",
     "pronunciation": "DOR munt",
     "pos": "adj",
@@ -3605,7 +3605,7 @@
   },
   {
     "id": "word_285",
-    "word": "",
+    "word": "DUBIOUS",
     "roots": "dubius (doubtful) from duo (two)",
     "pronunciation": "DOO bee us",
     "pos": "adj",
@@ -3619,7 +3619,7 @@
   },
   {
     "id": "word_286",
-    "word": "",
+    "word": "DUPLICITY",
     "roots": "duo (two) + plicare (to fold)",
     "pronunciation": "doo PLIS uh tee",
     "pos": "n",
@@ -3633,7 +3633,7 @@
   },
   {
     "id": "word_287",
-    "word": "",
+    "word": "EBULLIENT",
     "roots": "ex- (out) + bullire (to boil)",
     "pronunciation": "ih BUL yunt",
     "pos": "adj",
@@ -3645,7 +3645,7 @@
   },
   {
     "id": "word_288",
-    "word": "",
+    "word": "ECCENTRIC",
     "roots": "ek- (out of) + kentron (center)",
     "pronunciation": "ek SEN trik",
     "pos": "adj",
@@ -3659,7 +3659,7 @@
   },
   {
     "id": "word_289",
-    "word": "",
+    "word": "ECLECTIC",
     "roots": "ek- (out) + legein (to gather/choose)",
     "pronunciation": "ih KLEK tik",
     "pos": "adj",
@@ -3673,7 +3673,7 @@
   },
   {
     "id": "word_290",
-    "word": "",
+    "word": "EDIFY",
     "roots": "aedes (temple/house) + facere (to make)",
     "pronunciation": "ED uh fye",
     "pos": "v",
@@ -3687,7 +3687,7 @@
   },
   {
     "id": "word_291",
-    "word": "",
+    "word": "EFFACE",
     "roots": "ex- (out) + facies (face)",
     "pronunciation": "ih FAYS",
     "pos": "v",
@@ -3702,7 +3702,7 @@
   },
   {
     "id": "word_292",
-    "word": "",
+    "word": "EFFUSION",
     "roots": "ex- (out) + fundere (to pour)",
     "pronunciation": "ih FYOO zhun",
     "pos": "n",
@@ -3716,7 +3716,7 @@
   },
   {
     "id": "word_293",
-    "word": "",
+    "word": "EGALITARIAN",
     "roots": "aequalis (equal/level)",
     "pronunciation": "ih gal uh TAYR ee un",
     "pos": "adj",
@@ -3728,7 +3728,7 @@
   },
   {
     "id": "word_294",
-    "word": "",
+    "word": "EGOCENTRIC",
     "roots": "ego (self) + kentron (center)",
     "pronunciation": "ee goh SEN trik",
     "pos": "adj",
@@ -3742,7 +3742,7 @@
   },
   {
     "id": "word_295",
-    "word": "",
+    "word": "EGREGIOUS",
     "roots": "ex- (out of) + grex/greg- (flock)",
     "pronunciation": "ih GREE jus",
     "pos": "adj",
@@ -3755,7 +3755,7 @@
   },
   {
     "id": "word_296",
-    "word": "",
+    "word": "ELICIT",
     "roots": "ex- (out) + lacere (to entice)",
     "pronunciation": "ih LIS it",
     "pos": "v",
@@ -3768,7 +3768,7 @@
   },
   {
     "id": "word_297",
-    "word": "",
+    "word": "ELLIPTICAL",
     "roots": "en- (in) + leipein (to leave)",
     "pronunciation": "ih LIP ti kul",
     "pos": "adj",
@@ -3781,7 +3781,7 @@
   },
   {
     "id": "word_298",
-    "word": "",
+    "word": "ELUSIVE",
     "roots": "ex- (away) + ludere (to play)",
     "pronunciation": "ih LOO siv",
     "pos": "adj",
@@ -3795,7 +3795,7 @@
   },
   {
     "id": "word_299",
-    "word": "",
+    "word": "EMIGRATE",
     "roots": "ex- (out) + migrare (to move)",
     "pronunciation": "EM uh grayt",
     "pos": "v",
@@ -3809,7 +3809,7 @@
   },
   {
     "id": "word_300",
-    "word": "",
+    "word": "EMINENT",
     "roots": "ex- (out) + minere (to jut/project)",
     "pronunciation": "EM uh nunt",
     "pos": "adj",
@@ -3822,7 +3822,7 @@
   },
   {
     "id": "word_301",
-    "word": "",
+    "word": "EMPIRICAL",
     "roots": "en- (in) + peira (trial/experince)",
     "pronunciation": "em PIR uh kul",
     "pos": "adj",
@@ -3836,7 +3836,7 @@
   },
   {
     "id": "word_302",
-    "word": "",
+    "word": "EMULATE",
     "roots": "aemulus (rivaling)",
     "pronunciation": "EM yuh layt",
     "pos": "v",
@@ -3851,7 +3851,7 @@
   },
   {
     "id": "word_303",
-    "word": "",
+    "word": "ENCROACH",
     "roots": "en- (in) + croc (hook)",
     "pronunciation": "en KROHCH",
     "pos": "v",
@@ -3866,7 +3866,7 @@
   },
   {
     "id": "word_304",
-    "word": "",
+    "word": "ENDEMIC",
     "roots": "en- (in) + demos (people)",
     "pronunciation": "en DEM ik",
     "pos": "adj",
@@ -3880,7 +3880,7 @@
   },
   {
     "id": "word_305",
-    "word": "",
+    "word": "ENERVATE",
     "roots": "ex- (out) + nervus (sinew/nerve)",
     "pronunciation": "EN ur vayt",
     "pos": "v",
@@ -3894,7 +3894,7 @@
   },
   {
     "id": "word_306",
-    "word": "",
+    "word": "ENFRANCHISE",
     "roots": "en- (make) + franc (free)",
     "pronunciation": "en FRAN chyze",
     "pos": "v",
@@ -3907,7 +3907,7 @@
   },
   {
     "id": "word_307",
-    "word": "",
+    "word": "ENGENDER",
     "roots": "en- (in) + generare (to beget)",
     "pronunciation": "en JEN dur",
     "pos": "v",
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "word_308",
-    "word": "",
+    "word": "ENIGMA",
     "roots": "ainos (fable/tale)",
     "pronunciation": "uh NIG muh",
     "pos": "n",
@@ -3935,7 +3935,7 @@
   },
   {
     "id": "word_309",
-    "word": "",
+    "word": "ENORMITY",
     "roots": "ex- (out of) + norma (rule/pattern)",
     "pronunciation": "i NOR muh tee",
     "pos": "n",
@@ -3947,7 +3947,7 @@
   },
   {
     "id": "word_310",
-    "word": "",
+    "word": "EPHEMERAL",
     "roots": "epi- (on) + hemera (day)",
     "pronunciation": "i FEM ur al",
     "pos": "adj",
@@ -3959,7 +3959,7 @@
   },
   {
     "id": "word_311",
-    "word": "",
+    "word": "EPIGRAM",
     "roots": "epi- (upon) + graphein (to write)",
     "pronunciation": "EP uh gram",
     "pos": "n",
@@ -3969,7 +3969,7 @@
   },
   {
     "id": "word_312",
-    "word": "",
+    "word": "EPITOME",
     "roots": "epi- (into) + temnein (to cut)",
     "pronunciation": "i PIT uh mee",
     "pos": "n",
@@ -3983,7 +3983,7 @@
   },
   {
     "id": "word_313",
-    "word": "",
+    "word": "EQUANIMITY",
     "roots": "aequus (equal/even) + animus (mind)",
     "pronunciation": "ek wuh NIM uh tee",
     "pos": "n",
@@ -3996,7 +3996,7 @@
   },
   {
     "id": "word_314",
-    "word": "",
+    "word": "EQUITABLE",
     "roots": "aequus (equal/fair)",
     "pronunciation": "EK wuh tuh bul",
     "pos": "adj",
@@ -4010,7 +4010,7 @@
   },
   {
     "id": "word_315",
-    "word": "",
+    "word": "EQUIVOCAL",
     "roots": "aequus (equal) + vocare (to call)",
     "pronunciation": "ih KWIV uh kul",
     "pos": "adj",
@@ -4024,7 +4024,7 @@
   },
   {
     "id": "word_316",
-    "word": "",
+    "word": "ERUDITE",
     "roots": "ex- (out of) + rudis (rough/untrained)",
     "pronunciation": "ER yoo dyte",
     "pos": "adj",
@@ -4038,7 +4038,7 @@
   },
   {
     "id": "word_317",
-    "word": "",
+    "word": "ESOTERIC",
     "roots": "eso- (within) + -tero (comparative)",
     "pronunciation": "es uh TER ik",
     "pos": "adj",
@@ -4051,7 +4051,7 @@
   },
   {
     "id": "word_318",
-    "word": "",
+    "word": "ESPOUSE",
     "roots": "spondere (to promise/pledge)",
     "pronunciation": "eh SPOWZ",
     "pos": "v",
@@ -4065,7 +4065,7 @@
   },
   {
     "id": "word_319",
-    "word": "",
+    "word": "ETHEREAL",
     "roots": "aither (upper air/heaven)",
     "pronunciation": "ih THIR ee ul",
     "pos": "adj",
@@ -4078,7 +4078,7 @@
   },
   {
     "id": "word_320",
-    "word": "",
+    "word": "EUPHEMISM",
     "roots": "eu- (good) + pheme (speaking)",
     "pronunciation": "YOO fuh miz um",
     "pos": "n",
@@ -4091,7 +4091,7 @@
   },
   {
     "id": "word_321",
-    "word": "",
+    "word": "EVANESCENT",
     "roots": "ex- (out) + vanus (empty)",
     "pronunciation": "ev uh NES unt",
     "pos": "adj",
@@ -4103,7 +4103,7 @@
   },
   {
     "id": "word_322",
-    "word": "",
+    "word": "EXACERBATE",
     "roots": "ex- (intensive) + acerbus (harsh)",
     "pronunciation": "ig ZAS ur bayt",
     "pos": "v",
@@ -4117,7 +4117,7 @@
   },
   {
     "id": "word_323",
-    "word": "",
+    "word": "EXACTING",
     "roots": "ex- (out) + agere (to drive)",
     "pronunciation": "ig ZAK ting",
     "pos": "adj",
@@ -4130,7 +4130,7 @@
   },
   {
     "id": "word_324",
-    "word": "",
+    "word": "EXALT",
     "roots": "ex- (out/up) + altus (high)",
     "pronunciation": "ig ZAWLT",
     "pos": "v",
@@ -4145,7 +4145,7 @@
   },
   {
     "id": "word_325",
-    "word": "",
+    "word": "EXASPERATE",
     "roots": "ex- (intensive) + asper (rough)",
     "pronunciation": "ig ZAS puh rayt",
     "pos": "v",
@@ -4158,7 +4158,7 @@
   },
   {
     "id": "word_326",
-    "word": "",
+    "word": "EXEMPLIFY",
     "roots": "exemplum (sample) + facere (to make)",
     "pronunciation": "ig ZEM pluh fye",
     "pos": "v",
@@ -4170,7 +4170,7 @@
   },
   {
     "id": "word_327",
-    "word": "",
+    "word": "EXHAUSTIVE",
     "roots": "ex- (out) + haurire (to draw water)",
     "pronunciation": "ig ZAWS tiv",
     "pos": "adj",
@@ -4182,7 +4182,7 @@
   },
   {
     "id": "word_328",
-    "word": "",
+    "word": "EXHORT",
     "roots": "ex- (intensive) + hortari (to urge)",
     "pronunciation": "ig ZORT",
     "pos": "v",
@@ -4195,7 +4195,7 @@
   },
   {
     "id": "word_329",
-    "word": "",
+    "word": "EXIGENCY",
     "roots": "ex- (out) + agere (to drive)",
     "pronunciation": "EK si jen see",
     "pos": "n",
@@ -4207,7 +4207,7 @@
   },
   {
     "id": "word_330",
-    "word": "",
+    "word": "EXISTENTIAL",
     "roots": "ex- (out) + sistere (to stand)",
     "pronunciation": "eg zis TEN shul",
     "pos": "adj",
@@ -4217,7 +4217,7 @@
   },
   {
     "id": "word_331",
-    "word": "",
+    "word": "EXONERATE",
     "roots": "ex- (from) + onus/oner- (burden)",
     "pronunciation": "ig ZAHN uh rayt",
     "pos": "v",
@@ -4230,7 +4230,7 @@
   },
   {
     "id": "word_332",
-    "word": "",
+    "word": "EXPATRIATE",
     "roots": "ex- (out of) + patria (fatherland)",
     "pronunciation": "eks PAY tree ayt",
     "pos": "v",
@@ -4243,7 +4243,7 @@
   },
   {
     "id": "word_333",
-    "word": "",
+    "word": "EXPEDIENT",
     "roots": "ex- (out) + pes/ped- (foot)",
     "pronunciation": "ik SPEE dee unt",
     "pos": "adj",
@@ -4257,7 +4257,7 @@
   },
   {
     "id": "word_334",
-    "word": "",
+    "word": "EXPEDITE",
     "roots": "ex- (out) + pes/ped- (foot)",
     "pronunciation": "EK spi dyte",
     "pos": "v",
@@ -4271,7 +4271,7 @@
   },
   {
     "id": "word_335",
-    "word": "",
+    "word": "EXPLICIT",
     "roots": "ex- (out) + plicare (to fold)",
     "pronunciation": "ik SPLIS it",
     "pos": "adj",
@@ -4286,7 +4286,7 @@
   },
   {
     "id": "word_336",
-    "word": "",
+    "word": "EXTOL",
     "roots": "ex- (out/up) + tollere (to raise)",
     "pronunciation": "ik STOHL",
     "pos": "v",
@@ -4298,7 +4298,7 @@
   },
   {
     "id": "word_337",
-    "word": "",
+    "word": "EXTRANEOUS",
     "roots": "extra- (outside) + -aneus",
     "pronunciation": "ik STRAY nee us",
     "pos": "adj",
@@ -4312,7 +4312,7 @@
   },
   {
     "id": "word_338",
-    "word": "",
+    "word": "EXTRAPOLATE",
     "roots": "extra- (outside) + (inter)polare (to polish)",
     "pronunciation": "ik STRAP uh layt",
     "pos": "v",
@@ -4326,7 +4326,7 @@
   },
   {
     "id": "word_339",
-    "word": "",
+    "word": "EXTRICATE",
     "roots": "ex- (out of) + tricae (perplexities/toys)",
     "pronunciation": "EK struh kayt",
     "pos": "v",
@@ -4340,7 +4340,7 @@
   },
   {
     "id": "word_340",
-    "word": "",
+    "word": "EXTROVERT",
     "roots": "extro- (outward) + vertere (to turn)",
     "pronunciation": "EKS truh vurt",
     "pos": "n",
@@ -4354,7 +4354,7 @@
   },
   {
     "id": "word_341",
-    "word": "",
+    "word": "EXULT",
     "roots": "ex- (out) + salire (to leap)",
     "pronunciation": "ig ZULT",
     "pos": "v",
@@ -4366,7 +4366,7 @@
   },
   {
     "id": "word_342",
-    "word": "",
+    "word": "FABRICATION",
     "roots": "fabrica (workshop) from faber (smith)",
     "pronunciation": "FAB ruh kay shun",
     "pos": "n",
@@ -4379,7 +4379,7 @@
   },
   {
     "id": "word_343",
-    "word": "",
+    "word": "FACETIOUS",
     "roots": "facetus (witty/elegant)",
     "pronunciation": "fuh SEE shus",
     "pos": "adj",
@@ -4392,7 +4392,7 @@
   },
   {
     "id": "word_344",
-    "word": "",
+    "word": "FACILE",
     "roots": "facere (to do/make)",
     "pronunciation": "FAS il",
     "pos": "adj",
@@ -4405,7 +4405,7 @@
   },
   {
     "id": "word_345",
-    "word": "",
+    "word": "FACTION",
     "roots": "facere (to do/make)",
     "pronunciation": "FAK shun",
     "pos": "n",
@@ -4419,7 +4419,7 @@
   },
   {
     "id": "word_346",
-    "word": "",
+    "word": "FARCICAL",
     "roots": "farcire (to stuff)",
     "pronunciation": "FARS i kul",
     "pos": "adj",
@@ -4432,7 +4432,7 @@
   },
   {
     "id": "word_347",
-    "word": "",
+    "word": "FASTIDIOUS",
     "roots": "fastidium (loathing) maybe from fastus (pride) + taedium (disgust)",
     "pronunciation": "fa STID ee us",
     "pos": "adj",
@@ -4446,7 +4446,7 @@
   },
   {
     "id": "word_348",
-    "word": "",
+    "word": "FATALIST",
     "roots": "fatum (prophetic declaration/oracle)",
     "pronunciation": "FAYT uh list",
     "pos": "n",
@@ -4459,7 +4459,7 @@
   },
   {
     "id": "word_349",
-    "word": "",
+    "word": "FATUOUS",
     "roots": "fatuus (foolish)",
     "pronunciation": "FACH oo us",
     "pos": "adj",
@@ -4471,7 +4471,7 @@
   },
   {
     "id": "word_350",
-    "word": "",
+    "word": "FAUNA",
     "roots": "Faunus (Roman god of animals)",
     "pronunciation": "FAW nuh",
     "pos": "n",
@@ -4484,7 +4484,7 @@
   },
   {
     "id": "word_351",
-    "word": "",
+    "word": "FECUND",
     "roots": "fecundus (fruitful/fertile)",
     "pronunciation": "FEE kund",
     "pos": "adj",
@@ -4498,7 +4498,7 @@
   },
   {
     "id": "word_352",
-    "word": "",
+    "word": "FELICITY",
     "roots": "felix (happy/lucky)",
     "pronunciation": "fuh LIS uh tee",
     "pos": "n",
@@ -4511,7 +4511,7 @@
   },
   {
     "id": "word_353",
-    "word": "",
+    "word": "FERVOR",
     "roots": "fervere (to boil/glow)",
     "pronunciation": "FUR vur",
     "pos": "n",
@@ -4523,7 +4523,7 @@
   },
   {
     "id": "word_354",
-    "word": "",
+    "word": "FETTER",
     "roots": "fot (foot) -> feter (chain for feet)",
     "pronunciation": "FET ur",
     "pos": "v",
@@ -4537,7 +4537,7 @@
   },
   {
     "id": "word_355",
-    "word": "",
+    "word": "FIDELITY",
     "roots": "fides (faith/trust)",
     "pronunciation": "fuh DEL uh tee",
     "pos": "n",
@@ -4551,7 +4551,7 @@
   },
   {
     "id": "word_356",
-    "word": "",
+    "word": "FIGURATIVE",
     "roots": "fingere (to form/shape)",
     "pronunciation": "FIG yur uh tiv",
     "pos": "adj",
@@ -4564,7 +4564,7 @@
   },
   {
     "id": "word_357",
-    "word": "",
+    "word": "FINESSE",
     "roots": "finis (end/boundary)",
     "pronunciation": "fi NES",
     "pos": "n",
@@ -4577,7 +4577,7 @@
   },
   {
     "id": "word_358",
-    "word": "",
+    "word": "FLAGRANT",
     "roots": "flagrare (to burn/blaze)",
     "pronunciation": "FLAY grunt",
     "pos": "adj",
@@ -4587,7 +4587,7 @@
   },
   {
     "id": "word_359",
-    "word": "",
+    "word": "FLAUNT",
     "roots": "unknown origin, perhaps blend of flout and vaunt",
     "pronunciation": "flawnt",
     "pos": "v",
@@ -4600,7 +4600,7 @@
   },
   {
     "id": "word_360",
-    "word": "",
+    "word": "FLOUT",
     "roots": "flouten (to play the flute/jeer)",
     "pronunciation": "flowt",
     "pos": "v",
@@ -4612,7 +4612,7 @@
   },
   {
     "id": "word_361",
-    "word": "",
+    "word": "FOIBLE",
     "roots": "flebile (feeble)",
     "pronunciation": "FOY bul",
     "pos": "n",
@@ -4625,7 +4625,7 @@
   },
   {
     "id": "word_362",
-    "word": "",
+    "word": "FOMENT",
     "roots": "fovere (to warm/heat)",
     "pronunciation": "foh MENT",
     "pos": "v",
@@ -4638,7 +4638,7 @@
   },
   {
     "id": "word_363",
-    "word": "",
+    "word": "FORBEAR",
     "roots": "for- (away/off) + bear",
     "pronunciation": "for BAYR",
     "pos": "v",
@@ -4651,7 +4651,7 @@
   },
   {
     "id": "word_364",
-    "word": "",
+    "word": "FOREGO",
     "roots": "fore- (before) + go",
     "pronunciation": "for GOH",
     "pos": "v",
@@ -4663,7 +4663,7 @@
   },
   {
     "id": "word_365",
-    "word": "",
+    "word": "FORSAKE",
     "roots": "for- (completely) + sacan (to dispute)",
     "pronunciation": "for SAYK",
     "pos": "v",
@@ -4676,7 +4676,7 @@
   },
   {
     "id": "word_366",
-    "word": "",
+    "word": "FORTUITOUS",
     "roots": "fors/fort- (chance/luck)",
     "pronunciation": "for TOO uh tus",
     "pos": "adj",
@@ -4689,7 +4689,7 @@
   },
   {
     "id": "word_367",
-    "word": "",
+    "word": "FOUNDER",
     "roots": "fundus (bottom)",
     "pronunciation": "FOWN dur",
     "pos": "v",
@@ -4705,7 +4705,7 @@
   },
   {
     "id": "word_368",
-    "word": "",
+    "word": "FRATERNAL",
     "roots": "frater (brother)",
     "pronunciation": "fruh TUR nul",
     "pos": "adj",
@@ -4717,7 +4717,7 @@
   },
   {
     "id": "word_369",
-    "word": "",
+    "word": "FRENETIC",
     "roots": "phren (mind)",
     "pronunciation": "fruh NET ik",
     "pos": "adj",
@@ -4730,7 +4730,7 @@
   },
   {
     "id": "word_370",
-    "word": "",
+    "word": "FRUGAL",
     "roots": "frux/frug- (fruit/value)",
     "pronunciation": "FROO gul",
     "pos": "adj",
@@ -4744,7 +4744,7 @@
   },
   {
     "id": "word_371",
-    "word": "",
+    "word": "FURTIVE",
     "roots": "fur (thief)",
     "pronunciation": "FUR tiv",
     "pos": "adj",
@@ -4757,7 +4757,7 @@
   },
   {
     "id": "word_372",
-    "word": "",
+    "word": "FUTILE",
     "roots": "fundere (to pour)",
     "pronunciation": "FYOOT ul",
     "pos": "adj",
@@ -4770,7 +4770,7 @@
   },
   {
     "id": "word_373",
-    "word": "",
+    "word": "GARRULOUS",
     "roots": "garrire (to chatter)",
     "pronunciation": "GAR uh lus",
     "pos": "adj",
@@ -4782,7 +4782,7 @@
   },
   {
     "id": "word_374",
-    "word": "",
+    "word": "GAUCHE",
     "roots": "gauchir (to turn aside/walk clumsily)",
     "pronunciation": "gohsh",
     "pos": "adj",
@@ -4794,7 +4794,7 @@
   },
   {
     "id": "word_375",
-    "word": "",
+    "word": "GENRE",
     "roots": "genus/gener- (race/kind)",
     "pronunciation": "ZHAHN ruh",
     "pos": "n",
@@ -4806,7 +4806,7 @@
   },
   {
     "id": "word_376",
-    "word": "",
+    "word": "GENTEEL",
     "roots": "gens/gent- (race/clan)",
     "pronunciation": "jen TEEL",
     "pos": "adj",
@@ -4818,7 +4818,7 @@
   },
   {
     "id": "word_377",
-    "word": "",
+    "word": "GESTICULATE",
     "roots": "gerere (to bear/carry)",
     "pronunciation": "jes TIK yuh layt",
     "pos": "v",
@@ -4831,7 +4831,7 @@
   },
   {
     "id": "word_378",
-    "word": "",
+    "word": "GLUT",
     "roots": "gluttire (to swallow)",
     "pronunciation": "glut",
     "pos": "n",
@@ -4844,7 +4844,7 @@
   },
   {
     "id": "word_379",
-    "word": "",
+    "word": "GRANDILOQUENT",
     "roots": "grandis (great) + loqui (to speak)",
     "pronunciation": "gran DIL uh kwunt",
     "pos": "adj",
@@ -4857,7 +4857,7 @@
   },
   {
     "id": "word_380",
-    "word": "",
+    "word": "GRANDIOSE",
     "roots": "grandis (great/large)",
     "pronunciation": "GRAN dee ohs",
     "pos": "adj",
@@ -4870,7 +4870,7 @@
   },
   {
     "id": "word_381",
-    "word": "",
+    "word": "GRATUITOUS",
     "roots": "gratus (pleasing/thankful)",
     "pronunciation": "gruh TOO uh tus",
     "pos": "adj",
@@ -4883,7 +4883,7 @@
   },
   {
     "id": "word_382",
-    "word": "",
+    "word": "GRAVITY",
     "roots": "gravis (heavy)",
     "pronunciation": "GRAV uh tee",
     "pos": "n",
@@ -4896,7 +4896,7 @@
   },
   {
     "id": "word_383",
-    "word": "",
+    "word": "GREGARIOUS",
     "roots": "grex/greg- (flock)",
     "pronunciation": "gruh GAR ee us",
     "pos": "adj",
@@ -4909,7 +4909,7 @@
   },
   {
     "id": "word_384",
-    "word": "",
+    "word": "GUILE",
     "roots": "wigle (divination/sorcery)",
     "pronunciation": "gyle",
     "pos": "n",
@@ -4923,7 +4923,7 @@
   },
   {
     "id": "word_385",
-    "word": "",
+    "word": "HACKNEYED",
     "roots": "Hackney (borough in London where horses were raised)",
     "pronunciation": "HAK need",
     "pos": "adj",
@@ -4936,7 +4936,7 @@
   },
   {
     "id": "word_386",
-    "word": "",
+    "word": "HAPLESS",
     "roots": "hap (luck) + -less (without)",
     "pronunciation": "HAP lis",
     "pos": "adj",
@@ -4949,7 +4949,7 @@
   },
   {
     "id": "word_387",
-    "word": "",
+    "word": "HARBINGER",
     "roots": "herber (shelter/hostel)",
     "pronunciation": "HAR bin jur",
     "pos": "n",
@@ -4961,7 +4961,7 @@
   },
   {
     "id": "word_388",
-    "word": "",
+    "word": "HEDONISM",
     "roots": "hedone (pleasure)",
     "pronunciation": "HEED uh niz um",
     "pos": "n",
@@ -4973,7 +4973,7 @@
   },
   {
     "id": "word_389",
-    "word": "",
+    "word": "HEGEMONY",
     "roots": "hegemon (leader) from hegeisthai (to lead)",
     "pronunciation": "hi JEM uh nee",
     "pos": "n",
@@ -4986,7 +4986,7 @@
   },
   {
     "id": "word_390",
-    "word": "",
+    "word": "HERESY",
     "roots": "hairesis (choice)",
     "pronunciation": "HER uh see",
     "pos": "n",
@@ -4996,7 +4996,7 @@
   },
   {
     "id": "word_391",
-    "word": "",
+    "word": "HERMETIC",
     "roots": "Hermes Trismegistus (Greek/Egyptian god of alchemy)",
     "pronunciation": "hur MET ik",
     "pos": "adj",
@@ -5010,7 +5010,7 @@
   },
   {
     "id": "word_392",
-    "word": "",
+    "word": "HEYDAY",
     "roots": "hey + day (exclamation of joy)",
     "pronunciation": "HAY day",
     "pos": "n",
@@ -5023,7 +5023,7 @@
   },
   {
     "id": "word_393",
-    "word": "",
+    "word": "HIATUS",
     "roots": "hiare (to yawn)",
     "pronunciation": "hye AY tus",
     "pos": "n",
@@ -5035,7 +5035,7 @@
   },
   {
     "id": "word_394",
-    "word": "",
+    "word": "HIERARCHY",
     "roots": "hieros (sacred) + archos (ruler)",
     "pronunciation": "HYE uh rahr kee",
     "pos": "n",
@@ -5048,7 +5048,7 @@
   },
   {
     "id": "word_395",
-    "word": "",
+    "word": "HISTRIONIC",
     "roots": "histrio (actor)",
     "pronunciation": "his tree AHN ik",
     "pos": "adj",
@@ -5062,7 +5062,7 @@
   },
   {
     "id": "word_396",
-    "word": "",
+    "word": "HOMILY",
     "roots": "homilos (crowd) + -y",
     "pronunciation": "HAHM uh lee",
     "pos": "n",
@@ -5074,7 +5074,7 @@
   },
   {
     "id": "word_397",
-    "word": "",
+    "word": "HOMOGENEOUS",
     "roots": "homos (same) + genos (kind)",
     "pronunciation": "hoh muh JEE nee us",
     "pos": "adj",
@@ -5087,7 +5087,7 @@
   },
   {
     "id": "word_398",
-    "word": "",
+    "word": "HUSBANDRY",
     "roots": "hus (house) + buandi (dwelling/freeholder)",
     "pronunciation": "HUZ bun dree",
     "pos": "n",
@@ -5099,7 +5099,7 @@
   },
   {
     "id": "word_399",
-    "word": "",
+    "word": "HYPERBOLE",
     "roots": "hyper- (beyond) + ballein (to throw)",
     "pronunciation": "hye PUR buh lee",
     "pos": "n",
@@ -5112,7 +5112,7 @@
   },
   {
     "id": "word_400",
-    "word": "",
+    "word": "HYPOTHETICAL",
     "roots": "hypo- (under) + tithenai (to put)",
     "pronunciation": "hye puh THET uh kul",
     "pos": "adj",
@@ -5124,7 +5124,7 @@
   },
   {
     "id": "word_401",
-    "word": "",
+    "word": "ICONOCLAST",
     "roots": "eikon (image) + klan (to break)",
     "pronunciation": "eye KAHN uh klast",
     "pos": "n",
@@ -5138,7 +5138,7 @@
   },
   {
     "id": "word_402",
-    "word": "",
+    "word": "IDEOLOGY",
     "roots": "idea (form/pattern) + logos (study)",
     "pronunciation": "eye dee AHL uh jee",
     "pos": "n",
@@ -5151,7 +5151,7 @@
   },
   {
     "id": "word_403",
-    "word": "",
+    "word": "IDIOSYNCRASY",
     "roots": "idio- (own/personal) + syn- (together) + krasis (mixture)",
     "pronunciation": "id ee oh SINK ruh see",
     "pos": "n",
@@ -5165,7 +5165,7 @@
   },
   {
     "id": "word_404",
-    "word": "",
+    "word": "IDYLLIC",
     "roots": "eidos (form/picture)",
     "pronunciation": "eye DIL ik",
     "pos": "adj",
@@ -5178,7 +5178,7 @@
   },
   {
     "id": "word_405",
-    "word": "",
+    "word": "IGNOMINY",
     "roots": "in- (not) + gnomen (name)",
     "pronunciation": "IG nuh min ee",
     "pos": "n",
@@ -5192,7 +5192,7 @@
   },
   {
     "id": "word_406",
-    "word": "",
+    "word": "ILLICIT",
     "roots": "in- (not) + licere (to be allowed)",
     "pronunciation": "i LIS it",
     "pos": "adj",
@@ -5204,7 +5204,7 @@
   },
   {
     "id": "word_407",
-    "word": "",
+    "word": "IMMIGRATE",
     "roots": "in- (into) + migrare (to move)",
     "pronunciation": "IM i grayt",
     "pos": "v",
@@ -5217,7 +5217,7 @@
   },
   {
     "id": "word_408",
-    "word": "",
+    "word": "IMMINENT",
     "roots": "in- (into/upon) + minere (to jut/threaten)",
     "pronunciation": "IM uh nunt",
     "pos": "adj",
@@ -5230,7 +5230,7 @@
   },
   {
     "id": "word_409",
-    "word": "",
+    "word": "IMMUTABLE",
     "roots": "in- (not) + mutare (to change)",
     "pronunciation": "i MYOO tuh bul",
     "pos": "adj",
@@ -5245,7 +5245,7 @@
   },
   {
     "id": "word_410",
-    "word": "",
+    "word": "IMPARTIAL",
     "roots": "in- (not) + pars/part- (part)",
     "pronunciation": "im PAHR shul",
     "pos": "adj",
@@ -5258,7 +5258,7 @@
   },
   {
     "id": "word_411",
-    "word": "",
+    "word": "IMPECCABLE",
     "roots": "in- (not) + peccare (to sin)",
     "pronunciation": "im PEK uh bul",
     "pos": "adj",
@@ -5271,7 +5271,7 @@
   },
   {
     "id": "word_412",
-    "word": "",
+    "word": "IMPERIAL",
     "roots": "imperare (to command)",
     "pronunciation": "im PEER ee ul",
     "pos": "adj",
@@ -5285,7 +5285,7 @@
   },
   {
     "id": "word_413",
-    "word": "",
+    "word": "IMPERVIOUS",
     "roots": "in- (not) + per- (through) + via (way)",
     "pronunciation": "im PUR vee us",
     "pos": "adj",
@@ -5298,7 +5298,7 @@
   },
   {
     "id": "word_414",
-    "word": "",
+    "word": "IMPETUOUS",
     "roots": "in- (into) + petere (to seek/rush at)",
     "pronunciation": "im PECH oo wus",
     "pos": "adj",
@@ -5311,7 +5311,7 @@
   },
   {
     "id": "word_415",
-    "word": "",
+    "word": "IMPLEMENT",
     "roots": "in- (in) + plere (to fill)",
     "pronunciation": "IM pluh munt",
     "pos": "v",
@@ -5324,7 +5324,7 @@
   },
   {
     "id": "word_416",
-    "word": "",
+    "word": "IMPOTENT",
     "roots": "in- (not) + potis (powerful)",
     "pronunciation": "IM puh tunt",
     "pos": "adj",
@@ -5337,7 +5337,7 @@
   },
   {
     "id": "word_417",
-    "word": "",
+    "word": "IMPUGN",
     "roots": "in- (against) + pugnare (to fight)",
     "pronunciation": "im PYOON",
     "pos": "v",
@@ -5350,7 +5350,7 @@
   },
   {
     "id": "word_418",
-    "word": "",
+    "word": "INANE",
     "roots": "inanis (empty)",
     "pronunciation": "i NAYN",
     "pos": "adj",
@@ -5363,7 +5363,7 @@
   },
   {
     "id": "word_419",
-    "word": "",
+    "word": "INAUGURATE",
     "roots": "in- (in) + augurare (to take omens)",
     "pronunciation": "in AW gyuh rayt",
     "pos": "v",
@@ -5376,7 +5376,7 @@
   },
   {
     "id": "word_420",
-    "word": "",
+    "word": "INCANDESCENT",
     "roots": "in- (in) + candere (to glow)",
     "pronunciation": "in kun DES unt",
     "pos": "adj",
@@ -5388,7 +5388,7 @@
   },
   {
     "id": "word_421",
-    "word": "",
+    "word": "INCANTATION",
     "roots": "in- (into) + cantare (to sing)",
     "pronunciation": "in kan TAY shun",
     "pos": "n",
@@ -5401,7 +5401,7 @@
   },
   {
     "id": "word_422",
-    "word": "",
+    "word": "INCENSE",
     "roots": "in- (in) + candere (to burn)",
     "pronunciation": "in SENS",
     "pos": "v",
@@ -5414,7 +5414,7 @@
   },
   {
     "id": "word_423",
-    "word": "",
+    "word": "INCESSANT",
     "roots": "in- (not) + cedere (to yield/stop)",
     "pronunciation": "in SES unt",
     "pos": "adj",
@@ -5427,7 +5427,7 @@
   },
   {
     "id": "word_424",
-    "word": "",
+    "word": "INCIPIENT",
     "roots": "in- (into) + capere (to take)",
     "pronunciation": "in SIP ee unt",
     "pos": "adj",
@@ -5440,7 +5440,7 @@
   },
   {
     "id": "word_425",
-    "word": "",
+    "word": "INCISIVE",
     "roots": "in- (into) + caedere (to cut)",
     "pronunciation": "in SYE siv",
     "pos": "adj",
@@ -5453,7 +5453,7 @@
   },
   {
     "id": "word_426",
-    "word": "",
+    "word": "INCONGRUOUS",
     "roots": "in- (not) + congruere (to come together/agree)",
     "pronunciation": "in KAHN groo us",
     "pos": "adj",
@@ -5467,7 +5467,7 @@
   },
   {
     "id": "word_427",
-    "word": "",
+    "word": "INCORRIGIBLE",
     "roots": "in- (not) + con- (intensive) + regere (to quickly rule)",
     "pronunciation": "in KOR uh juh bul",
     "pos": "adj",
@@ -5481,7 +5481,7 @@
   },
   {
     "id": "word_428",
-    "word": "",
+    "word": "INCREMENT",
     "roots": "in- (in) + crescere (to grow)",
     "pronunciation": "IN cruh munt",
     "pos": "n",
@@ -5495,7 +5495,7 @@
   },
   {
     "id": "word_429",
-    "word": "",
+    "word": "INDIFFERENT",
     "roots": "in- (not) + dis- (apart) + ferre (to bring/bear)",
     "pronunciation": "in DIF ur unt",
     "pos": "adj",
@@ -5510,7 +5510,7 @@
   },
   {
     "id": "word_430",
-    "word": "",
+    "word": "INDIGENOUS",
     "roots": "indu (within) + gignere (to beget)",
     "pronunciation": "in DIJ uh nus",
     "pos": "adj",
@@ -5524,7 +5524,7 @@
   },
   {
     "id": "word_431",
-    "word": "",
+    "word": "INDIGENT",
     "roots": "indu (within) + egere (to need)",
     "pronunciation": "IN di junt",
     "pos": "adj",
@@ -5537,7 +5537,7 @@
   },
   {
     "id": "word_432",
-    "word": "",
+    "word": "INDIGNANT",
     "roots": "in- (not) + dignus (worthy)",
     "pronunciation": "in DIG nunt",
     "pos": "adj",
@@ -5552,7 +5552,7 @@
   },
   {
     "id": "word_433",
-    "word": "",
+    "word": "INDULGENT",
     "roots": "in- (in) + dulgere (to be long/patient)",
     "pronunciation": "in DUL junt",
     "pos": "adj",
@@ -5565,7 +5565,7 @@
   },
   {
     "id": "word_434",
-    "word": "",
+    "word": "INEFFABLE",
     "roots": "in- (not) + ex (out) + fari (to speak)",
     "pronunciation": "in EF uh bul",
     "pos": "adj",
@@ -5577,7 +5577,7 @@
   },
   {
     "id": "word_435",
-    "word": "",
+    "word": "INEPT",
     "roots": "in- (not) + aptus (fit/fastened)",
     "pronunciation": "in EPT",
     "pos": "adj",
@@ -5591,7 +5591,7 @@
   },
   {
     "id": "word_436",
-    "word": "",
+    "word": "INERT",
     "roots": "in- (not) + ars/art- (skill/art)",
     "pronunciation": "in URT",
     "pos": "adj",
@@ -5605,7 +5605,7 @@
   },
   {
     "id": "word_437",
-    "word": "",
+    "word": "INEXORABLE",
     "roots": "in- (not) + ex- (out) + orare (to pray)",
     "pronunciation": "in EK sur uh bul",
     "pos": "adj",
@@ -5619,7 +5619,7 @@
   },
   {
     "id": "word_438",
-    "word": "",
+    "word": "INFAMOUS",
     "roots": "in- (not) + fama (fame/reputation)",
     "pronunciation": "IN fuh mus",
     "pos": "adj",
@@ -5633,7 +5633,7 @@
   },
   {
     "id": "word_439",
-    "word": "",
+    "word": "INFATUATED",
     "roots": "in- (into) + fatuus (foolish)",
     "pronunciation": "in FACH oo ay tid",
     "pos": "adj",
@@ -5647,7 +5647,7 @@
   },
   {
     "id": "word_440",
-    "word": "",
+    "word": "INFER",
     "roots": "in- (in) + ferre (to carry/bring)",
     "pronunciation": "in FUR",
     "pos": "v",
@@ -5660,7 +5660,7 @@
   },
   {
     "id": "word_441",
-    "word": "",
+    "word": "INFINITESIMAL",
     "roots": "in- (not) + finis (limit/end) + -esimal (fraction)",
     "pronunciation": "in fin uh TES uh mul",
     "pos": "adj",
@@ -5673,7 +5673,7 @@
   },
   {
     "id": "word_442",
-    "word": "",
+    "word": "INGENUOUS",
     "roots": "in- (in) + gignere (to beget)",
     "pronunciation": "in JEN yoo us",
     "pos": "adj",
@@ -5686,7 +5686,7 @@
   },
   {
     "id": "word_443",
-    "word": "",
+    "word": "INHERENT",
     "roots": "in- (in) + haerere (to stick)",
     "pronunciation": "in HAIR unt",
     "pos": "adj",
@@ -5699,7 +5699,7 @@
   },
   {
     "id": "word_444",
-    "word": "",
+    "word": "INJUNCTION",
     "roots": "in- (in) + jungere (to join)",
     "pronunciation": "in JUNGK shun",
     "pos": "n",
@@ -5712,7 +5712,7 @@
   },
   {
     "id": "word_445",
-    "word": "",
+    "word": "INNATE",
     "roots": "in- (in) + nasci (to be born)",
     "pronunciation": "i NAYT",
     "pos": "adj",
@@ -5726,7 +5726,7 @@
   },
   {
     "id": "word_446",
-    "word": "",
+    "word": "INNOCUOUS",
     "roots": "in- (not) + nocere (to harm)",
     "pronunciation": "i NAHK yoo us",
     "pos": "adj",
@@ -5739,7 +5739,7 @@
   },
   {
     "id": "word_447",
-    "word": "",
+    "word": "INORDINATE",
     "roots": "in- (not) + ordo/ordin- (order)",
     "pronunciation": "in OR duh nit",
     "pos": "adj",
@@ -5753,7 +5753,7 @@
   },
   {
     "id": "word_448",
-    "word": "",
+    "word": "INSATIABLE",
     "roots": "in- (not) + satis (enough)",
     "pronunciation": "in SAY shuh bul",
     "pos": "adj",
@@ -5766,7 +5766,7 @@
   },
   {
     "id": "word_449",
-    "word": "",
+    "word": "INSIDIOUS",
     "roots": "in- (in) + sedere (to sit)",
     "pronunciation": "in SID ee us",
     "pos": "adj",
@@ -5779,7 +5779,7 @@
   },
   {
     "id": "word_450",
-    "word": "",
+    "word": "INSINUATE",
     "roots": "in- (in) + sinus (curve/fold)",
     "pronunciation": "in SIN yoo ayt",
     "pos": "v",
@@ -5793,7 +5793,7 @@
   },
   {
     "id": "word_451",
-    "word": "",
+    "word": "INSIPID",
     "roots": "in- (not) + sapere (to taste)",
     "pronunciation": "in SIP id",
     "pos": "adj",
@@ -5807,7 +5807,7 @@
   },
   {
     "id": "word_452",
-    "word": "",
+    "word": "INSOLENT",
     "roots": "in- (not) + solere (to be accustomed)",
     "pronunciation": "IN suh lunt",
     "pos": "adj",
@@ -5820,7 +5820,7 @@
   },
   {
     "id": "word_453",
-    "word": "",
+    "word": "INSTIGATE",
     "roots": "in- (in) + stigare (to prick/goad)",
     "pronunciation": "IN stuh gayt",
     "pos": "v",
@@ -5833,7 +5833,7 @@
   },
   {
     "id": "word_454",
-    "word": "",
+    "word": "INSULAR",
     "roots": "insula (island)",
     "pronunciation": "IN suh lur",
     "pos": "adj",
@@ -5846,7 +5846,7 @@
   },
   {
     "id": "word_455",
-    "word": "",
+    "word": "INSURGENT",
     "roots": "in- (against) + surgere (to rise)",
     "pronunciation": "in SUR junt",
     "pos": "n",
@@ -5858,7 +5858,7 @@
   },
   {
     "id": "word_456",
-    "word": "",
+    "word": "INTEGRAL",
     "roots": "in- (not) + tangere (to touch -> whole)",
     "pronunciation": "IN tuh grul",
     "pos": "adj",
@@ -5871,7 +5871,7 @@
   },
   {
     "id": "word_457",
-    "word": "",
+    "word": "INTEGRATE",
     "roots": "in- (not) + tangere (to touch -> whole)",
     "pronunciation": "IN tuh grayt",
     "pos": "v",
@@ -5883,7 +5883,7 @@
   },
   {
     "id": "word_458",
-    "word": "",
+    "word": "INTRACTABLE",
     "roots": "in- (not) + tractare (to handle/drag)",
     "pronunciation": "in TRAK tuh bul",
     "pos": "adj",
@@ -5897,7 +5897,7 @@
   },
   {
     "id": "word_459",
-    "word": "",
+    "word": "INTRANSIGENT",
     "roots": "in- (not) + transigere (to come to an agreement)",
     "pronunciation": "in TRAN suh junt",
     "pos": "adj",
@@ -5910,7 +5910,7 @@
   },
   {
     "id": "word_460",
-    "word": "",
+    "word": "INTRINSIC",
     "roots": "intra (within) + secus (along)",
     "pronunciation": "in TRIN sik",
     "pos": "adj",
@@ -5923,7 +5923,7 @@
   },
   {
     "id": "word_461",
-    "word": "",
+    "word": "INTROSPECTIVE",
     "roots": "intro- (inward) + specere (to look)",
     "pronunciation": "in truh SPEC tiv",
     "pos": "adj",
@@ -5936,7 +5936,7 @@
   },
   {
     "id": "word_462",
-    "word": "",
+    "word": "INUNDATE",
     "roots": "in- (in/upon) + undare (to flow) from unda (wave)",
     "pronunciation": "IN un dayt",
     "pos": "v",
@@ -5949,7 +5949,7 @@
   },
   {
     "id": "word_463",
-    "word": "",
+    "word": "INVECTIVE",
     "roots": "in- (against) + vehere (to carry)",
     "pronunciation": "in VEK tiv",
     "pos": "n",
@@ -5962,7 +5962,7 @@
   },
   {
     "id": "word_464",
-    "word": "",
+    "word": "INVETERATE",
     "roots": "in- (in) + vetus (old)",
     "pronunciation": "in VET ur it",
     "pos": "adj",
@@ -5975,7 +5975,7 @@
   },
   {
     "id": "word_465",
-    "word": "",
+    "word": "IRASCIBLE",
     "roots": "irasci (to grow angry) from ira (anger)",
     "pronunciation": "i RAS uh bul",
     "pos": "adj",
@@ -5987,7 +5987,7 @@
   },
   {
     "id": "word_466",
-    "word": "",
+    "word": "IRONIC",
     "roots": "eiron (dissembler/one who says less than he thinks)",
     "pronunciation": "eye RAHN ik",
     "pos": "adj",
@@ -6000,7 +6000,7 @@
   },
   {
     "id": "word_467",
-    "word": "",
+    "word": "IRREVOCABLE",
     "roots": "in- (not) + re- (back) + vocare (to call)",
     "pronunciation": "i REV uh kuh bul",
     "pos": "adj",
@@ -6013,7 +6013,7 @@
   },
   {
     "id": "word_468",
-    "word": "",
+    "word": "ITINERANT",
     "roots": "iter/itiner- (journey)",
     "pronunciation": "eye TIN ur unt",
     "pos": "adj",
@@ -6028,7 +6028,7 @@
   },
   {
     "id": "word_469",
-    "word": "",
+    "word": "JUDICIOUS",
     "roots": "jus/jur- (law/right)",
     "pronunciation": "joo DISH us",
     "pos": "adj",
@@ -6042,7 +6042,7 @@
   },
   {
     "id": "word_470",
-    "word": "",
+    "word": "JUXTAPOSE",
     "roots": "juxta (beside/near) + ponere (to place)",
     "pronunciation": "JUK stuh pohz",
     "pos": "v",
@@ -6055,7 +6055,7 @@
   },
   {
     "id": "word_471",
-    "word": "",
+    "word": "KINETIC",
     "roots": "kinein (to move)",
     "pronunciation": "ki NET ik",
     "pos": "adj",
@@ -6065,7 +6065,7 @@
   },
   {
     "id": "word_472",
-    "word": "",
+    "word": "LABYRINTH",
     "roots": "labyrinthos (maze/large building)",
     "pronunciation": "LAB uh rinth",
     "pos": "n",
@@ -6079,7 +6079,7 @@
   },
   {
     "id": "word_473",
-    "word": "",
+    "word": "LACONIC",
     "roots": "Lakon (Spartan) - known for terse speech",
     "pronunciation": "luh KAHN ik",
     "pos": "adj",
@@ -6092,7 +6092,7 @@
   },
   {
     "id": "word_474",
-    "word": "",
+    "word": "LAMENT",
     "roots": "lamentum (wailing)",
     "pronunciation": "luh MENT",
     "pos": "v",
@@ -6105,7 +6105,7 @@
   },
   {
     "id": "word_475",
-    "word": "",
+    "word": "LAMPOON",
     "roots": "lampon (let us drink)",
     "pronunciation": "lam POON",
     "pos": "v",
@@ -6118,7 +6118,7 @@
   },
   {
     "id": "word_476",
-    "word": "",
+    "word": "LANGUISH",
     "roots": "languere (to be weak/faint)",
     "pronunciation": "LANG gwish",
     "pos": "v",
@@ -6132,7 +6132,7 @@
   },
   {
     "id": "word_477",
-    "word": "",
+    "word": "LARGESS",
     "roots": "largus (abundant/large)",
     "pronunciation": "lahr JES",
     "pos": "n",
@@ -6144,7 +6144,7 @@
   },
   {
     "id": "word_478",
-    "word": "",
+    "word": "LATENT",
     "roots": "latere (to lie hidden)",
     "pronunciation": "LAYT unt",
     "pos": "adj",
@@ -6156,7 +6156,7 @@
   },
   {
     "id": "word_479",
-    "word": "",
+    "word": "LAUD",
     "roots": "laus/laud- (praise)",
     "pronunciation": "lawd",
     "pos": "v",
@@ -6168,7 +6168,7 @@
   },
   {
     "id": "word_480",
-    "word": "",
+    "word": "LEGACY",
     "roots": "lex/leg- (law/envoy)",
     "pronunciation": "LEG uh see",
     "pos": "n",
@@ -6182,7 +6182,7 @@
   },
   {
     "id": "word_481",
-    "word": "",
+    "word": "LETHARGY",
     "roots": "lethe (forgetfulness) + argos (idle)",
     "pronunciation": "LETH ur jee",
     "pos": "n",
@@ -6196,7 +6196,7 @@
   },
   {
     "id": "word_482",
-    "word": "",
+    "word": "LEVITY",
     "roots": "levis (light)",
     "pronunciation": "LEV uh tee",
     "pos": "n",
@@ -6209,7 +6209,7 @@
   },
   {
     "id": "word_483",
-    "word": "",
+    "word": "LIBEL",
     "roots": "libellus (little book/document)",
     "pronunciation": "LYE bul",
     "pos": "n",
@@ -6221,7 +6221,7 @@
   },
   {
     "id": "word_484",
-    "word": "",
+    "word": "LITIGATE",
     "roots": "lis/lit- (lawsuit) + agere (to drive)",
     "pronunciation": "LIT uh gayt",
     "pos": "v",
@@ -6234,7 +6234,7 @@
   },
   {
     "id": "word_485",
-    "word": "",
+    "word": "LOQUACIOUS",
     "roots": "loqui (to speak)",
     "pronunciation": "Ioh KWAY shus",
     "pos": "adj",
@@ -6248,7 +6248,7 @@
   },
   {
     "id": "word_486",
-    "word": "",
+    "word": "LUCID",
     "roots": "lucere (to shine)",
     "pronunciation": "LOO sid",
     "pos": "adj",
@@ -6262,7 +6262,7 @@
   },
   {
     "id": "word_487",
-    "word": "",
+    "word": "LUGUBRIOUS",
     "roots": "lugere (to mourn)",
     "pronunciation": "loo GOO bree us",
     "pos": "adj",
@@ -6275,7 +6275,7 @@
   },
   {
     "id": "word_488",
-    "word": "",
+    "word": "LUMINOUS",
     "roots": "lumen/lumin- (light)",
     "pronunciation": "LOO muh nus",
     "pos": "adj",
@@ -6289,7 +6289,7 @@
   },
   {
     "id": "word_489",
-    "word": "",
+    "word": "MACHINATION",
     "roots": "machina (machine/device)",
     "pronunciation": "mak uh NAY shun",
     "pos": "n",
@@ -6302,7 +6302,7 @@
   },
   {
     "id": "word_490",
-    "word": "",
+    "word": "MAGNANIMOUS",
     "roots": "magnus (great) + animus (soul)",
     "pronunciation": "mag NAN uh mus",
     "pos": "adj",
@@ -6316,7 +6316,7 @@
   },
   {
     "id": "word_491",
-    "word": "",
+    "word": "MAGNATE",
     "roots": "magnus (great)",
     "pronunciation": "MAG nayt",
     "pos": "n",
@@ -6328,7 +6328,7 @@
   },
   {
     "id": "word_492",
-    "word": "",
+    "word": "MALAISE",
     "roots": "mal (bad) + aise (ease)",
     "pronunciation": "ma LAYZ",
     "pos": "n",
@@ -6340,7 +6340,7 @@
   },
   {
     "id": "word_493",
-    "word": "",
+    "word": "MALFEASANCE",
     "roots": "mal (bad) + facere (to do)",
     "pronunciation": "mal FEE zuns",
     "pos": "n",
@@ -6352,7 +6352,7 @@
   },
   {
     "id": "word_494",
-    "word": "",
+    "word": "MALIGNANT",
     "roots": "malus (bad/evil) + genus (birth/kind)",
     "pronunciation": "muh LIG nuhnt",
     "pos": "adj",
@@ -6366,7 +6366,7 @@
   },
   {
     "id": "word_495",
-    "word": "",
+    "word": "MALINGER",
     "roots": "mal (bad) + haigre (thin/weak)",
     "pronunciation": "muh LING ger",
     "pos": "v",
@@ -6379,7 +6379,7 @@
   },
   {
     "id": "word_496",
-    "word": "",
+    "word": "MALLEABLE",
     "roots": "malleus (hammer)",
     "pronunciation": "MAL ee uh bul",
     "pos": "adj",
@@ -6391,7 +6391,7 @@
   },
   {
     "id": "word_497",
-    "word": "",
+    "word": "MANDATE",
     "roots": "manus (hand) + dare (to give)",
     "pronunciation": "MAN dayt",
     "pos": "n",
@@ -6404,7 +6404,7 @@
   },
   {
     "id": "word_498",
-    "word": "",
+    "word": "MANIFEST",
     "roots": "manus (hand) + festus (struck)",
     "pronunciation": "MAN uh fest",
     "pos": "adj",
@@ -6418,7 +6418,7 @@
   },
   {
     "id": "word_499",
-    "word": "",
+    "word": "MANIFESTO",
     "roots": "manus (hand) + festus (struck)",
     "pronunciation": "man uh FES toh",
     "pos": "n",
@@ -6430,7 +6430,7 @@
   },
   {
     "id": "word_500",
-    "word": "",
+    "word": "MARSHAL",
     "roots": "marah (horse) + scalc (servant)",
     "pronunciation": "MAHR shul",
     "pos": "v",
@@ -6444,7 +6444,7 @@
   },
   {
     "id": "word_501",
-    "word": "",
+    "word": "MARTIAL",
     "roots": "Mars/Mart- (Roman god of war)",
     "pronunciation": "MAHR shul",
     "pos": "adj",
@@ -6457,7 +6457,7 @@
   },
   {
     "id": "word_502",
-    "word": "",
+    "word": "MARTYR",
     "roots": "martys (witness)",
     "pronunciation": "MAHR tur",
     "pos": "n",
@@ -6470,7 +6470,7 @@
   },
   {
     "id": "word_503",
-    "word": "",
+    "word": "MATRICULATE",
     "roots": "matrix (womb/public register)",
     "pronunciation": "muh TRIK yuh layt",
     "pos": "v",
@@ -6482,7 +6482,7 @@
   },
   {
     "id": "word_504",
-    "word": "",
+    "word": "MAUDLIN",
     "roots": "Mary Magdalene (depicted weeping)",
     "pronunciation": "MAWD lin",
     "pos": "adj",
@@ -6495,7 +6495,7 @@
   },
   {
     "id": "word_505",
-    "word": "",
+    "word": "MAVERICK",
     "roots": "Samuel Maverick (Texas rancher who didn't brand calves)",
     "pronunciation": "MAV ur ik",
     "pos": "n",
@@ -6508,7 +6508,7 @@
   },
   {
     "id": "word_506",
-    "word": "",
+    "word": "MAXIM",
     "roots": "maxima (greatest premise)",
     "pronunciation": "MAK sim",
     "pos": "n",
@@ -6521,7 +6521,7 @@
   },
   {
     "id": "word_507",
-    "word": "",
+    "word": "MEDIATE",
     "roots": "medius (middle)",
     "pronunciation": "MEE dee ayt",
     "pos": "v",
@@ -6534,7 +6534,7 @@
   },
   {
     "id": "word_508",
-    "word": "",
+    "word": "MELLIFLUOUS",
     "roots": "mel (honey) + fluere (to flow)",
     "pronunciation": "muh LIF loo us",
     "pos": "adj",
@@ -6546,7 +6546,7 @@
   },
   {
     "id": "word_509",
-    "word": "",
+    "word": "MENDACIOUS",
     "roots": "mendum (fault/defect)",
     "pronunciation": "men DAY shus",
     "pos": "adj",
@@ -6558,7 +6558,7 @@
   },
   {
     "id": "word_510",
-    "word": "",
+    "word": "MENDICANT",
     "roots": "mendum (fault/defect)",
     "pronunciation": "MEN di kunt",
     "pos": "n",
@@ -6570,7 +6570,7 @@
   },
   {
     "id": "word_511",
-    "word": "",
+    "word": "MENTOR",
     "roots": "Mentor (friend of Odysseus)",
     "pronunciation": "MEN tur",
     "pos": "n",
@@ -6583,7 +6583,7 @@
   },
   {
     "id": "word_512",
-    "word": "",
+    "word": "MERCENARY",
     "roots": "merces (reward/wages)",
     "pronunciation": "MUR suh ner ee",
     "pos": "n",
@@ -6596,7 +6596,7 @@
   },
   {
     "id": "word_513",
-    "word": "",
+    "word": "MERCURIAL",
     "roots": "Mercury (Roman god of commerce/trickery)",
     "pronunciation": "mur KYOOR ee ul",
     "pos": "adj",
@@ -6608,7 +6608,7 @@
   },
   {
     "id": "word_514",
-    "word": "",
+    "word": "METAMORPHOSIS",
     "roots": "meta- (change) + morphe (form)",
     "pronunciation": "met uh MOR fuh sis",
     "pos": "n",
@@ -6621,7 +6621,7 @@
   },
   {
     "id": "word_515",
-    "word": "",
+    "word": "MICROCOSM",
     "roots": "mikros (small) + kosmos (world)",
     "pronunciation": "MYE kruh kahz um",
     "pos": "n",
@@ -6633,7 +6633,7 @@
   },
   {
     "id": "word_516",
-    "word": "",
+    "word": "MILIEU",
     "roots": "mi- (middle) + lieu (place)",
     "pronunciation": "mil YOO",
     "pos": "n",
@@ -6646,7 +6646,7 @@
   },
   {
     "id": "word_517",
-    "word": "",
+    "word": "MINUSCULE",
     "roots": "minus (less)",
     "pronunciation": "MIN uh skyool",
     "pos": "adj",
@@ -6658,7 +6658,7 @@
   },
   {
     "id": "word_518",
-    "word": "",
+    "word": "MISANTHROPIC",
     "roots": "misein (to hate) + anthropos (mankind)",
     "pronunciation": "mis un THRAHP ik",
     "pos": "adj",
@@ -6668,7 +6668,7 @@
   },
   {
     "id": "word_519",
-    "word": "",
+    "word": "MITIGATE",
     "roots": "mitis (mild/soft) + agere (to drive/do)",
     "pronunciation": "MIT uh gayt",
     "pos": "v",
@@ -6683,7 +6683,7 @@
   },
   {
     "id": "word_520",
-    "word": "",
+    "word": "MOLLIFY",
     "roots": "mollis (soft) + facere (to make)",
     "pronunciation": "MAHL uh fye",
     "pos": "v",
@@ -6697,7 +6697,7 @@
   },
   {
     "id": "word_521",
-    "word": "",
+    "word": "MONOLITHIC",
     "roots": "monos (one) + lithos (stone)",
     "pronunciation": "mah nuh LITH ik",
     "pos": "adj",
@@ -6707,7 +6707,7 @@
   },
   {
     "id": "word_522",
-    "word": "",
+    "word": "MORIBUND",
     "roots": "mori (to die)",
     "pronunciation": "MOR uh bund",
     "pos": "adj",
@@ -6720,7 +6720,7 @@
   },
   {
     "id": "word_523",
-    "word": "",
+    "word": "MOROSE",
     "roots": "mos/mor- (manner/custom)",
     "pronunciation": "muh ROHS",
     "pos": "adj",
@@ -6733,7 +6733,7 @@
   },
   {
     "id": "word_524",
-    "word": "",
+    "word": "MORTIFY",
     "roots": "mors/mort- (death) + facere (to make)",
     "pronunciation": "MOR tuh fye",
     "pos": "adj",
@@ -6746,7 +6746,7 @@
   },
   {
     "id": "word_525",
-    "word": "",
+    "word": "MUNDANE",
     "roots": "mundus (world)",
     "pronunciation": "mun DAYN",
     "pos": "adj",
@@ -6760,7 +6760,7 @@
   },
   {
     "id": "word_526",
-    "word": "",
+    "word": "MUNIFICENT",
     "roots": "munus (gift) + facere (to make)",
     "pronunciation": "myoo NIF uh sunt",
     "pos": "adj",
@@ -6773,7 +6773,7 @@
   },
   {
     "id": "word_527",
-    "word": "",
+    "word": "MYOPIA",
     "roots": "myein (to shut) + ops (eye)",
     "pronunciation": "mye OH pee uh",
     "pos": "adj",
@@ -6786,7 +6786,7 @@
   },
   {
     "id": "word_528",
-    "word": "",
+    "word": "MYRIAD",
     "roots": "myrias (ten thousand)",
     "pronunciation": "MIR ee ud",
     "pos": "n",
@@ -6799,7 +6799,7 @@
   },
   {
     "id": "word_529",
-    "word": "",
+    "word": "NARCISSISM",
     "roots": "Narcissus (Greek youth who fell in love with his reflection)",
     "pronunciation": "NAHR si siz um",
     "pos": "n",
@@ -6811,7 +6811,7 @@
   },
   {
     "id": "word_530",
-    "word": "",
+    "word": "NEBULOUS",
     "roots": "nebula (mist/cloud)",
     "pronunciation": "NEB yuh lus",
     "pos": "adj",
@@ -6825,7 +6825,7 @@
   },
   {
     "id": "word_531",
-    "word": "",
+    "word": "NEFARIOUS",
     "roots": "ne- (not) + fas (divine law)",
     "pronunciation": "ni FAR ee us",
     "pos": "adj",
@@ -6838,7 +6838,7 @@
   },
   {
     "id": "word_532",
-    "word": "",
+    "word": "NEOLOGISM",
     "roots": "neos (new) + logos (word)",
     "pronunciation": "nee OL uh jiz um",
     "pos": "n",
@@ -6848,7 +6848,7 @@
   },
   {
     "id": "word_533",
-    "word": "",
+    "word": "NEPOTISM",
     "roots": "nepos/nepot- (nephew/grandson)",
     "pronunciation": "NEP uh tiz um",
     "pos": "n",
@@ -6860,7 +6860,7 @@
   },
   {
     "id": "word_534",
-    "word": "",
+    "word": "NIHILISM",
     "roots": "nihil (nothing)",
     "pronunciation": "NYE uh liz um",
     "pos": "n",
@@ -6872,7 +6872,7 @@
   },
   {
     "id": "word_535",
-    "word": "",
+    "word": "NOMINAL",
     "roots": "nomen/nomin- (name)",
     "pronunciation": "NOM uh nul",
     "pos": "adj",
@@ -6886,7 +6886,7 @@
   },
   {
     "id": "word_536",
-    "word": "",
+    "word": "NOSTALGIA",
     "roots": "nostos (return home) + algos (pain)",
     "pronunciation": "nahs TAL juh",
     "pos": "n",
@@ -6900,7 +6900,7 @@
   },
   {
     "id": "word_537",
-    "word": "",
+    "word": "NOTORIOUS",
     "roots": "notus (known)",
     "pronunciation": "noh TOR ee us",
     "pos": "adj",
@@ -6914,7 +6914,7 @@
   },
   {
     "id": "word_538",
-    "word": "",
+    "word": "NOVEL",
     "roots": "novus (new)",
     "pronunciation": "NAHV ul",
     "pos": "adj",
@@ -6927,7 +6927,7 @@
   },
   {
     "id": "word_539",
-    "word": "",
+    "word": "NOXIOUS",
     "roots": "noxa (harm/injury)",
     "pronunciation": "NAHK shus",
     "pos": "adj",
@@ -6941,7 +6941,7 @@
   },
   {
     "id": "word_540",
-    "word": "",
+    "word": "NUANCE",
     "roots": "nubes (cloud)",
     "pronunciation": "NOO ahns",
     "pos": "n",
@@ -6954,7 +6954,7 @@
   },
   {
     "id": "word_541",
-    "word": "",
+    "word": "OBDURATE",
     "roots": "ob- (against) + durus (hard)",
     "pronunciation": "AHB duh rit",
     "pos": "adj",
@@ -6967,7 +6967,7 @@
   },
   {
     "id": "word_542",
-    "word": "",
+    "word": "OBFUSCATE",
     "roots": "ob- (over) + fuscus (dark)",
     "pronunciation": "AHB fuh skayt",
     "pos": "v",
@@ -6982,7 +6982,7 @@
   },
   {
     "id": "word_543",
-    "word": "",
+    "word": "OBLIQUE",
     "roots": "ob- (against) + liquis (slanting)",
     "pronunciation": "oh BLEEK",
     "pos": "adj",
@@ -6994,7 +6994,7 @@
   },
   {
     "id": "word_544",
-    "word": "",
+    "word": "OBLIVION",
     "roots": "ob- (over) + levis (smooth)",
     "pronunciation": "uh BLIV ee un",
     "pos": "n",
@@ -7009,7 +7009,7 @@
   },
   {
     "id": "word_545",
-    "word": "",
+    "word": "OBSCURE",
     "roots": "ob- (over) + scurus (covered)",
     "pronunciation": "ub SKYOOR",
     "pos": "adj",
@@ -7025,7 +7025,7 @@
   },
   {
     "id": "word_546",
-    "word": "",
+    "word": "OBSEQUIOUS",
     "roots": "ob- (after) + sequi (to follow)",
     "pronunciation": "ub SEE kwee us",
     "pos": "adj",
@@ -7038,7 +7038,7 @@
   },
   {
     "id": "word_547",
-    "word": "",
+    "word": "OBTUSE",
     "roots": "ob- (against) + tundere (to strike/beat)",
     "pronunciation": "ahb TOOS",
     "pos": "adj",
@@ -7051,7 +7051,7 @@
   },
   {
     "id": "word_548",
-    "word": "",
+    "word": "OFFICIOUS",
     "roots": "opus/oper- (work) + facere (to make)",
     "pronunciation": "uh FISH us",
     "pos": "adj",
@@ -7064,7 +7064,7 @@
   },
   {
     "id": "word_549",
-    "word": "",
+    "word": "ONEROUS",
     "roots": "onus/oner- (burden)",
     "pronunciation": "AHN ur us",
     "pos": "adj",
@@ -7077,7 +7077,7 @@
   },
   {
     "id": "word_550",
-    "word": "",
+    "word": "OPAQUE",
     "roots": "opacus (shaded/dark)",
     "pronunciation": "oh PAYK",
     "pos": "adj",
@@ -7092,7 +7092,7 @@
   },
   {
     "id": "word_551",
-    "word": "",
+    "word": "OPULENT",
     "roots": "ops/op- (power/wealth)",
     "pronunciation": "AHP yuh lunt",
     "pos": "adj",
@@ -7106,7 +7106,7 @@
   },
   {
     "id": "word_552",
-    "word": "",
+    "word": "ORTHODOX",
     "roots": "orthos (straight/right) + doxa (opinion)",
     "pronunciation": "OR thuh dahks",
     "pos": "adj",
@@ -7121,7 +7121,7 @@
   },
   {
     "id": "word_553",
-    "word": "",
+    "word": "OSTENSIBLE",
     "roots": "ob- (in front of) + tendere (to stretch)",
     "pronunciation": "ah STEN suh bul",
     "pos": "adj",
@@ -7134,7 +7134,7 @@
   },
   {
     "id": "word_554",
-    "word": "",
+    "word": "OSTENTATIOUS",
     "roots": "ob- (in front of) + tendere (to stretch)",
     "pronunciation": "ahs ten TAY shus",
     "pos": "adj",
@@ -7149,7 +7149,7 @@
   },
   {
     "id": "word_555",
-    "word": "",
+    "word": "PACIFY",
     "roots": "pax/pac- (peace) + facere (to make)",
     "pronunciation": "PAS uh fye",
     "pos": "v",
@@ -7159,7 +7159,7 @@
   },
   {
     "id": "word_556",
-    "word": "",
+    "word": "PAINSTAKING",
     "roots": "pain + taking (taking pains/care)",
     "pronunciation": "PAYN stay king",
     "pos": "adj",
@@ -7171,7 +7171,7 @@
   },
   {
     "id": "word_557",
-    "word": "",
+    "word": "PALLIATE",
     "roots": "pallium (cloak)",
     "pronunciation": "PAL ee ayt",
     "pos": "v",
@@ -7183,7 +7183,7 @@
   },
   {
     "id": "word_558",
-    "word": "",
+    "word": "PALPABLE",
     "roots": "palpare (to touch/stroke)",
     "pronunciation": "PAL puh bul",
     "pos": "adj",
@@ -7197,7 +7197,7 @@
   },
   {
     "id": "word_559",
-    "word": "",
+    "word": "PALTRY",
     "roots": "palt/pelt (trash/rags)",
     "pronunciation": "PAWL tree",
     "pos": "adj",
@@ -7210,7 +7210,7 @@
   },
   {
     "id": "word_560",
-    "word": "",
+    "word": "PANACEA",
     "roots": "pan- (all) + akos (cure)",
     "pronunciation": "pan uh SEE uh",
     "pos": "n",
@@ -7223,7 +7223,7 @@
   },
   {
     "id": "word_561",
-    "word": "",
+    "word": "PARADIGM",
     "roots": "para- (beside) + deiknynai (to show)",
     "pronunciation": "PAR uh dime",
     "pos": "n",
@@ -7237,7 +7237,7 @@
   },
   {
     "id": "word_562",
-    "word": "",
+    "word": "PARADOX",
     "roots": "para- (contrary to) + doxa (opinion)",
     "pronunciation": "PAR uh dahks",
     "pos": "n",
@@ -7251,7 +7251,7 @@
   },
   {
     "id": "word_563",
-    "word": "",
+    "word": "PAROCHIAL",
     "roots": "para- (beside) + oikos (house)",
     "pronunciation": "puh ROH kee ul",
     "pos": "adj",
@@ -7264,7 +7264,7 @@
   },
   {
     "id": "word_564",
-    "word": "",
+    "word": "PARODY",
     "roots": "para- (beside) + oide (song)",
     "pronunciation": "PAR uh dee",
     "pos": "n",
@@ -7277,7 +7277,7 @@
   },
   {
     "id": "word_565",
-    "word": "",
+    "word": "PARSIMONIOUS",
     "roots": "parcere (to spare/save)",
     "pronunciation": "pahr suh MOH nee us",
     "pos": "adj",
@@ -7290,7 +7290,7 @@
   },
   {
     "id": "word_566",
-    "word": "",
+    "word": "PARTISAN",
     "roots": "pars/part- (part)",
     "pronunciation": "PAHR tuh zun",
     "pos": "n",
@@ -7305,7 +7305,7 @@
   },
   {
     "id": "word_567",
-    "word": "",
+    "word": "PATENT",
     "roots": "patere (to lie open)",
     "pronunciation": "PAYT unt",
     "pos": "adj",
@@ -7318,7 +7318,7 @@
   },
   {
     "id": "word_568",
-    "word": "",
+    "word": "PATERNAL",
     "roots": "pater (father)",
     "pronunciation": "puh TUR nul",
     "pos": "adj",
@@ -7330,7 +7330,7 @@
   },
   {
     "id": "word_569",
-    "word": "",
+    "word": "PATHOLOGY",
     "roots": "pathos (suffering/disease) + logos (study)",
     "pronunciation": "puh THAHL uh jee",
     "pos": "n",
@@ -7340,7 +7340,7 @@
   },
   {
     "id": "word_570",
-    "word": "",
+    "word": "PATRIARCH",
     "roots": "pater (father) + archos (ruler)",
     "pronunciation": "PAY tree ahrk",
     "pos": "n",
@@ -7354,7 +7354,7 @@
   },
   {
     "id": "word_571",
-    "word": "",
+    "word": "PATRICIAN",
     "roots": "patres (fathers/senators)",
     "pronunciation": "puh TRISH un",
     "pos": "n",
@@ -7367,7 +7367,7 @@
   },
   {
     "id": "word_572",
-    "word": "",
+    "word": "PATRONIZE",
     "roots": "pater (father)",
     "pronunciation": "PAY truh nyze",
     "pos": "v",
@@ -7380,7 +7380,7 @@
   },
   {
     "id": "word_573",
-    "word": "",
+    "word": "PAUCITY",
     "roots": "paucus (few)",
     "pronunciation": "PAW suh tee",
     "pos": "n",
@@ -7394,7 +7394,7 @@
   },
   {
     "id": "word_574",
-    "word": "",
+    "word": "PECCADILLO",
     "roots": "peccare (to sin) + -illo (diminutive)",
     "pronunciation": "pek uh DIL oh",
     "pos": "n",
@@ -7407,7 +7407,7 @@
   },
   {
     "id": "word_575",
-    "word": "",
+    "word": "PEDANTIC",
     "roots": "paid- (child) + agogos (leader) -> pedant",
     "pronunciation": "puh DAN tik",
     "pos": "adj",
@@ -7420,7 +7420,7 @@
   },
   {
     "id": "word_576",
-    "word": "",
+    "word": "PEDESTRIAN",
     "roots": "pes/ped- (foot)",
     "pronunciation": "puh DES tree un",
     "pos": "adj",
@@ -7433,7 +7433,7 @@
   },
   {
     "id": "word_577",
-    "word": "",
+    "word": "PEJORATIVE",
     "roots": "pejor (worse)",
     "pronunciation": "pi JOR uh tiv",
     "pos": "adj",
@@ -7445,7 +7445,7 @@
   },
   {
     "id": "word_578",
-    "word": "",
+    "word": "PENCHANT",
     "roots": "pendere (to hang)",
     "pronunciation": "PEN chunt",
     "pos": "n",
@@ -7457,7 +7457,7 @@
   },
   {
     "id": "word_579",
-    "word": "",
+    "word": "PENITENT",
     "roots": "paenitere (to repent)",
     "pronunciation": "PEN uh tunt",
     "pos": "adj",
@@ -7470,7 +7470,7 @@
   },
   {
     "id": "word_580",
-    "word": "",
+    "word": "PENSIVE",
     "roots": "pensare (to weigh/ponder)",
     "pronunciation": "PEN siv",
     "pos": "adj",
@@ -7482,7 +7482,7 @@
   },
   {
     "id": "word_581",
-    "word": "",
+    "word": "PEREMPTORY",
     "roots": "per- (completely) + emere (to take/buy)",
     "pronunciation": "puh REMP tuh ree",
     "pos": "adj",
@@ -7494,7 +7494,7 @@
   },
   {
     "id": "word_582",
-    "word": "",
+    "word": "PERENNIAL",
     "roots": "per- (through) + annus (year)",
     "pronunciation": "puh REN ee ul",
     "pos": "adj",
@@ -7507,7 +7507,7 @@
   },
   {
     "id": "word_583",
-    "word": "",
+    "word": "PERFIDY",
     "roots": "per- (through/away) + fides (faith)",
     "pronunciation": "PUR fuh dee",
     "pos": "n",
@@ -7520,7 +7520,7 @@
   },
   {
     "id": "word_584",
-    "word": "",
+    "word": "PERFUNCTORY",
     "roots": "per- (through) + fungi (to perform)",
     "pronunciation": "pur FUNGK tuh ree",
     "pos": "adj",
@@ -7533,7 +7533,7 @@
   },
   {
     "id": "word_585",
-    "word": "",
+    "word": "PERIPATETIC",
     "roots": "peri- (around) + patein (to walk)",
     "pronunciation": "per uh peh TET ik",
     "pos": "adj",
@@ -7545,7 +7545,7 @@
   },
   {
     "id": "word_586",
-    "word": "",
+    "word": "PERIPHERY",
     "roots": "peri- (around) + pherein (to carry)",
     "pronunciation": "puh RIF uh ree",
     "pos": "n",
@@ -7558,7 +7558,7 @@
   },
   {
     "id": "word_587",
-    "word": "",
+    "word": "PERJURY",
     "roots": "per- (through/away) + jurare (to swear)",
     "pronunciation": "PUR jur ee",
     "pos": "n",
@@ -7571,7 +7571,7 @@
   },
   {
     "id": "word_588",
-    "word": "",
+    "word": "PERMEATE",
     "roots": "per- (through) + meare (to pass/flow)",
     "pronunciation": "PUR mee ayt",
     "pos": "v",
@@ -7584,7 +7584,7 @@
   },
   {
     "id": "word_589",
-    "word": "",
+    "word": "PERNICIOUS",
     "roots": "per- (completely) + nex/nec- (death/murder)",
     "pronunciation": "pur NISH us",
     "pos": "adj",
@@ -7597,7 +7597,7 @@
   },
   {
     "id": "word_590",
-    "word": "",
+    "word": "PERQUISITE",
     "roots": "per- (thoroughly) + quaerere (to seek)",
     "pronunciation": "PUR kwuh zit",
     "pos": "n",
@@ -7612,7 +7612,7 @@
   },
   {
     "id": "word_591",
-    "word": "",
+    "word": "PERTINENT",
     "roots": "per- (through) + tenere (to hold)",
     "pronunciation": "PUR tuh nunt",
     "pos": "adj",
@@ -7624,7 +7624,7 @@
   },
   {
     "id": "word_592",
-    "word": "",
+    "word": "PERTURB",
     "roots": "per- (through) + turbare (to disturb)",
     "pronunciation": "pur TURB",
     "pos": "v",
@@ -7636,7 +7636,7 @@
   },
   {
     "id": "word_593",
-    "word": "",
+    "word": "PERUSE",
     "roots": "per- (completely) + uti (to use)",
     "pronunciation": "puh ROOZ",
     "pos": "v",
@@ -7649,7 +7649,7 @@
   },
   {
     "id": "word_594",
-    "word": "",
+    "word": "PERVADE",
     "roots": "per- (through) + vadere (to go)",
     "pronunciation": "pur VAYD",
     "pos": "v",
@@ -7664,7 +7664,7 @@
   },
   {
     "id": "word_595",
-    "word": "",
+    "word": "PETULANT",
     "roots": "petere (to seek/rush at)",
     "pronunciation": "PECH uh lunt",
     "pos": "adj",
@@ -7677,7 +7677,7 @@
   },
   {
     "id": "word_596",
-    "word": "",
+    "word": "PHILANTHROPY",
     "roots": "philos (loving) + anthropos (mankind)",
     "pronunciation": "fi LAN thruh pee",
     "pos": "n",
@@ -7689,7 +7689,7 @@
   },
   {
     "id": "word_597",
-    "word": "",
+    "word": "PHILISTINE",
     "roots": "Philistines (biblical enemies of Israelites)",
     "pronunciation": "FIL i steen",
     "pos": "n",
@@ -7701,7 +7701,7 @@
   },
   {
     "id": "word_598",
-    "word": "",
+    "word": "PIOUS",
     "roots": "pius (dutiful/devout)",
     "pronunciation": "PYE us",
     "pos": "adj",
@@ -7713,7 +7713,7 @@
   },
   {
     "id": "word_599",
-    "word": "",
+    "word": "PIVOTAL",
     "roots": "pivot (hinge/pin)",
     "pronunciation": "PIV uh tul",
     "pos": "adj",
@@ -7725,7 +7725,7 @@
   },
   {
     "id": "word_600",
-    "word": "",
+    "word": "PLACATE",
     "roots": "placare (to soothe/please)",
     "pronunciation": "PLAY kayt",
     "pos": "v",
@@ -7738,7 +7738,7 @@
   },
   {
     "id": "word_601",
-    "word": "",
+    "word": "PLAINTIVE",
     "roots": "plangere (to strike/lament)",
     "pronunciation": "PLAYN tiv",
     "pos": "adj",
@@ -7751,7 +7751,7 @@
   },
   {
     "id": "word_602",
-    "word": "",
+    "word": "PLATITUDE",
     "roots": "platys (flat) + -tude",
     "pronunciation": "PLAT uh tood",
     "pos": "n",
@@ -7764,7 +7764,7 @@
   },
   {
     "id": "word_603",
-    "word": "",
+    "word": "PLEBEIAN",
     "roots": "plebs (common people)",
     "pronunciation": "pluh BEE un",
     "pos": "adj",
@@ -7776,7 +7776,7 @@
   },
   {
     "id": "word_604",
-    "word": "",
+    "word": "PLETHORA",
     "roots": "plethein (to be full)",
     "pronunciation": "PLETH ur uh",
     "pos": "n",
@@ -7789,7 +7789,7 @@
   },
   {
     "id": "word_605",
-    "word": "",
+    "word": "POIGNANT",
     "roots": "pungere (to prick)",
     "pronunciation": "POYN yunt",
     "pos": "adj",
@@ -7801,7 +7801,7 @@
   },
   {
     "id": "word_606",
-    "word": "",
+    "word": "POLARIZE",
     "roots": "polos (pivot/axis)",
     "pronunciation": "POH luh ryze",
     "pos": "v",
@@ -7814,7 +7814,7 @@
   },
   {
     "id": "word_607",
-    "word": "",
+    "word": "POLEMIC",
     "roots": "polemos (war)",
     "pronunciation": "puh LEM ik",
     "pos": "n",
@@ -7827,7 +7827,7 @@
   },
   {
     "id": "word_608",
-    "word": "",
+    "word": "PONDEROUS",
     "roots": "pondus/ponder- (weight)",
     "pronunciation": "PAHN dur us",
     "pos": "adj",
@@ -7840,7 +7840,7 @@
   },
   {
     "id": "word_609",
-    "word": "",
+    "word": "PORTENT",
     "roots": "pro- (forth) + tendere (to stretch)",
     "pronunciation": "POR tent",
     "pos": "n",
@@ -7853,7 +7853,7 @@
   },
   {
     "id": "word_610",
-    "word": "",
+    "word": "POSTULATE",
     "roots": "postulare (to ask/demand)",
     "pronunciation": "PAHS chuh lut",
     "pos": "n",
@@ -7866,7 +7866,7 @@
   },
   {
     "id": "word_611",
-    "word": "",
+    "word": "PRAGMATIC",
     "roots": "pragma (deed/act)",
     "pronunciation": "prag MAT ik",
     "pos": "adj",
@@ -7878,7 +7878,7 @@
   },
   {
     "id": "word_612",
-    "word": "",
+    "word": "PRECEDENT",
     "roots": "prae- (before) + cedere (to go)",
     "pronunciation": "PRES uh dunt",
     "pos": "n",
@@ -7891,7 +7891,7 @@
   },
   {
     "id": "word_613",
-    "word": "",
+    "word": "PRECEPT",
     "roots": "prae- (before) + capere (to take)",
     "pronunciation": "PREE sept",
     "pos": "n",
@@ -7903,7 +7903,7 @@
   },
   {
     "id": "word_614",
-    "word": "",
+    "word": "PRECIPITATE",
     "roots": "prae- (before) + caput/capit- (head)",
     "pronunciation": "pri SIP uh tayt",
     "pos": "v",
@@ -7917,7 +7917,7 @@
   },
   {
     "id": "word_615",
-    "word": "",
+    "word": "PRECIPITOUS",
     "roots": "prae- (before) + caput/capit- (head)",
     "pronunciation": "pri SIP uh tus",
     "pos": "adj",
@@ -7927,7 +7927,7 @@
   },
   {
     "id": "word_616",
-    "word": "",
+    "word": "PRECLUDE",
     "roots": "prae- (before) + claudere (to close)",
     "pronunciation": "pri KLOOD",
     "pos": "v",
@@ -7939,7 +7939,7 @@
   },
   {
     "id": "word_617",
-    "word": "",
+    "word": "PRECURSOR",
     "roots": "prae- (before) + currere (to run)",
     "pronunciation": "pri KUR sur",
     "pos": "n",
@@ -7953,7 +7953,7 @@
   },
   {
     "id": "word_618",
-    "word": "",
+    "word": "PREDILECTION",
     "roots": "prae- (before) + diligere (to choose/love)",
     "pronunciation": "pred uh LEK shun",
     "pos": "n",
@@ -7966,7 +7966,7 @@
   },
   {
     "id": "word_619",
-    "word": "",
+    "word": "PREEMINENT",
     "roots": "prae- (before) + ex- (out) + minere (to jut)",
     "pronunciation": "pree EM uh nunt",
     "pos": "adj",
@@ -7979,7 +7979,7 @@
   },
   {
     "id": "word_620",
-    "word": "",
+    "word": "PREEMPT",
     "roots": "prae- (before) + emere (to buy/take)",
     "pronunciation": "pree EMPT",
     "pos": "v",
@@ -7991,7 +7991,7 @@
   },
   {
     "id": "word_621",
-    "word": "",
+    "word": "PREMISE",
     "roots": "prae- (before) + mittere (to send)",
     "pronunciation": "PREM is",
     "pos": "n",
@@ -8004,7 +8004,7 @@
   },
   {
     "id": "word_622",
-    "word": "",
+    "word": "PREPOSSESS",
     "roots": "pre- (before) + possess",
     "pronunciation": "pree puh ZES",
     "pos": "v",
@@ -8019,7 +8019,7 @@
   },
   {
     "id": "word_623",
-    "word": "",
+    "word": "PREROGATIVE",
     "roots": "prae- (before) + rogare (to ask)",
     "pronunciation": "pri RAHG uh tiv",
     "pos": "n",
@@ -8033,7 +8033,7 @@
   },
   {
     "id": "word_624",
-    "word": "",
+    "word": "PREVAIL",
     "roots": "prae- (before) + valere (to be strong)",
     "pronunciation": "pri VAYL",
     "pos": "v",
@@ -8046,7 +8046,7 @@
   },
   {
     "id": "word_625",
-    "word": "",
+    "word": "PRISTINE",
     "roots": "pristinus (former/early)",
     "pronunciation": "PRIS teen",
     "pos": "adj",
@@ -8056,7 +8056,7 @@
   },
   {
     "id": "word_626",
-    "word": "",
+    "word": "PRODIGAL",
     "roots": "pro- (forth) + agere (to drive)",
     "pronunciation": "PRAHD uh gul",
     "pos": "adj",
@@ -8071,7 +8071,7 @@
   },
   {
     "id": "word_627",
-    "word": "",
+    "word": "PRODIGIOUS",
     "roots": "prodigium (omen/monster)",
     "pronunciation": "pruh DIJ us",
     "pos": "adj",
@@ -8084,7 +8084,7 @@
   },
   {
     "id": "word_628",
-    "word": "",
+    "word": "PRODIGY",
     "roots": "prodigium (omen/monster)",
     "pronunciation": "PRAHD uh jee",
     "pos": "n",
@@ -8098,7 +8098,7 @@
   },
   {
     "id": "word_629",
-    "word": "",
+    "word": "PROFANE",
     "roots": "pro- (before/outside) + fanum (temple)",
     "pronunciation": "proh FAYN",
     "pos": "adj",
@@ -8111,7 +8111,7 @@
   },
   {
     "id": "word_630",
-    "word": "",
+    "word": "PROFESS",
     "roots": "pro- (forth) + fateri (to acknowledge/confess)",
     "pronunciation": "pruh FES",
     "pos": "v",
@@ -8124,7 +8124,7 @@
   },
   {
     "id": "word_631",
-    "word": "",
+    "word": "PROFICIENT",
     "roots": "pro- (forward) + facere (to make/do)",
     "pronunciation": "pruh FISH unt",
     "pos": "adj",
@@ -8138,7 +8138,7 @@
   },
   {
     "id": "word_632",
-    "word": "",
+    "word": "PROFLIGATE",
     "roots": "pro- (forward) + fligere (to strike/dash)",
     "pronunciation": "PRAHF luh git",
     "pos": "adj",
@@ -8151,7 +8151,7 @@
   },
   {
     "id": "word_633",
-    "word": "",
+    "word": "PROFOUND",
     "roots": "pro- (before) + fundus (bottom)",
     "pronunciation": "pruh FOUND",
     "pos": "adj",
@@ -8161,7 +8161,7 @@
   },
   {
     "id": "word_634",
-    "word": "",
+    "word": "PROFUSE",
     "roots": "pro- (forth) + fundere (to pour)",
     "pronunciation": "pruh FYOOS",
     "pos": "adj",
@@ -8175,7 +8175,7 @@
   },
   {
     "id": "word_635",
-    "word": "",
+    "word": "PROLETARIAT",
     "roots": "proles (offspring) - lowest class whose only wealth was children",
     "pronunciation": "proh luh TER ee ut",
     "pos": "n",
@@ -8185,7 +8185,7 @@
   },
   {
     "id": "word_636",
-    "word": "",
+    "word": "PROLIFERATE",
     "roots": "proles (offspring) + ferre (to bear)",
     "pronunciation": "proh LIF uh rayt",
     "pos": "v",
@@ -8199,7 +8199,7 @@
   },
   {
     "id": "word_637",
-    "word": "",
+    "word": "PROLIFIC",
     "roots": "proles (offspring) + facere (to make)",
     "pronunciation": "proh LIF ik",
     "pos": "adj",
@@ -8211,7 +8211,7 @@
   },
   {
     "id": "word_638",
-    "word": "",
+    "word": "PROMULGATE",
     "roots": "pro- (forth) + mulgere (to milk/expose)",
     "pronunciation": "PRAHM ul gayt",
     "pos": "v",
@@ -8223,7 +8223,7 @@
   },
   {
     "id": "word_639",
-    "word": "",
+    "word": "PROPENSITY",
     "roots": "pro- (forward) + pendere (to hang)",
     "pronunciation": "pruh PEN suh tee",
     "pos": "n",
@@ -8236,7 +8236,7 @@
   },
   {
     "id": "word_640",
-    "word": "",
+    "word": "PROPITIOUS",
     "roots": "pro- (forward) + petere (to seek)",
     "pronunciation": "pruh PISH us",
     "pos": "adj",
@@ -8249,7 +8249,7 @@
   },
   {
     "id": "word_641",
-    "word": "",
+    "word": "PROPONENT",
     "roots": "pro- (forth) + ponere (to place)",
     "pronunciation": "pruh POH nunt",
     "pos": "n",
@@ -8261,7 +8261,7 @@
   },
   {
     "id": "word_642",
-    "word": "",
+    "word": "PROPRIETARY",
     "roots": "proprius (one's own)",
     "pronunciation": "pruh PRYE uh ter ee",
     "pos": "adj",
@@ -8274,7 +8274,7 @@
   },
   {
     "id": "word_643",
-    "word": "",
+    "word": "PROPRIETY",
     "roots": "proprius (one's own)",
     "pronunciation": "pruh PRYE uh tee",
     "pos": "n",
@@ -8287,7 +8287,7 @@
   },
   {
     "id": "word_644",
-    "word": "",
+    "word": "PROSAIC",
     "roots": "prosa (straightforward discourse)",
     "pronunciation": "proh ZAY ik",
     "pos": "adj",
@@ -8300,7 +8300,7 @@
   },
   {
     "id": "word_645",
-    "word": "",
+    "word": "PROSCRIBE",
     "roots": "pro- (in front) + scribere (to write)",
     "pronunciation": "proh SKRYBE",
     "pos": "v",
@@ -8313,7 +8313,7 @@
   },
   {
     "id": "word_646",
-    "word": "",
+    "word": "PROSELYTIZE",
     "roots": "proselytos (newcomer/convert)",
     "pronunciation": "PRAHS uh luh tyze",
     "pos": "v",
@@ -8326,7 +8326,7 @@
   },
   {
     "id": "word_647",
-    "word": "",
+    "word": "PROTAGONIST",
     "roots": "protos (first) + agonistes (actor/competitor)",
     "pronunciation": "proh TAG uh nist",
     "pos": "n",
@@ -8340,7 +8340,7 @@
   },
   {
     "id": "word_648",
-    "word": "",
+    "word": "PROTRACT",
     "roots": "pro- (forward) + trahere (to draw/drag)",
     "pronunciation": "proh TRAKT",
     "pos": "v",
@@ -8353,7 +8353,7 @@
   },
   {
     "id": "word_649",
-    "word": "",
+    "word": "PROVIDENT",
     "roots": "pro- (forward) + videre (to see)",
     "pronunciation": "PRAHV uh dunt",
     "pos": "adj",
@@ -8367,7 +8367,7 @@
   },
   {
     "id": "word_650",
-    "word": "",
+    "word": "PROVINCIAL",
     "roots": "pro- (forth) + vincere (to conquer) -> provincia (conquered territory)",
     "pronunciation": "pruh VIN shul",
     "pos": "adj",
@@ -8380,7 +8380,7 @@
   },
   {
     "id": "word_651",
-    "word": "",
+    "word": "PROVISIONAL",
     "roots": "pro- (forward) + videre (to see)",
     "pronunciation": "pruh VIZH uh nul",
     "pos": "adj",
@@ -8393,7 +8393,7 @@
   },
   {
     "id": "word_652",
-    "word": "",
+    "word": "PROXIMITY",
     "roots": "proximus (nearest)",
     "pronunciation": "prok SIM uh tee",
     "pos": "n",
@@ -8406,7 +8406,7 @@
   },
   {
     "id": "word_653",
-    "word": "",
+    "word": "PRUDENT",
     "roots": "providens (foreseeing)",
     "pronunciation": "PROOD unt",
     "pos": "adj",
@@ -8419,7 +8419,7 @@
   },
   {
     "id": "word_654",
-    "word": "",
+    "word": "PURPORTED",
     "roots": "pro- (forth) + portare (to carry)",
     "pronunciation": "pur PORT id",
     "pos": "adj",
@@ -8431,7 +8431,7 @@
   },
   {
     "id": "word_655",
-    "word": "",
+    "word": "PUTATIVE",
     "roots": "putare (to think/reckon)",
     "pronunciation": "PYOO tuh tiv",
     "pos": "adj",
@@ -8443,7 +8443,7 @@
   },
   {
     "id": "word_656",
-    "word": "",
+    "word": "QUALIFY",
     "roots": "qualis (what kind) + facere (to make)",
     "pronunciation": "KWAHL uh fye",
     "pos": "v",
@@ -8456,7 +8456,7 @@
   },
   {
     "id": "word_657",
-    "word": "",
+    "word": "QUALITATIVE",
     "roots": "qualis (what kind)",
     "pronunciation": "KWAHL uh tay tiv",
     "pos": "adj",
@@ -8468,7 +8468,7 @@
   },
   {
     "id": "word_658",
-    "word": "",
+    "word": "QUIXOTIC",
     "roots": "Don Quixote (romantic/unrealistic literary hero)",
     "pronunciation": "kwik SAHT ik",
     "pos": "adj",
@@ -8481,7 +8481,7 @@
   },
   {
     "id": "word_659",
-    "word": "",
+    "word": "RAMIFICATION",
     "roots": "ramus (branch) + facere (to make)",
     "pronunciation": "ram uh fuh KAY shun",
     "pos": "n",
@@ -8493,7 +8493,7 @@
   },
   {
     "id": "word_660",
-    "word": "",
+    "word": "RANCOR",
     "roots": "rancidus (stinking)",
     "pronunciation": "RANG kur",
     "pos": "n",
@@ -8507,7 +8507,7 @@
   },
   {
     "id": "word_661",
-    "word": "",
+    "word": "RAPACIOUS",
     "roots": "rapere (to snatch/seize)",
     "pronunciation": "ruh PAY shus",
     "pos": "adj",
@@ -8519,7 +8519,7 @@
   },
   {
     "id": "word_662",
-    "word": "",
+    "word": "REBUKE",
     "roots": "re- (back) + buca (mouth) -> to stop mouth",
     "pronunciation": "ri BYOOK",
     "pos": "v",
@@ -8532,7 +8532,7 @@
   },
   {
     "id": "word_663",
-    "word": "",
+    "word": "REBUT",
     "roots": "re- (back) + bouter (to thrust/strike)",
     "pronunciation": "ri BUT",
     "pos": "v",
@@ -8545,7 +8545,7 @@
   },
   {
     "id": "word_664",
-    "word": "",
+    "word": "RECALCITRANT",
     "roots": "re- (back) + calcitrare (to kick/strike with heel)",
     "pronunciation": "ri KAL suh trunt",
     "pos": "adj",
@@ -8558,7 +8558,7 @@
   },
   {
     "id": "word_665",
-    "word": "",
+    "word": "RECANT",
     "roots": "re- (back) + cantare (to sing)",
     "pronunciation": "ri KANT",
     "pos": "v",
@@ -8571,7 +8571,7 @@
   },
   {
     "id": "word_666",
-    "word": "",
+    "word": "RECIPROCAL",
     "roots": "re- (back) + pro- (forward)",
     "pronunciation": "ri SIP ruh kul",
     "pos": "adj",
@@ -8585,7 +8585,7 @@
   },
   {
     "id": "word_667",
-    "word": "",
+    "word": "RECLUSIVE",
     "roots": "re- (back) + claudere (to shut)",
     "pronunciation": "ri KLOOS iv",
     "pos": "adj",
@@ -8600,7 +8600,7 @@
   },
   {
     "id": "word_668",
-    "word": "",
+    "word": "RECONDITE",
     "roots": "re- (back/away) + condere (to hide/put together)",
     "pronunciation": "REK un dyte",
     "pos": "adj",
@@ -8614,7 +8614,7 @@
   },
   {
     "id": "word_669",
-    "word": "",
+    "word": "RECRIMINATION",
     "roots": "re- (back) + crimen (charge/crime)",
     "pronunciation": "ri krim uh NAY shun",
     "pos": "n",
@@ -8627,7 +8627,7 @@
   },
   {
     "id": "word_670",
-    "word": "",
+    "word": "REDOLENT",
     "roots": "re- (back/again) + olere (to smell)",
     "pronunciation": "RED uh lunt",
     "pos": "adj",
@@ -8641,7 +8641,7 @@
   },
   {
     "id": "word_671",
-    "word": "",
+    "word": "REDUNDANT",
     "roots": "re- (back/again) + undare (to surge/overflow)",
     "pronunciation": "ri DUN dunt",
     "pos": "adj",
@@ -8654,7 +8654,7 @@
   },
   {
     "id": "word_672",
-    "word": "",
+    "word": "REFUTE",
     "roots": "re- (back) + futare (to beat)",
     "pronunciation": "ri FYOOT",
     "pos": "v",
@@ -8669,7 +8669,7 @@
   },
   {
     "id": "word_673",
-    "word": "",
+    "word": "REITERATE",
     "roots": "re- (again) + iterare (to repeat)",
     "pronunciation": "ree IT uh rayt",
     "pos": "v",
@@ -8682,7 +8682,7 @@
   },
   {
     "id": "word_674",
-    "word": "",
+    "word": "RELEGATE",
     "roots": "re- (back) + legare (to send as envoy/depute)",
     "pronunciation": "REL uh gayt",
     "pos": "v",
@@ -8695,7 +8695,7 @@
   },
   {
     "id": "word_675",
-    "word": "",
+    "word": "RELENTLESS",
     "roots": "re- (back) + lentus (slow/pliant)",
     "pronunciation": "ri LENT lis",
     "pos": "adj",
@@ -8708,7 +8708,7 @@
   },
   {
     "id": "word_676",
-    "word": "",
+    "word": "RELINQUISH",
     "roots": "re- (behind) + linquere (to leave)",
     "pronunciation": "ri LING kwish",
     "pos": "v",
@@ -8722,7 +8722,7 @@
   },
   {
     "id": "word_677",
-    "word": "",
+    "word": "REMONSTRATE",
     "roots": "re- (again) + monstrare (to show/point out)",
     "pronunciation": "ri MAHN strayt",
     "pos": "v",
@@ -8735,7 +8735,7 @@
   },
   {
     "id": "word_678",
-    "word": "",
+    "word": "RENAISSANCE",
     "roots": "re- (again) + nasci (to be born)",
     "pronunciation": "REN uh sahns",
     "pos": "n",
@@ -8748,7 +8748,7 @@
   },
   {
     "id": "word_679",
-    "word": "",
+    "word": "RENOUNCE",
     "roots": "re- (back) + nuntiare (to announce)",
     "pronunciation": "ri NOWNSE",
     "pos": "v",
@@ -8761,7 +8761,7 @@
   },
   {
     "id": "word_680",
-    "word": "",
+    "word": "REPERCUSSION",
     "roots": "re- (back) + percutere (to strike)",
     "pronunciation": "ree pur KUSH un",
     "pos": "n",
@@ -8774,7 +8774,7 @@
   },
   {
     "id": "word_681",
-    "word": "",
+    "word": "REPLENISH",
     "roots": "re- (again) + plenus (full)",
     "pronunciation": "ri PLEN ish",
     "pos": "v",
@@ -8789,7 +8789,7 @@
   },
   {
     "id": "word_682",
-    "word": "",
+    "word": "REPLETE",
     "roots": "re- (again) + plere (to fill)",
     "pronunciation": "ri PLEET",
     "pos": "adj",
@@ -8803,7 +8803,7 @@
   },
   {
     "id": "word_683",
-    "word": "",
+    "word": "REPREHENSIBLE",
     "roots": "re- (back) + prehendere (to seize)",
     "pronunciation": "rep ri HEN suh bul",
     "pos": "adj",
@@ -8816,7 +8816,7 @@
   },
   {
     "id": "word_684",
-    "word": "",
+    "word": "REPRISAL",
     "roots": "re- (back) + prehendere (to seize)",
     "pronunciation": "ri PRYE zul",
     "pos": "n",
@@ -8829,7 +8829,7 @@
   },
   {
     "id": "word_685",
-    "word": "",
+    "word": "REPROACH",
     "roots": "re- (opposite) + propius (nearer)",
     "pronunciation": "ri PROHCH",
     "pos": "v",
@@ -8842,7 +8842,7 @@
   },
   {
     "id": "word_686",
-    "word": "",
+    "word": "REPROVE",
     "roots": "re- (opposite) + probare (to test/prove)",
     "pronunciation": "ri PROOV",
     "pos": "v",
@@ -8857,7 +8857,7 @@
   },
   {
     "id": "word_687",
-    "word": "",
+    "word": "REQUISITE",
     "roots": "re- (again) + quaerere (to seek)",
     "pronunciation": "REK wuh zit",
     "pos": "adj",
@@ -8870,7 +8870,7 @@
   },
   {
     "id": "word_688",
-    "word": "",
+    "word": "RESOLUTE",
     "roots": "re- (intensive) + solvere (to loosen/free)",
     "pronunciation": "REZ uh loot",
     "pos": "adj",
@@ -8885,7 +8885,7 @@
   },
   {
     "id": "word_689",
-    "word": "",
+    "word": "RESPITE",
     "roots": "re- (back) + specere (to look)",
     "pronunciation": "RES pit",
     "pos": "n",
@@ -8898,7 +8898,7 @@
   },
   {
     "id": "word_690",
-    "word": "",
+    "word": "RETICENT",
     "roots": "re- (intensive) + tacere (to be silent)",
     "pronunciation": "RET uh sint",
     "pos": "adj",
@@ -8911,7 +8911,7 @@
   },
   {
     "id": "word_691",
-    "word": "",
+    "word": "REVERE",
     "roots": "re- (intensive) + vereri (to fear/respect)",
     "pronunciation": "ri VEER",
     "pos": "v",
@@ -8924,7 +8924,7 @@
   },
   {
     "id": "word_692",
-    "word": "",
+    "word": "RHETORIC",
     "roots": "rhetor (orator)",
     "pronunciation": "RET ur ik",
     "pos": "n",
@@ -8934,7 +8934,7 @@
   },
   {
     "id": "word_693",
-    "word": "",
+    "word": "RIGOROUS",
     "roots": "rigere (to be stiff)",
     "pronunciation": "RIG ur us",
     "pos": "adj",
@@ -8947,7 +8947,7 @@
   },
   {
     "id": "word_694",
-    "word": "",
+    "word": "ROBUST",
     "roots": "robus (oak/strength)",
     "pronunciation": "roh BUST",
     "pos": "adj",
@@ -8960,7 +8960,7 @@
   },
   {
     "id": "word_695",
-    "word": "",
+    "word": "ROGUE",
     "roots": "rogar (to ask/beg)",
     "pronunciation": "rohg",
     "pos": "n",
@@ -8972,7 +8972,7 @@
   },
   {
     "id": "word_696",
-    "word": "",
+    "word": "RUDIMENTARY",
     "roots": "rudis (unlearned/rough)",
     "pronunciation": "roo duh MEN tuh ree",
     "pos": "n",
@@ -8985,7 +8985,7 @@
   },
   {
     "id": "word_697",
-    "word": "",
+    "word": "RUMINATE",
     "roots": "ruminare (to chew the cud)",
     "pronunciation": "ROO muh nayt",
     "pos": "v",
@@ -8998,7 +8998,7 @@
   },
   {
     "id": "word_698",
-    "word": "",
+    "word": "RUSTIC",
     "roots": "rus/ruris (country)",
     "pronunciation": "RUS tik",
     "pos": "adj",
@@ -9011,7 +9011,7 @@
   },
   {
     "id": "word_699",
-    "word": "",
+    "word": "SACCHARINE",
     "roots": "sakcharon (sugar)",
     "pronunciation": "SAK uh rin",
     "pos": "adj",
@@ -9024,7 +9024,7 @@
   },
   {
     "id": "word_700",
-    "word": "",
+    "word": "SACRILEGE",
     "roots": "sacer (sacred) + legere (to steal/gather)",
     "pronunciation": "SAK ruh lij",
     "pos": "n",
@@ -9037,7 +9037,7 @@
   },
   {
     "id": "word_701",
-    "word": "",
+    "word": "SACROSANCT",
     "roots": "sacro (holy rite) + sanctus (consecrated)",
     "pronunciation": "SAK roh sangkt",
     "pos": "adj",
@@ -9049,7 +9049,7 @@
   },
   {
     "id": "word_702",
-    "word": "",
+    "word": "SAGACIOUS",
     "roots": "sagire (to perceive keenly)",
     "pronunciation": "suh GAY shus",
     "pos": "adj",
@@ -9064,7 +9064,7 @@
   },
   {
     "id": "word_703",
-    "word": "",
+    "word": "SALIENT",
     "roots": "salire (to leap)",
     "pronunciation": "SAYL yunt",
     "pos": "adj",
@@ -9076,7 +9076,7 @@
   },
   {
     "id": "word_704",
-    "word": "",
+    "word": "SALUTARY",
     "roots": "salus/salut- (health)",
     "pronunciation": "SAL yuh ter ee",
     "pos": "adj",
@@ -9089,7 +9089,7 @@
   },
   {
     "id": "word_705",
-    "word": "",
+    "word": "SANCTIMONIOUS",
     "roots": "sanctus (holy)",
     "pronunciation": "sangk tuh MOH nee us",
     "pos": "adj",
@@ -9102,7 +9102,7 @@
   },
   {
     "id": "word_706",
-    "word": "",
+    "word": "SANGUINE",
     "roots": "sanguis (blood)",
     "pronunciation": "SANG gwin",
     "pos": "adj",
@@ -9115,7 +9115,7 @@
   },
   {
     "id": "word_707",
-    "word": "",
+    "word": "SARDONIC",
     "roots": "Sardo (Sardinia) - a toxic Sardinian plant was said to cause facial spasms resembling a grin",
     "pronunciation": "sahr DAHN ik",
     "pos": "adj",
@@ -9128,7 +9128,7 @@
   },
   {
     "id": "word_708",
-    "word": "",
+    "word": "SCINTILLATE",
     "roots": "scintilla (spark)",
     "pronunciation": "SIN tuh layt",
     "pos": "v",
@@ -9142,7 +9142,7 @@
   },
   {
     "id": "word_709",
-    "word": "",
+    "word": "SCRUPULOUS",
     "roots": "scrupulus (small sharp stone - causing uneasiness)",
     "pronunciation": "SKROO pyuh lus",
     "pos": "adj",
@@ -9156,7 +9156,7 @@
   },
   {
     "id": "word_710",
-    "word": "",
+    "word": "SCRUTINIZE",
     "roots": "scrutari (to search/examine) from scruta (trash)",
     "pronunciation": "SKROOT uh nyze",
     "pos": "v",
@@ -9172,7 +9172,7 @@
   },
   {
     "id": "word_711",
-    "word": "",
+    "word": "SECULAR",
     "roots": "saeculum (generation/age)",
     "pronunciation": "SEK yuh lur",
     "pos": "adj",
@@ -9185,7 +9185,7 @@
   },
   {
     "id": "word_712",
-    "word": "",
+    "word": "SEDITION",
     "roots": "se- (apart) + ire (to go)",
     "pronunciation": "si DISH un",
     "pos": "n",
@@ -9197,7 +9197,7 @@
   },
   {
     "id": "word_713",
-    "word": "",
+    "word": "SEGREGATE",
     "roots": "se- (apart) + grex/greg- (flock)",
     "pronunciation": "SEG ruh gayt",
     "pos": "v",
@@ -9209,7 +9209,7 @@
   },
   {
     "id": "word_714",
-    "word": "",
+    "word": "SENSORY",
     "roots": "sentire (to feel)",
     "pronunciation": "SEN suh ree",
     "pos": "adj",
@@ -9221,7 +9221,7 @@
   },
   {
     "id": "word_715",
-    "word": "",
+    "word": "SENTIENT",
     "roots": "sentire (to feel)",
     "pronunciation": "SEN shunt",
     "pos": "adj",
@@ -9233,7 +9233,7 @@
   },
   {
     "id": "word_716",
-    "word": "",
+    "word": "SEQUESTER",
     "roots": "sequi (to follow/hand over to trustee)",
     "pronunciation": "si KWES tur",
     "pos": "v",
@@ -9247,7 +9247,7 @@
   },
   {
     "id": "word_717",
-    "word": "",
+    "word": "SERENDIPITY",
     "roots": "Serendip (Sri Lanka) - heroes of a tale made accidental discoveries",
     "pronunciation": "ser un DIP uh tee",
     "pos": "n",
@@ -9260,7 +9260,7 @@
   },
   {
     "id": "word_718",
-    "word": "",
+    "word": "SERVILE",
     "roots": "servus (slave)",
     "pronunciation": "SUR vyle",
     "pos": "adj",
@@ -9273,7 +9273,7 @@
   },
   {
     "id": "word_719",
-    "word": "",
+    "word": "SINGULAR",
     "roots": "singulus (single/one by one)",
     "pronunciation": "SING gyuh lur",
     "pos": "adj",
@@ -9286,7 +9286,7 @@
   },
   {
     "id": "word_720",
-    "word": "",
+    "word": "SINISTER",
     "roots": "sinister (left hand - considered unlucky)",
     "pronunciation": "SIN ih stur",
     "pos": "adj",
@@ -9298,7 +9298,7 @@
   },
   {
     "id": "word_721",
-    "word": "",
+    "word": "SLANDER",
     "roots": "scandalon (stumbling block/offense)",
     "pronunciation": "SLAN dur",
     "pos": "v",
@@ -9310,7 +9310,7 @@
   },
   {
     "id": "word_722",
-    "word": "",
+    "word": "SLOTH",
     "roots": "slaw (slow) + -th",
     "pronunciation": "slawth",
     "pos": "n",
@@ -9323,7 +9323,7 @@
   },
   {
     "id": "word_723",
-    "word": "",
+    "word": "SOBRIETY",
     "roots": "se- (without) + ebrius (drunk)",
     "pronunciation": "suh BRYE uh tee",
     "pos": "n",
@@ -9335,7 +9335,7 @@
   },
   {
     "id": "word_724",
-    "word": "",
+    "word": "SOLICITOUS",
     "roots": "ciere (to set in motion) + sollus (whole)",
     "pronunciation": "suh LIS uh tus",
     "pos": "adj",
@@ -9348,7 +9348,7 @@
   },
   {
     "id": "word_725",
-    "word": "",
+    "word": "SOLVENT",
     "roots": "solvere (to loosen/dissolve)",
     "pronunciation": "SAHL vunt",
     "pos": "adj",
@@ -9360,7 +9360,7 @@
   },
   {
     "id": "word_726",
-    "word": "",
+    "word": "SOPORIFIC",
     "roots": "sopor (deep sleep) + facere (to make)",
     "pronunciation": "sahp uh RIF ik",
     "pos": "adj",
@@ -9374,7 +9374,7 @@
   },
   {
     "id": "word_727",
-    "word": "",
+    "word": "SORDID",
     "roots": "sordes (dirt)",
     "pronunciation": "SOR did",
     "pos": "adj",
@@ -9388,7 +9388,7 @@
   },
   {
     "id": "word_728",
-    "word": "",
+    "word": "SPAWN",
     "roots": "ex- (out) + pandere (to spread)",
     "pronunciation": "spawn",
     "pos": "v",
@@ -9400,7 +9400,7 @@
   },
   {
     "id": "word_729",
-    "word": "",
+    "word": "SPECIOUS",
     "roots": "specere (to look at -> beautiful but false appearance)",
     "pronunciation": "SPEE shus",
     "pos": "adj",
@@ -9413,7 +9413,7 @@
   },
   {
     "id": "word_730",
-    "word": "",
+    "word": "SPORADIC",
     "roots": "speirein (to sow) -> sporaden (scattered)",
     "pronunciation": "spuh RAD ik",
     "pos": "adj",
@@ -9425,7 +9425,7 @@
   },
   {
     "id": "word_731",
-    "word": "",
+    "word": "SPURIOUS",
     "roots": "spurius (illegitimate/false)",
     "pronunciation": "SPYOOR ee us",
     "pos": "adj",
@@ -9437,7 +9437,7 @@
   },
   {
     "id": "word_732",
-    "word": "",
+    "word": "SQUALOR",
     "roots": "squalere (to be covered with filth)",
     "pronunciation": "SKWAHL ur",
     "pos": "n",
@@ -9449,7 +9449,7 @@
   },
   {
     "id": "word_733",
-    "word": "",
+    "word": "SQUANDER",
     "roots": "unknown origin, perhaps dialectal",
     "pronunciation": "SKWAHN dur",
     "pos": "v",
@@ -9461,7 +9461,7 @@
   },
   {
     "id": "word_734",
-    "word": "",
+    "word": "STAGNATION",
     "roots": "stagnum (standing water)",
     "pronunciation": "stag NAY shun",
     "pos": "n",
@@ -9474,7 +9474,7 @@
   },
   {
     "id": "word_735",
-    "word": "",
+    "word": "STATIC",
     "roots": "histanai (to make to stand)",
     "pronunciation": "STAT ik",
     "pos": "adj",
@@ -9487,7 +9487,7 @@
   },
   {
     "id": "word_736",
-    "word": "",
+    "word": "STAUNCH",
     "roots": "stare (to stand)",
     "pronunciation": "stawnch",
     "pos": "adj",
@@ -9497,7 +9497,7 @@
   },
   {
     "id": "word_737",
-    "word": "",
+    "word": "STEADFAST",
     "roots": "stede (place) + faest (firmly fixed)",
     "pronunciation": "STED fast",
     "pos": "adj",
@@ -9509,7 +9509,7 @@
   },
   {
     "id": "word_738",
-    "word": "",
+    "word": "STIGMATIZE",
     "roots": "stizein (to prick/tattoo)",
     "pronunciation": "STIG muh tyze",
     "pos": "v",
@@ -9521,7 +9521,7 @@
   },
   {
     "id": "word_739",
-    "word": "",
+    "word": "STIPULATE",
     "roots": "stipulari (to demand a guarantee)",
     "pronunciation": "STIP yuh layt",
     "pos": "v",
@@ -9533,7 +9533,7 @@
   },
   {
     "id": "word_740",
-    "word": "",
+    "word": "STOIC",
     "roots": "stoa (porch) - where philosopher Zeno taught",
     "pronunciation": "STOH ik",
     "pos": "adj",
@@ -9546,7 +9546,7 @@
   },
   {
     "id": "word_741",
-    "word": "",
+    "word": "STRATUM",
     "roots": "sternere (to spread out)",
     "pronunciation": "STRAT um",
     "pos": "n",
@@ -9556,7 +9556,7 @@
   },
   {
     "id": "word_742",
-    "word": "",
+    "word": "STRICTURE",
     "roots": "stringere (to bind/draw tight)",
     "pronunciation": "STRIK chur",
     "pos": "n",
@@ -9570,7 +9570,7 @@
   },
   {
     "id": "word_743",
-    "word": "",
+    "word": "STRIFE",
     "roots": "estrif (strife/quarrel)",
     "pronunciation": "stryfe",
     "pos": "n",
@@ -9582,7 +9582,7 @@
   },
   {
     "id": "word_744",
-    "word": "",
+    "word": "STRINGENT",
     "roots": "stringere (to bind tight)",
     "pronunciation": "STRIN junt",
     "pos": "adj",
@@ -9595,7 +9595,7 @@
   },
   {
     "id": "word_745",
-    "word": "",
+    "word": "STYMIE",
     "roots": "stymie (golfing term for blocking object)",
     "pronunciation": "STYE mee",
     "pos": "v",
@@ -9607,7 +9607,7 @@
   },
   {
     "id": "word_746",
-    "word": "",
+    "word": "SUBJUGATE",
     "roots": "sub- (under) + jugum (yoke)",
     "pronunciation": "SUB juh gayt",
     "pos": "v",
@@ -9620,7 +9620,7 @@
   },
   {
     "id": "word_747",
-    "word": "",
+    "word": "SUBLIME",
     "roots": "sub- (up to/under) + limen (threshold)",
     "pronunciation": "suh BLYME",
     "pos": "adj",
@@ -9634,7 +9634,7 @@
   },
   {
     "id": "word_748",
-    "word": "",
+    "word": "SUBORDINATE",
     "roots": "sub- (under) + ordo/ordin- (order)",
     "pronunciation": "suh BOR duh nit",
     "pos": "adj",
@@ -9646,7 +9646,7 @@
   },
   {
     "id": "word_749",
-    "word": "",
+    "word": "SUBTLE",
     "roots": "sub- (under) + tela (web)",
     "pronunciation": "SUT ul",
     "pos": "adj",
@@ -9660,7 +9660,7 @@
   },
   {
     "id": "word_750",
-    "word": "",
+    "word": "SUBVERSIVE",
     "roots": "sub- (under) + vertere (to turn)",
     "pronunciation": "sub VUR siv",
     "pos": "adj",
@@ -9673,7 +9673,7 @@
   },
   {
     "id": "word_751",
-    "word": "",
+    "word": "SUCCINCT",
     "roots": "sub- (under) + cingere (to gird)",
     "pronunciation": "suk SINGKT",
     "pos": "adj",
@@ -9686,7 +9686,7 @@
   },
   {
     "id": "word_752",
-    "word": "",
+    "word": "SUCCUMB",
     "roots": "sub- (under) + cumbere (to lie down)",
     "pronunciation": "suh KUM",
     "pos": "v",
@@ -9700,7 +9700,7 @@
   },
   {
     "id": "word_753",
-    "word": "",
+    "word": "SUPERCILIOUS",
     "roots": "super- (above) + cilium (eyelid) -> haughty eyebrow",
     "pronunciation": "soo pur SIL ee us",
     "pos": "adj",
@@ -9713,7 +9713,7 @@
   },
   {
     "id": "word_754",
-    "word": "",
+    "word": "SUPERFICIAL",
     "roots": "super- (above/over) + facies (face)",
     "pronunciation": "soo pur FISH ul",
     "pos": "adj",
@@ -9727,7 +9727,7 @@
   },
   {
     "id": "word_755",
-    "word": "",
+    "word": "SUPERFLUOUS",
     "roots": "super- (over) + fluere (to flow)",
     "pronunciation": "soo PUR floo us",
     "pos": "adj",
@@ -9740,7 +9740,7 @@
   },
   {
     "id": "word_756",
-    "word": "",
+    "word": "SURFEIT",
     "roots": "super- (over) + facere (to make/do)",
     "pronunciation": "SUR fit",
     "pos": "n",
@@ -9750,7 +9750,7 @@
   },
   {
     "id": "word_757",
-    "word": "",
+    "word": "SURREPTITIOUS",
     "roots": "sub- (under) + rapere (to snatch)",
     "pronunciation": "sur up TISH us",
     "pos": "adj",
@@ -9763,7 +9763,7 @@
   },
   {
     "id": "word_758",
-    "word": "",
+    "word": "SURROGATE",
     "roots": "sub- (under/in place of) + rogare (to ask)",
     "pronunciation": "SUR uh git",
     "pos": "adj",
@@ -9775,7 +9775,7 @@
   },
   {
     "id": "word_759",
-    "word": "",
+    "word": "SYCOPHANT",
     "roots": "sykon (fig) + phainein (to show)",
     "pronunciation": "SIK uh funt",
     "pos": "n",
@@ -9788,7 +9788,7 @@
   },
   {
     "id": "word_760",
-    "word": "",
+    "word": "SYNTHESIS",
     "roots": "syn- (together) + tithenai (to place)",
     "pronunciation": "SIN thuh sis",
     "pos": "n",
@@ -9801,7 +9801,7 @@
   },
   {
     "id": "word_761",
-    "word": "",
+    "word": "TACIT",
     "roots": "tacere (to be silent)",
     "pronunciation": "TAS it",
     "pos": "adj",
@@ -9813,7 +9813,7 @@
   },
   {
     "id": "word_762",
-    "word": "",
+    "word": "TACITURN",
     "roots": "tacere (to be silent)",
     "pronunciation": "TAS i turn",
     "pos": "adj",
@@ -9826,7 +9826,7 @@
   },
   {
     "id": "word_763",
-    "word": "",
+    "word": "TANGENTIAL",
     "roots": "tangere (to touch)",
     "pronunciation": "tan JEN shul",
     "pos": "adj",
@@ -9839,7 +9839,7 @@
   },
   {
     "id": "word_764",
-    "word": "",
+    "word": "TANGIBLE",
     "roots": "tangere (to touch)",
     "pronunciation": "TAN juh bul",
     "pos": "adj",
@@ -9852,7 +9852,7 @@
   },
   {
     "id": "word_765",
-    "word": "",
+    "word": "TANTAMOUNT",
     "roots": "tantus (so much) + amont (amount)",
     "pronunciation": "TAN tuh mownt",
     "pos": "adj",
@@ -9865,7 +9865,7 @@
   },
   {
     "id": "word_766",
-    "word": "",
+    "word": "TAUTOLOGICAL",
     "roots": "tauto (the same) + logos (word)",
     "pronunciation": "tawt uh LAH juh kul",
     "pos": "adj",
@@ -9879,7 +9879,7 @@
   },
   {
     "id": "word_767",
-    "word": "",
+    "word": "TEMERITY",
     "roots": "temere (blindly/rashly)",
     "pronunciation": "tuh MER uh tee",
     "pos": "n",
@@ -9892,7 +9892,7 @@
   },
   {
     "id": "word_768",
-    "word": "",
+    "word": "TEMPERATE",
     "roots": "temperare (to mix/moderate)",
     "pronunciation": "TEM pur it",
     "pos": "adj",
@@ -9907,7 +9907,7 @@
   },
   {
     "id": "word_769",
-    "word": "",
+    "word": "TENABLE",
     "roots": "tenere (to hold)",
     "pronunciation": "TEN uh bul",
     "pos": "adj",
@@ -9919,7 +9919,7 @@
   },
   {
     "id": "word_770",
-    "word": "",
+    "word": "TENACIOUS",
     "roots": "tenere (to hold)",
     "pronunciation": "tuh NAY shus",
     "pos": "adj",
@@ -9933,7 +9933,7 @@
   },
   {
     "id": "word_771",
-    "word": "",
+    "word": "TENET",
     "roots": "tenere (to hold)",
     "pronunciation": "TEN it",
     "pos": "n",
@@ -9946,7 +9946,7 @@
   },
   {
     "id": "word_772",
-    "word": "",
+    "word": "TENTATIVE",
     "roots": "tentare (to handle/try)",
     "pronunciation": "TEN tuh tiv",
     "pos": "adj",
@@ -9960,7 +9960,7 @@
   },
   {
     "id": "word_773",
-    "word": "",
+    "word": "TENUOUS",
     "roots": "tenuis (thin)",
     "pronunciation": "TEN yoo us",
     "pos": "adj",
@@ -9973,7 +9973,7 @@
   },
   {
     "id": "word_774",
-    "word": "",
+    "word": "TERSE",
     "roots": "tergere (to rub off/clean)",
     "pronunciation": "turs",
     "pos": "adj",
@@ -9986,7 +9986,7 @@
   },
   {
     "id": "word_775",
-    "word": "",
+    "word": "THEOLOGY",
     "roots": "theos (god) + logos (study)",
     "pronunciation": "thee AHL uh jee",
     "pos": "n",
@@ -9998,7 +9998,7 @@
   },
   {
     "id": "word_776",
-    "word": "",
+    "word": "TIRADE",
     "roots": "tirare (to draw/pull)",
     "pronunciation": "TYE rayd",
     "pos": "n",
@@ -10010,7 +10010,7 @@
   },
   {
     "id": "word_777",
-    "word": "",
+    "word": "TORPOR",
     "roots": "torpere (to be numb)",
     "pronunciation": "TOR pur",
     "pos": "n",
@@ -10023,7 +10023,7 @@
   },
   {
     "id": "word_778",
-    "word": "",
+    "word": "TOUCHSTONE",
     "roots": "touch + stone",
     "pronunciation": "TUCH stohn",
     "pos": "n",
@@ -10036,7 +10036,7 @@
   },
   {
     "id": "word_779",
-    "word": "",
+    "word": "TOUT",
     "roots": "totian (to peep/look out)",
     "pronunciation": "towt",
     "pos": "v",
@@ -10048,7 +10048,7 @@
   },
   {
     "id": "word_780",
-    "word": "",
+    "word": "TRANSCEND",
     "roots": "trans- (across) + scandere (to climb)",
     "pronunciation": "tran SEND",
     "pos": "v",
@@ -10061,7 +10061,7 @@
   },
   {
     "id": "word_781",
-    "word": "",
+    "word": "TRANSGRESS",
     "roots": "trans- (across) + gradi (to step)",
     "pronunciation": "trans GRES",
     "pos": "v",
@@ -10075,7 +10075,7 @@
   },
   {
     "id": "word_782",
-    "word": "",
+    "word": "TRANSIENT",
     "roots": "trans- (across) + ire (to go)",
     "pronunciation": "TRAN shunt",
     "pos": "adj",
@@ -10089,7 +10089,7 @@
   },
   {
     "id": "word_783",
-    "word": "",
+    "word": "TREPIDATION",
     "roots": "trepidare (to tremble)",
     "pronunciation": "trep uh DAY shun",
     "pos": "n",
@@ -10103,7 +10103,7 @@
   },
   {
     "id": "word_784",
-    "word": "",
+    "word": "TURPITUDE",
     "roots": "turpis (vile/base) + -tude",
     "pronunciation": "TUR puh tood",
     "pos": "n",
@@ -10115,7 +10115,7 @@
   },
   {
     "id": "word_785",
-    "word": "",
+    "word": "UBIQUITOUS",
     "roots": "ubique (everywhere)",
     "pronunciation": "yoo BIK wuh tus",
     "pos": "adj",
@@ -10128,7 +10128,7 @@
   },
   {
     "id": "word_786",
-    "word": "",
+    "word": "UNCONSCIONABLE",
     "roots": "un- (not) + con- (with) + scire (to know)",
     "pronunciation": "un KAHN shuh nuh bul",
     "pos": "adj",
@@ -10141,7 +10141,7 @@
   },
   {
     "id": "word_787",
-    "word": "",
+    "word": "UNCTUOUS",
     "roots": "ungere (to anoint/smear with oil)",
     "pronunciation": "UNGK choo us",
     "pos": "adj",
@@ -10151,7 +10151,7 @@
   },
   {
     "id": "word_788",
-    "word": "",
+    "word": "UNIFORM",
     "roots": "unus (one) + forma (shape)",
     "pronunciation": "YOO nuh form",
     "pos": "adj",
@@ -10164,7 +10164,7 @@
   },
   {
     "id": "word_789",
-    "word": "",
+    "word": "UNREMITTING",
     "roots": "un- (not) + re- (back) + mittere (to send)",
     "pronunciation": "un ri MIT ing",
     "pos": "adj",
@@ -10176,7 +10176,7 @@
   },
   {
     "id": "word_790",
-    "word": "",
+    "word": "UNWITTING",
     "roots": "un- (not) + wit (to know)",
     "pronunciation": "un WIT ing",
     "pos": "adj",
@@ -10190,7 +10190,7 @@
   },
   {
     "id": "word_791",
-    "word": "",
+    "word": "URBANE",
     "roots": "urbs (city)",
     "pronunciation": "ur BAYN",
     "pos": "adj",
@@ -10203,7 +10203,7 @@
   },
   {
     "id": "word_792",
-    "word": "",
+    "word": "USURP",
     "roots": "usus (use) + rapere (to seize)",
     "pronunciation": "yoo SURP",
     "pos": "v",
@@ -10216,7 +10216,7 @@
   },
   {
     "id": "word_793",
-    "word": "",
+    "word": "UTILITARIAN",
     "roots": "uti (to use)",
     "pronunciation": "yoo til uh TAR ee un",
     "pos": "adj",
@@ -10228,7 +10228,7 @@
   },
   {
     "id": "word_794",
-    "word": "",
+    "word": "UTOPIA",
     "roots": "ou (not) + topos (place)",
     "pronunciation": "yoo TOH pee uh",
     "pos": "n",
@@ -10241,7 +10241,7 @@
   },
   {
     "id": "word_795",
-    "word": "",
+    "word": "VACILLATE",
     "roots": "vacillare (to sway to and fro)",
     "pronunciation": "VAS uh layt",
     "pos": "v",
@@ -10254,7 +10254,7 @@
   },
   {
     "id": "word_796",
-    "word": "",
+    "word": "VAPID",
     "roots": "vapidus (flat/flavorless)",
     "pronunciation": "VAP id",
     "pos": "adj",
@@ -10266,7 +10266,7 @@
   },
   {
     "id": "word_797",
-    "word": "",
+    "word": "VEHEMENT",
     "roots": "vehere (to carry)",
     "pronunciation": "VEE uh munt",
     "pos": "adj",
@@ -10278,7 +10278,7 @@
   },
   {
     "id": "word_798",
-    "word": "",
+    "word": "VENAL",
     "roots": "venum (sale) - open to bribery",
     "pronunciation": "VEEN ul",
     "pos": "adj",
@@ -10291,7 +10291,7 @@
   },
   {
     "id": "word_799",
-    "word": "",
+    "word": "VENERATE",
     "roots": "venus/vener- (love/desire)",
     "pronunciation": "VEN uh rayt",
     "pos": "v",
@@ -10304,7 +10304,7 @@
   },
   {
     "id": "word_800",
-    "word": "",
+    "word": "VERACITY",
     "roots": "verus (true)",
     "pronunciation": "vuh RAS uh tee",
     "pos": "n",
@@ -10316,7 +10316,7 @@
   },
   {
     "id": "word_801",
-    "word": "",
+    "word": "VERBOSE",
     "roots": "verbum (word)",
     "pronunciation": "vur BOHS",
     "pos": "adj",
@@ -10328,7 +10328,7 @@
   },
   {
     "id": "word_802",
-    "word": "",
+    "word": "VERISIMILITUDE",
     "roots": "verus (true) + similis (like)",
     "pronunciation": "ver uh si MIL uh tood",
     "pos": "n",
@@ -10341,7 +10341,7 @@
   },
   {
     "id": "word_803",
-    "word": "",
+    "word": "VERNACULAR",
     "roots": "verna (native slave)",
     "pronunciation": "vur NAK yuh lur",
     "pos": "n",
@@ -10353,7 +10353,7 @@
   },
   {
     "id": "word_804",
-    "word": "",
+    "word": "VESTIGE",
     "roots": "vestigium (footprint)",
     "pronunciation": "VES tij",
     "pos": "n",
@@ -10366,7 +10366,7 @@
   },
   {
     "id": "word_805",
-    "word": "",
+    "word": "VEX",
     "roots": "vexare (to shake/bother)",
     "pronunciation": "veks",
     "pos": "v",
@@ -10379,7 +10379,7 @@
   },
   {
     "id": "word_806",
-    "word": "",
+    "word": "VIABLE",
     "roots": "vita (life)",
     "pronunciation": "VYE uh bul",
     "pos": "adj",
@@ -10393,7 +10393,7 @@
   },
   {
     "id": "word_807",
-    "word": "",
+    "word": "VICARIOUS",
     "roots": "vicis (turn/change)",
     "pronunciation": "vye KAR ee us",
     "pos": "adj",
@@ -10405,7 +10405,7 @@
   },
   {
     "id": "word_808",
-    "word": "",
+    "word": "VICISSITUDE",
     "roots": "vicis (turn/change)",
     "pronunciation": "vi SIs uh tood",
     "pos": "n",
@@ -10418,7 +10418,7 @@
   },
   {
     "id": "word_809",
-    "word": "",
+    "word": "VILIFY",
     "roots": "vilis (cheap/base) + facere (to make)",
     "pronunciation": "VIL uh fye",
     "pos": "v",
@@ -10432,7 +10432,7 @@
   },
   {
     "id": "word_810",
-    "word": "",
+    "word": "VINDICATE",
     "roots": "vim (force) + dicere (to say)",
     "pronunciation": "VIN duh kayt",
     "pos": "v",
@@ -10445,7 +10445,7 @@
   },
   {
     "id": "word_811",
-    "word": "",
+    "word": "VINDICTIVE",
     "roots": "vim (force) + dicere (to say)",
     "pronunciation": "vin DIK tiv",
     "pos": "adj",
@@ -10458,7 +10458,7 @@
   },
   {
     "id": "word_812",
-    "word": "",
+    "word": "VIRTUOSO",
     "roots": "virtus (excellence/manliness)",
     "pronunciation": "vur choo WOH soh",
     "pos": "n",
@@ -10471,7 +10471,7 @@
   },
   {
     "id": "word_813",
-    "word": "",
+    "word": "VIRULENT",
     "roots": "virus (poison)",
     "pronunciation": "VIR uh lunt",
     "pos": "adj",
@@ -10485,7 +10485,7 @@
   },
   {
     "id": "word_814",
-    "word": "",
+    "word": "VISIONARY",
     "roots": "videre (to see)",
     "pronunciation": "VIZH uh ner ee",
     "pos": "n",
@@ -10498,7 +10498,7 @@
   },
   {
     "id": "word_815",
-    "word": "",
+    "word": "VITIATE",
     "roots": "vitium (fault/defect)",
     "pronunciation": "VISH ee ayt",
     "pos": "v",
@@ -10510,7 +10510,7 @@
   },
   {
     "id": "word_816",
-    "word": "",
+    "word": "VITRIOLIC",
     "roots": "vitreus (of glass) - biting like sulfuric acid",
     "pronunciation": "vi tree AHL ik",
     "pos": "adj",
@@ -10522,7 +10522,7 @@
   },
   {
     "id": "word_817",
-    "word": "",
+    "word": "VOCATION",
     "roots": "vocare (to call)",
     "pronunciation": "voh KAY shun",
     "pos": "n",
@@ -10535,7 +10535,7 @@
   },
   {
     "id": "word_818",
-    "word": "",
+    "word": "VOCIFEROUS",
     "roots": "vox/voc- (voice) + ferre (to carry)",
     "pronunciation": "voh SIF ur us",
     "pos": "adj",
@@ -10547,7 +10547,7 @@
   },
   {
     "id": "word_819",
-    "word": "",
+    "word": "VOLATILE",
     "roots": "volare (to fly)",
     "pronunciation": "VAHL uh tul",
     "pos": "adj",
@@ -10561,7 +10561,7 @@
   },
   {
     "id": "word_820",
-    "word": "",
+    "word": "VOLITION",
     "roots": "velle (to wish)",
     "pronunciation": "voh LISH un",
     "pos": "n",
@@ -10574,7 +10574,7 @@
   },
   {
     "id": "word_821",
-    "word": "",
+    "word": "WANTON",
     "roots": "wan- (lacking) + togen (disciplined)",
     "pronunciation": "WAHN tun",
     "pos": "adj",
@@ -10587,7 +10587,7 @@
   },
   {
     "id": "word_822",
-    "word": "",
+    "word": "WILLFUL",
     "roots": "will + ful",
     "pronunciation": "WIL ful",
     "pos": "adj",
@@ -10600,7 +10600,7 @@
   },
   {
     "id": "word_823",
-    "word": "",
+    "word": "WISTFUL",
     "roots": "wist (knowing/intent) + ful",
     "pronunciation": "WIST ful",
     "pos": "adj",
@@ -10613,7 +10613,7 @@
   },
   {
     "id": "word_824",
-    "word": "",
+    "word": "ZEALOUS",
     "roots": "zelos (jealousy/zeal)",
     "pronunciation": "ZEL us",
     "pos": "adj",
@@ -10626,7 +10626,7 @@
   },
   {
     "id": "word_825",
-    "word": "",
+    "word": "ABSTRACT",
     "roots": "ab- (away) + trahere (to draw/pull)",
     "pronunciation": "",
     "pos": "adj",
@@ -10636,7 +10636,7 @@
   },
   {
     "id": "word_826",
-    "word": "",
+    "word": "AESTHETIC",
     "roots": "aisthanesthai (to perceive/feel)",
     "pronunciation": "",
     "pos": "adj",
@@ -10646,7 +10646,7 @@
   },
   {
     "id": "word_827",
-    "word": "",
+    "word": "ALLEVIATE",
     "roots": "ad- (to) + levis (light)",
     "pronunciation": "",
     "pos": "v",
@@ -10656,7 +10656,7 @@
   },
   {
     "id": "word_828",
-    "word": "",
+    "word": "AMASS",
     "roots": "ad- (to) + massa (lump/mass)",
     "pronunciation": "",
     "pos": "v",
@@ -10666,7 +10666,7 @@
   },
   {
     "id": "word_829",
-    "word": "",
+    "word": "AMBIVALENT",
     "roots": "ambi- (both) + valere (to be strong)",
     "pronunciation": "",
     "pos": "adj",
@@ -10676,7 +10676,7 @@
   },
   {
     "id": "word_830",
-    "word": "",
+    "word": "ANALOGY",
     "roots": "ana- (according to) + logos (ratio/word)",
     "pronunciation": "",
     "pos": "n",
@@ -10686,7 +10686,7 @@
   },
   {
     "id": "word_831",
-    "word": "",
+    "word": "ANARCHY",
     "roots": "an- (without) + archos (leader/ruler)",
     "pronunciation": "",
     "pos": "n",
@@ -10696,7 +10696,7 @@
   },
   {
     "id": "word_832",
-    "word": "",
+    "word": "ANECDOTE",
     "roots": "an- (not) + ekdotos (published)",
     "pronunciation": "",
     "pos": "n",
@@ -10706,7 +10706,7 @@
   },
   {
     "id": "word_833",
-    "word": "",
+    "word": "ANIMATED",
     "roots": "anima (breath/soul)",
     "pronunciation": "",
     "pos": "adj",
@@ -10716,7 +10716,7 @@
   },
   {
     "id": "word_834",
-    "word": "",
+    "word": "ANOMALY",
     "roots": "an- (not) + homalos (even/same)",
     "pronunciation": "",
     "pos": "n",
@@ -10726,7 +10726,7 @@
   },
   {
     "id": "word_835",
-    "word": "",
+    "word": "APATHY",
     "roots": "a- (without) + pathos (feeling)",
     "pronunciation": "",
     "pos": "n",
@@ -10736,7 +10736,7 @@
   },
   {
     "id": "word_836",
-    "word": "",
+    "word": "APPEASE",
     "roots": "ad- (to) + pax/pac- (peace)",
     "pronunciation": "",
     "pos": "v",
@@ -10746,7 +10746,7 @@
   },
   {
     "id": "word_837",
-    "word": "",
+    "word": "APPREHENSIVE",
     "roots": "ad- (to) + prehendere (to seize)",
     "pronunciation": "",
     "pos": "adj",
@@ -10756,7 +10756,7 @@
   },
   {
     "id": "word_838",
-    "word": "",
+    "word": "ARROGANT",
     "roots": "ad- (to/for) + rogare (to ask)",
     "pronunciation": "",
     "pos": "adj",
@@ -10766,7 +10766,7 @@
   },
   {
     "id": "word_839",
-    "word": "",
+    "word": "ARTICULATE",
     "roots": "articulus (small joint)",
     "pronunciation": "",
     "pos": "adj",
@@ -10776,7 +10776,7 @@
   },
   {
     "id": "word_840",
-    "word": "",
+    "word": "ASCERTAIN",
     "roots": "ad- (to) + certus (settled/sure)",
     "pronunciation": "",
     "pos": "v",
@@ -10786,7 +10786,7 @@
   },
   {
     "id": "word_841",
-    "word": "",
+    "word": "AUTHENTIC",
     "roots": "autos (self) + hentes (doer)",
     "pronunciation": "",
     "pos": "adj",
@@ -10796,7 +10796,7 @@
   },
   {
     "id": "word_842",
-    "word": "",
+    "word": "BELITTLE",
     "roots": "be- (make) + little",
     "pronunciation": "",
     "pos": "v",
@@ -10806,7 +10806,7 @@
   },
   {
     "id": "word_843",
-    "word": "",
+    "word": "BELLIGERENT",
     "roots": "bellum (war) + gerere (to carry/wage)",
     "pronunciation": "",
     "pos": "adj",
@@ -10816,7 +10816,7 @@
   },
   {
     "id": "word_844",
-    "word": "",
+    "word": "BENEVOLENT",
     "roots": "bene (good) + velle (to wish)",
     "pronunciation": "",
     "pos": "adj",
@@ -10826,7 +10826,7 @@
   },
   {
     "id": "word_845",
-    "word": "",
+    "word": "BENIGN",
     "roots": "bene (good) + genus (birth/kind)",
     "pronunciation": "",
     "pos": "adj",
@@ -10836,7 +10836,7 @@
   },
   {
     "id": "word_846",
-    "word": "",
+    "word": "BIAS",
     "roots": "biax (slanting)",
     "pronunciation": "",
     "pos": "adj",
@@ -10846,7 +10846,7 @@
   },
   {
     "id": "word_847",
-    "word": "",
+    "word": "BREVITY",
     "roots": "brevis (short)",
     "pronunciation": "",
     "pos": "n",
@@ -10856,7 +10856,7 @@
   },
   {
     "id": "word_848",
-    "word": "",
+    "word": "CANDOR",
     "roots": "candere (to shine/be white)",
     "pronunciation": "",
     "pos": "adj",
@@ -10866,7 +10866,7 @@
   },
   {
     "id": "word_849",
-    "word": "",
+    "word": "COMPLACENT",
     "roots": "com- (intensive) + placere (to please)",
     "pronunciation": "",
     "pos": "adj",
@@ -10876,7 +10876,7 @@
   },
   {
     "id": "word_850",
-    "word": "",
+    "word": "COMPLIANT",
     "roots": "com- (intensive) + plere (to fill) -> complere (to fulfill)",
     "pronunciation": "",
     "pos": "adj",
@@ -10886,7 +10886,7 @@
   },
   {
     "id": "word_851",
-    "word": "",
+    "word": "CONCISE",
     "roots": "com- (intensive) + caedere (to cut)",
     "pronunciation": "",
     "pos": "adj",
@@ -10896,7 +10896,7 @@
   },
   {
     "id": "word_852",
-    "word": "",
+    "word": "CONDONE",
     "roots": "com- (intensive) + donare (to give)",
     "pronunciation": "",
     "pos": "v",
@@ -10906,7 +10906,7 @@
   },
   {
     "id": "word_853",
-    "word": "",
+    "word": "CONGENIAL",
     "roots": "com- (together) + genialis (of birth/spirit)",
     "pronunciation": "",
     "pos": "adj",
@@ -10916,7 +10916,7 @@
   },
   {
     "id": "word_854",
-    "word": "",
+    "word": "CONSPICUOUS",
     "roots": "com- (intensive) + specere (to look at)",
     "pronunciation": "",
     "pos": "adj",
@@ -10926,7 +10926,7 @@
   },
   {
     "id": "word_855",
-    "word": "",
+    "word": "CONTEMPT",
     "roots": "com- (intensive) + temnere (to slight/despise)",
     "pronunciation": "",
     "pos": "adj",
@@ -10936,7 +10936,7 @@
   },
   {
     "id": "word_856",
-    "word": "",
+    "word": "DEBILITATE",
     "roots": "de- (away) + bilis (strength)",
     "pronunciation": "",
     "pos": "v",
@@ -10946,7 +10946,7 @@
   },
   {
     "id": "word_857",
-    "word": "",
+    "word": "DEFERENCE",
     "roots": "de- (down) + ferre (to bring/carry)",
     "pronunciation": "",
     "pos": "n",
@@ -10956,7 +10956,7 @@
   },
   {
     "id": "word_858",
-    "word": "",
+    "word": "DENOUNCE",
     "roots": "de- (down) + nuntiare (to announce)",
     "pronunciation": "",
     "pos": "v",
@@ -10966,7 +10966,7 @@
   },
   {
     "id": "word_859",
-    "word": "",
+    "word": "DEPLETE",
     "roots": "de- (away) + plere (to fill)",
     "pronunciation": "",
     "pos": "v",
@@ -10976,7 +10976,7 @@
   },
   {
     "id": "word_860",
-    "word": "",
+    "word": "DESPONDENT",
     "roots": "de- (away) + spondere (to promise)",
     "pronunciation": "",
     "pos": "adj",
@@ -10986,7 +10986,7 @@
   },
   {
     "id": "word_861",
-    "word": "",
+    "word": "DETER",
     "roots": "de- (away) + terrere (to frighten)",
     "pronunciation": "",
     "pos": "v",
@@ -10996,7 +10996,7 @@
   },
   {
     "id": "word_862",
-    "word": "",
+    "word": "DIGRESS",
     "roots": "dis- (apart) + gradi (to step)",
     "pronunciation": "",
     "pos": "v",
@@ -11006,7 +11006,7 @@
   },
   {
     "id": "word_863",
-    "word": "",
+    "word": "DILIGENT",
     "roots": "dis- (apart) + legere (to choose/gather)",
     "pronunciation": "",
     "pos": "adj",
@@ -11016,7 +11016,7 @@
   },
   {
     "id": "word_864",
-    "word": "",
+    "word": "DISCERNMENT",
     "roots": "dis- (apart) + cernere (to sift/separate)",
     "pronunciation": "",
     "pos": "adj",
@@ -11026,7 +11026,7 @@
   },
   {
     "id": "word_865",
-    "word": "",
+    "word": "DISCRIMINATE",
     "roots": "dis- (apart) + crimen (judgment)",
     "pronunciation": "",
     "pos": "v",
@@ -11036,7 +11036,7 @@
   },
   {
     "id": "word_866",
-    "word": "",
+    "word": "DISDAIN",
     "roots": "dis- (not) + dignari (to deem worthy)",
     "pronunciation": "",
     "pos": "v",
@@ -11046,7 +11046,7 @@
   },
   {
     "id": "word_867",
-    "word": "",
+    "word": "DISPARAGE",
     "roots": "dis- (not) + par (equal)",
     "pronunciation": "",
     "pos": "v",
@@ -11056,7 +11056,7 @@
   },
   {
     "id": "word_868",
-    "word": "",
+    "word": "DISPASSIONATE",
     "roots": "dis- (not) + pati (to suffer) -> passion",
     "pronunciation": "",
     "pos": "adj",
@@ -11066,7 +11066,7 @@
   },
   {
     "id": "word_869",
-    "word": "",
+    "word": "DISSENT",
     "roots": "dis- (apart) + sentire (to feel)",
     "pronunciation": "",
     "pos": "n",
@@ -11076,7 +11076,7 @@
   },
   {
     "id": "word_870",
-    "word": "",
+    "word": "DISTINGUISH",
     "roots": "dis- (apart) + stinguere (to prick)",
     "pronunciation": "",
     "pos": "v",
@@ -11086,7 +11086,7 @@
   },
   {
     "id": "word_871",
-    "word": "",
+    "word": "DIVERSE",
     "roots": "dis- (apart) + vertere (to turn)",
     "pronunciation": "",
     "pos": "adj",
@@ -11096,7 +11096,7 @@
   },
   {
     "id": "word_872",
-    "word": "",
+    "word": "DIVERT",
     "roots": "dis- (apart) + vertere (to turn)",
     "pronunciation": "",
     "pos": "v",
@@ -11106,7 +11106,7 @@
   },
   {
     "id": "word_873",
-    "word": "",
+    "word": "DUBIOUS",
     "roots": "dubius (doubtful) from duo (two)",
     "pronunciation": "",
     "pos": "adj",
@@ -11116,7 +11116,7 @@
   },
   {
     "id": "word_874",
-    "word": "",
+    "word": "ECCENTRIC",
     "roots": "ek- (out of) + kentron (center)",
     "pronunciation": "",
     "pos": "adj",
@@ -11126,7 +11126,7 @@
   },
   {
     "id": "word_875",
-    "word": "",
+    "word": "ELABORATE",
     "roots": "ex- (out) + laborare (to work)",
     "pronunciation": "",
     "pos": "adj",
@@ -11136,7 +11136,7 @@
   },
   {
     "id": "word_876",
-    "word": "",
+    "word": "ELOQUENT",
     "roots": "ex- (out) + loqui (to speak)",
     "pronunciation": "",
     "pos": "adj",
@@ -11146,7 +11146,7 @@
   },
   {
     "id": "word_877",
-    "word": "",
+    "word": "EMPIRICAL",
     "roots": "en- (in) + peira (trial/experince)",
     "pronunciation": "",
     "pos": "adj",
@@ -11156,7 +11156,7 @@
   },
   {
     "id": "word_878",
-    "word": "",
+    "word": "ENCROACH",
     "roots": "en- (in) + croc (hook)",
     "pronunciation": "",
     "pos": "v",
@@ -11166,7 +11166,7 @@
   },
   {
     "id": "word_879",
-    "word": "",
+    "word": "ENHANCE",
     "roots": "in- (in) + altus (high)",
     "pronunciation": "",
     "pos": "v",
@@ -11176,7 +11176,7 @@
   },
   {
     "id": "word_880",
-    "word": "",
+    "word": "EVOKE",
     "roots": "ex- (out) + vocare (to call)",
     "pronunciation": "",
     "pos": "v",
@@ -11186,7 +11186,7 @@
   },
   {
     "id": "word_881",
-    "word": "",
+    "word": "EXPLICIT",
     "roots": "ex- (out) + plicare (to fold)",
     "pronunciation": "",
     "pos": "adj",
@@ -11196,7 +11196,7 @@
   },
   {
     "id": "word_882",
-    "word": "",
+    "word": "EXTRANEOUS",
     "roots": "extra- (outside) + -aneus",
     "pronunciation": "",
     "pos": "adj",
@@ -11206,7 +11206,7 @@
   },
   {
     "id": "word_883",
-    "word": "",
+    "word": "FANATIC",
     "roots": "fanum (temple)",
     "pronunciation": "",
     "pos": "n",
@@ -11216,7 +11216,7 @@
   },
   {
     "id": "word_884",
-    "word": "",
+    "word": "FICKLE",
     "roots": "ficol (deceitful/tricky)",
     "pronunciation": "",
     "pos": "adj",
@@ -11226,7 +11226,7 @@
   },
   {
     "id": "word_885",
-    "word": "",
+    "word": "FRIVOLOUS",
     "roots": "frivolus (silly/fragile)",
     "pronunciation": "",
     "pos": "adj",
@@ -11236,7 +11236,7 @@
   },
   {
     "id": "word_886",
-    "word": "",
+    "word": "FUTILE",
     "roots": "fundere (to pour)",
     "pronunciation": "",
     "pos": "adj",
@@ -11246,7 +11246,7 @@
   },
   {
     "id": "word_887",
-    "word": "",
+    "word": "GULLIBLE",
     "roots": "gull (to swallow/dupe) + -ible",
     "pronunciation": "",
     "pos": "adj",
@@ -11256,7 +11256,7 @@
   },
   {
     "id": "word_888",
-    "word": "",
+    "word": "HEED",
     "roots": "hedan (to observe/protect)",
     "pronunciation": "",
     "pos": "v",
@@ -11266,7 +11266,7 @@
   },
   {
     "id": "word_889",
-    "word": "",
+    "word": "HYPOTHETICAL",
     "roots": "hypo- (under) + tithenai (to put)",
     "pronunciation": "",
     "pos": "adj",
@@ -11276,7 +11276,7 @@
   },
   {
     "id": "word_890",
-    "word": "",
+    "word": "IMPARTIAL",
     "roots": "in- (not) + pars/part- (part)",
     "pronunciation": "",
     "pos": "adj",
@@ -11286,7 +11286,7 @@
   },
   {
     "id": "word_891",
-    "word": "",
+    "word": "IMPERATIVE",
     "roots": "in- (into) + parare (to make ready/command)",
     "pronunciation": "",
     "pos": "adj",
@@ -11296,7 +11296,7 @@
   },
   {
     "id": "word_892",
-    "word": "",
+    "word": "IMPLICIT",
     "roots": "in- (into) + plicare (to fold)",
     "pronunciation": "",
     "pos": "adj",
@@ -11306,7 +11306,7 @@
   },
   {
     "id": "word_893",
-    "word": "",
+    "word": "INADVERTENT",
     "roots": "in- (not) + ad- (to) + vertere (to turn)",
     "pronunciation": "",
     "pos": "adj",
@@ -11316,7 +11316,7 @@
   },
   {
     "id": "word_894",
-    "word": "",
+    "word": "INCESSANT",
     "roots": "in- (not) + cedere (to yield/stop)",
     "pronunciation": "",
     "pos": "adj",
@@ -11326,7 +11326,7 @@
   },
   {
     "id": "word_895",
-    "word": "",
+    "word": "INCOHERENT",
     "roots": "in- (not) + com- (together) + haerere (to stick)",
     "pronunciation": "",
     "pos": "adj",
@@ -11336,7 +11336,7 @@
   },
   {
     "id": "word_896",
-    "word": "",
+    "word": "INDIFFERENT",
     "roots": "in- (not) + dis- (apart) + ferre (to bring/bear)",
     "pronunciation": "",
     "pos": "adj",
@@ -11346,7 +11346,7 @@
   },
   {
     "id": "word_897",
-    "word": "",
+    "word": "INDIGNATION",
     "roots": "in- (not) + dignus (worthy)",
     "pronunciation": "",
     "pos": "n",
@@ -11356,7 +11356,7 @@
   },
   {
     "id": "word_898",
-    "word": "",
+    "word": "INDULGENT",
     "roots": "in- (in) + dulgere (to be long/patient)",
     "pronunciation": "",
     "pos": "adj",
@@ -11366,7 +11366,7 @@
   },
   {
     "id": "word_899",
-    "word": "",
+    "word": "INEVITABLE",
     "roots": "in- (not) + ex- (out) + vitare (to avoid)",
     "pronunciation": "",
     "pos": "adj",
@@ -11376,7 +11376,7 @@
   },
   {
     "id": "word_900",
-    "word": "",
+    "word": "INNATE",
     "roots": "in- (in) + nasci (to be born)",
     "pronunciation": "",
     "pos": "adj",
@@ -11386,7 +11386,7 @@
   },
   {
     "id": "word_901",
-    "word": "",
+    "word": "INNOVATION",
     "roots": "in- (into) + novus (new)",
     "pronunciation": "",
     "pos": "n",
@@ -11396,7 +11396,7 @@
   },
   {
     "id": "word_902",
-    "word": "",
+    "word": "INSTIGATE",
     "roots": "in- (in) + stigare (to prick/goad)",
     "pronunciation": "",
     "pos": "v",
@@ -11406,7 +11406,7 @@
   },
   {
     "id": "word_903",
-    "word": "",
+    "word": "IRONIC",
     "roots": "eiron (dissembler/one who says less than he thinks)",
     "pronunciation": "",
     "pos": "adj",
@@ -11416,7 +11416,7 @@
   },
   {
     "id": "word_904",
-    "word": "",
+    "word": "JEOPARDY",
     "roots": "jeu parti (divided game/even chances)",
     "pronunciation": "",
     "pos": "n",
@@ -11426,7 +11426,7 @@
   },
   {
     "id": "word_905",
-    "word": "",
+    "word": "LAMENT",
     "roots": "lamentum (wailing)",
     "pronunciation": "",
     "pos": "v",
@@ -11436,7 +11436,7 @@
   },
   {
     "id": "word_906",
-    "word": "",
+    "word": "LETHARGY",
     "roots": "lethe (forgetfulness) + argos (idle)",
     "pronunciation": "",
     "pos": "n",
@@ -11446,7 +11446,7 @@
   },
   {
     "id": "word_907",
-    "word": "",
+    "word": "MALICIOUS",
     "roots": "malus (bad/evil)",
     "pronunciation": "",
     "pos": "adj",
@@ -11456,7 +11456,7 @@
   },
   {
     "id": "word_908",
-    "word": "",
+    "word": "MALLEABLE",
     "roots": "malleus (hammer)",
     "pronunciation": "",
     "pos": "adj",
@@ -11466,7 +11466,7 @@
   },
   {
     "id": "word_909",
-    "word": "",
+    "word": "MEDIATION",
     "roots": "medius (middle)",
     "pronunciation": "",
     "pos": "n",
@@ -11476,7 +11476,7 @@
   },
   {
     "id": "word_910",
-    "word": "",
+    "word": "MERGER",
     "roots": "mergere (to plunge/sink)",
     "pronunciation": "",
     "pos": "n",
@@ -11486,7 +11486,7 @@
   },
   {
     "id": "word_911",
-    "word": "",
+    "word": "NEGLIGENCE",
     "roots": "nec- (not) + legere (to pick/care)",
     "pronunciation": "",
     "pos": "n",
@@ -11496,7 +11496,7 @@
   },
   {
     "id": "word_912",
-    "word": "",
+    "word": "NEUTRAL",
     "roots": "neuter (neither)",
     "pronunciation": "",
     "pos": "adj",
@@ -11506,7 +11506,7 @@
   },
   {
     "id": "word_913",
-    "word": "",
+    "word": "OMINOUS",
     "roots": "omen (foreboding)",
     "pronunciation": "",
     "pos": "adj",
@@ -11516,7 +11516,7 @@
   },
   {
     "id": "word_914",
-    "word": "",
+    "word": "PERIPHERAL",
     "roots": "peri- (around) + pherein (to carry)",
     "pronunciation": "",
     "pos": "adj",
@@ -11526,7 +11526,7 @@
   },
   {
     "id": "word_915",
-    "word": "",
+    "word": "PERVADE",
     "roots": "per- (through) + vadere (to go)",
     "pronunciation": "",
     "pos": "v",
@@ -11536,7 +11536,7 @@
   },
   {
     "id": "word_916",
-    "word": "",
+    "word": "PRAGMATIC",
     "roots": "pragma (deed/act)",
     "pronunciation": "",
     "pos": "adj",
@@ -11546,7 +11546,7 @@
   },
   {
     "id": "word_917",
-    "word": "",
+    "word": "PREDECESSOR",
     "roots": "prae- (before) + de- (away) + cedere (to go)",
     "pronunciation": "",
     "pos": "adj",
@@ -11556,7 +11556,7 @@
   },
   {
     "id": "word_918",
-    "word": "",
+    "word": "PROFOUND",
     "roots": "pro- (before) + fundus (bottom)",
     "pronunciation": "",
     "pos": "adj",
@@ -11566,7 +11566,7 @@
   },
   {
     "id": "word_919",
-    "word": "",
+    "word": "PROFUSE",
     "roots": "pro- (forth) + fundere (to pour)",
     "pronunciation": "",
     "pos": "adj",
@@ -11576,7 +11576,7 @@
   },
   {
     "id": "word_920",
-    "word": "",
+    "word": "PROVOCATIVE",
     "roots": "pro- (forth) + vocare (to call)",
     "pronunciation": "",
     "pos": "adj",
@@ -11586,7 +11586,7 @@
   },
   {
     "id": "word_921",
-    "word": "",
+    "word": "PRUDENT",
     "roots": "providens (foreseeing)",
     "pronunciation": "",
     "pos": "adj",
@@ -11596,7 +11596,7 @@
   },
   {
     "id": "word_922",
-    "word": "",
+    "word": "RECIPROCATE",
     "roots": "re- (back) + pro- (forward)",
     "pronunciation": "",
     "pos": "v",
@@ -11606,7 +11606,7 @@
   },
   {
     "id": "word_923",
-    "word": "",
+    "word": "REDUNDANT",
     "roots": "re- (back/again) + undare (to surge/overflow)",
     "pronunciation": "",
     "pos": "adj",
@@ -11616,7 +11616,7 @@
   },
   {
     "id": "word_924",
-    "word": "",
+    "word": "REFUTE",
     "roots": "re- (back) + futare (to beat)",
     "pronunciation": "",
     "pos": "v",
@@ -11626,7 +11626,7 @@
   },
   {
     "id": "word_925",
-    "word": "",
+    "word": "REJUVENATE",
     "roots": "re- (again) + juvenis (young)",
     "pronunciation": "",
     "pos": "v",
@@ -11636,7 +11636,7 @@
   },
   {
     "id": "word_926",
-    "word": "",
+    "word": "RELEVANT",
     "roots": "re- (up) + levare (to lift)",
     "pronunciation": "",
     "pos": "adj",
@@ -11646,7 +11646,7 @@
   },
   {
     "id": "word_927",
-    "word": "",
+    "word": "REMORSE",
     "roots": "re- (again) + mordere (to bite)",
     "pronunciation": "",
     "pos": "n",
@@ -11656,7 +11656,7 @@
   },
   {
     "id": "word_928",
-    "word": "",
+    "word": "REPRESS",
     "roots": "re- (back) + premere (to press)",
     "pronunciation": "",
     "pos": "v",
@@ -11666,7 +11666,7 @@
   },
   {
     "id": "word_929",
-    "word": "",
+    "word": "REPUDIATE",
     "roots": "re- (away) + pes/ped- (foot) -> pudere (to cause shame)",
     "pronunciation": "",
     "pos": "v",
@@ -11676,7 +11676,7 @@
   },
   {
     "id": "word_930",
-    "word": "",
+    "word": "RESIGNATION",
     "roots": "re- (back) + signare (to sign)",
     "pronunciation": "",
     "pos": "adj",
@@ -11686,7 +11686,7 @@
   },
   {
     "id": "word_931",
-    "word": "",
+    "word": "RETRACT",
     "roots": "re- (back) + trahere (to draw/drag)",
     "pronunciation": "",
     "pos": "v",
@@ -11696,7 +11696,7 @@
   },
   {
     "id": "word_932",
-    "word": "",
+    "word": "RIGOROUS",
     "roots": "rigere (to be stiff)",
     "pronunciation": "",
     "pos": "adj",
@@ -11706,7 +11706,7 @@
   },
   {
     "id": "word_933",
-    "word": "",
+    "word": "SCANTY",
     "roots": "skammr (short) -> scant",
     "pronunciation": "",
     "pos": "adj",
@@ -11716,7 +11716,7 @@
   },
   {
     "id": "word_934",
-    "word": "",
+    "word": "SCRUTINIZE",
     "roots": "scrutari (to search/examine) from scruta (trash)",
     "pronunciation": "",
     "pos": "v",
@@ -11726,7 +11726,7 @@
   },
   {
     "id": "word_935",
-    "word": "",
+    "word": "SKEPTICAL",
     "roots": "skeptesthai (to look/consider)",
     "pronunciation": "",
     "pos": "adj",
@@ -11736,7 +11736,7 @@
   },
   {
     "id": "word_936",
-    "word": "",
+    "word": "SOLEMN",
     "roots": "sollus (whole) + annus (year) -> annual religious festival",
     "pronunciation": "",
     "pos": "adj",
@@ -11746,7 +11746,7 @@
   },
   {
     "id": "word_937",
-    "word": "",
+    "word": "SQUANDER",
     "roots": "unknown origin, perhaps dialectal",
     "pronunciation": "",
     "pos": "v",
@@ -11756,7 +11756,7 @@
   },
   {
     "id": "word_938",
-    "word": "",
+    "word": "STAGNATION",
     "roots": "stagnum (standing water)",
     "pronunciation": "",
     "pos": "n",
@@ -11766,7 +11766,7 @@
   },
   {
     "id": "word_939",
-    "word": "",
+    "word": "STRINGENT",
     "roots": "stringere (to bind tight)",
     "pronunciation": "",
     "pos": "adj",
@@ -11776,7 +11776,7 @@
   },
   {
     "id": "word_940",
-    "word": "",
+    "word": "SUBSTANTIATE",
     "roots": "sub- (under) + stare (to stand)",
     "pronunciation": "",
     "pos": "v",
@@ -11786,7 +11786,7 @@
   },
   {
     "id": "word_941",
-    "word": "",
+    "word": "SUBTLE",
     "roots": "sub- (under) + tela (web)",
     "pronunciation": "",
     "pos": "adj",
@@ -11796,7 +11796,7 @@
   },
   {
     "id": "word_942",
-    "word": "",
+    "word": "SUPERFICIAL",
     "roots": "super- (above/over) + facies (face)",
     "pronunciation": "",
     "pos": "adj",
@@ -11806,7 +11806,7 @@
   },
   {
     "id": "word_943",
-    "word": "",
+    "word": "TANGIBLE",
     "roots": "tangere (to touch)",
     "pronunciation": "",
     "pos": "adj",
@@ -11816,7 +11816,7 @@
   },
   {
     "id": "word_944",
-    "word": "",
+    "word": "TEMPERATE",
     "roots": "temperare (to mix/moderate)",
     "pronunciation": "",
     "pos": "adj",
@@ -11826,7 +11826,7 @@
   },
   {
     "id": "word_945",
-    "word": "",
+    "word": "TENACIOUS",
     "roots": "tenere (to hold)",
     "pronunciation": "",
     "pos": "adj",
@@ -11836,7 +11836,7 @@
   },
   {
     "id": "word_946",
-    "word": "",
+    "word": "TENTATIVE",
     "roots": "tentare (to handle/try)",
     "pronunciation": "",
     "pos": "adj",
@@ -11846,7 +11846,7 @@
   },
   {
     "id": "word_947",
-    "word": "",
+    "word": "UNDERMINE",
     "roots": "under + mine",
     "pronunciation": "",
     "pos": "v",
@@ -11856,7 +11856,7 @@
   },
   {
     "id": "word_948",
-    "word": "",
+    "word": "UNDERSCORE",
     "roots": "under + score",
     "pronunciation": "",
     "pos": "v",
@@ -11866,7 +11866,7 @@
   },
   {
     "id": "word_949",
-    "word": "",
+    "word": "UNIFORM",
     "roots": "unus (one) + forma (shape)",
     "pronunciation": "",
     "pos": "adj",
@@ -11876,7 +11876,7 @@
   },
   {
     "id": "word_950",
-    "word": "",
+    "word": "UNPRECEDENTED",
     "roots": "un- (not) + prae- (before) + cedere (to go)",
     "pronunciation": "",
     "pos": "adj",
@@ -11886,7 +11886,7 @@
   },
   {
     "id": "word_951",
-    "word": "",
+    "word": "WILLFUL",
     "roots": "will + ful",
     "pronunciation": "",
     "pos": "adj",
