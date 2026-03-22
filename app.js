@@ -9,13 +9,13 @@ import { getFirestore, doc, getDoc, setDoc } from "https://www.gstatic.com/fireb
  * --------------------------------------------------------------------------
  */
 const firebaseConfig = {
-  apiKey: "AIzaSyCaK4SbAEUjIE65jizDY2fqbvUpZMspng8",
-  authDomain: "voca-9f610.firebaseapp.com",
-  projectId: "voca-9f610",
-  storageBucket: "voca-9f610.firebasestorage.app",
-  messagingSenderId: "869261146669",
-  appId: "1:869261146669:web:ce613469bc3986cc8f96a4",
-  measurementId: "G-V2MNKMCFLQ"
+  apiKey: "AIzaSyBJwNFg9Q8oCAeDH7vaDs62q2g3AWHz8ZI",
+  authDomain: "voca2-57526.firebaseapp.com",
+  projectId: "voca2-57526",
+  storageBucket: "voca2-57526.firebasestorage.app",
+  messagingSenderId: "860798645039",
+  appId: "1:860798645039:web:9789d5e07aac2613cca7da",
+  measurementId: "G-E4RDLP1R8T"
 };
 
 let app, auth, db;
